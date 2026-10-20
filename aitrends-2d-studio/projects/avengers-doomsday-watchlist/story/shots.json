@@ -1,0 +1,3027 @@
+{
+ "title": "Only These Movies You NEED to Watch Before Avengers: Doomsday",
+ "duration": 346.0,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 3.03,
+   "line": "Stop watching every single Marvel movie!",
+   "scene": "COLD OPEN freeze: fan on couch mid-binge, popcorn bursts and FREEZES on 'Stop', pause badge, cool tint",
+   "set": "living",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "freeze",
+     "gain": -5
+    },
+    {
+     "at": 0.32,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s002",
+   "start": 3.03,
+   "end": 6.18,
+   "line": "Because if you're planning to watch Avengers: Doomsday,",
+   "scene": "insert: fan's hand holds a glowing ticket AVENGERS: DOOMSDAY · DEC 18, TV glow",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s003",
+   "start": 6.18,
+   "end": 7.74,
+   "line": "you don't need to spend weeks",
+   "scene": "wall calendar pages rip away week after week (WEEK badge counts up)",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s004",
+   "start": 7.74,
+   "end": 9.88,
+   "line": "rewatching the entire MCU.",
+   "scene": "tilt up a towering mountain of movie cases, tiny fan at the bottom looking up",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -14,
+     "dur": 2.0
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s005",
+   "start": 9.88,
+   "end": 13.45,
+   "line": "But there are a few movies you absolutely should prioritize.",
+   "scene": "medium: fan pulls just a few glowing cases out of the mountain, they float up glowing gold",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s006",
+   "start": 13.45,
+   "end": 15.45,
+   "line": "From the return of legendary heroes",
+   "scene": "legendary heroes walk out of the fog on a rooftop, backlit (shield, hammer, cloak)",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s007",
+   "start": 15.45,
+   "end": 17.71,
+   "line": "to the arrival of Doctor Doom,",
+   "scene": "Doom's throne hall establishing: lightning, green braziers flare, Doom turns to camera",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "thunder",
+     "gain": -6
+    },
+    {
+     "at": 1.4,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s008",
+   "start": 17.71,
+   "end": 19.93,
+   "line": "these movies could make a huge difference",
+   "scene": "bigFace fan: confused -> awe as the TV light flares",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 19.93,
+   "end": 23.21,
+   "line": "in how you experience Marvel's next massive crossover.",
+   "scene": "3D orbit: packed cinema auditorium, giant glowing screen",
+   "set": "cinema3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s010",
+   "start": 23.21,
+   "end": 27.46,
+   "line": "So, here are the 6 movies you should watch before Avengers: Doomsday!",
+   "scene": "TITLE CARD over cinema screen glow: 6 MOVIES TO WATCH BEFORE / AVENGERS: DOOMSDAY",
+   "set": "cinema",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -5
+    },
+    {
+     "at": 1.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "s011",
+   "start": 27.46,
+   "end": 31.13,
+   "line": "And trust me, the last one is especially important.",
+   "scene": "six movie cases on a shelf, push in to the last one: locked, pulsing green with a '?'",
+   "set": "shelf",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s012",
+   "start": 31.13,
+   "end": 33.17,
+   "line": "Let's start with Thunderbolts.",
+   "scene": "FILM CARD #6 THUNDERBOLTS* (lightning bolt art)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.35,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 33.17,
+   "end": 33.97,
+   "line": "Why?",
+   "scene": "bigFace fan 'Why?' confused, quick",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 33.97,
+   "end": 37.62,
+   "line": "Because the Avengers aren't the only team in the game anymore.",
+   "scene": "rooftop: the old Avengers on the left, a new team (Thunderbolts) steps in from the right",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s015",
+   "start": 37.62,
+   "end": 39.44,
+   "line": "This movie brings together a group of",
+   "scene": "dark vault, red bulbs: the Thunderbolts gather one by one",
+   "set": "vault",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s016",
+   "start": 39.44,
+   "end": 41.06,
+   "line": "morally complicated characters",
+   "scene": "insert: moral compass needle swinging between HERO and VILLAIN",
+   "set": "vault",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 0.9,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 41.06,
+   "end": 44.15,
+   "line": "who eventually become the New Avengers.",
+   "scene": "team lineup, a NEW AVENGERS sign flickers on above them, tilt up",
+   "set": "vault",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "buzz",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s018",
+   "start": 44.15,
+   "end": 46.86,
+   "line": "And with characters like Yelena Belova,",
+   "scene": "Yelena medium on the rooftop ledge, wind, callout YELENA BELOVA",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s019",
+   "start": 46.86,
+   "end": 47.78,
+   "line": "Bucky Barnes,",
+   "scene": "Bucky, metal arm glints, callout BUCKY BARNES",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s020",
+   "start": 47.78,
+   "end": 50.0,
+   "line": "and Sentry entering the bigger picture,",
+   "scene": "Sentry hovering in golden light, god rays, camera pulls out to the bigger picture",
+   "set": "sky",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "powerup",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 50.0,
+   "end": 52.0,
+   "line": "this team could be extremely important",
+   "scene": "wide: the whole team on the rooftop at night, city below",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s022",
+   "start": 52.0,
+   "end": 54.2,
+   "line": "when the next major threat arrives.",
+   "scene": "sky turns green, storm clouds swirl into a mask shape, the team looks up",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "thunder",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s023",
+   "start": 54.2,
+   "end": 56.58,
+   "line": "Because when Doctor Doom comes knocking,",
+   "scene": "insert: a metal gauntlet knocks on a huge door, green light leaks underneath",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.35,
+     "name": "hit",
+     "gain": -6
+    },
+    {
+     "at": 1.65,
+     "name": "hit",
+     "gain": -6
+    },
+    {
+     "at": 1.95,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 56.58,
+   "end": 59.74,
+   "line": "the world might need a very different kind of hero.",
+   "scene": "bigFace Yelena, half shadow, smirk: a different kind of hero",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s025",
+   "start": 59.74,
+   "end": 61.99,
+   "line": "Next up, Deadpool & Wolverine.",
+   "scene": "FILM CARD #5 DEADPOOL & WOLVERINE (crossed katanas + claws art)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.35,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 61.99,
+   "end": 64.95,
+   "line": "And this one is important for one massive reason:",
+   "scene": "the Void desert: Deadpool and Wolverine back to back, Deadpool waves at camera",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s027",
+   "start": 64.95,
+   "end": 66.21,
+   "line": "the multiverse.",
+   "scene": "zoom out from the duo into the multiverse: countless universe bubbles",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 66.21,
+   "end": 70.65,
+   "line": "This movie connects Deadpool and Wolverine's world to the larger Marvel multiverse",
+   "scene": "a small bubble (Deadpool & Wolverine) links to the big Marvel multiverse cluster",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s029",
+   "start": 70.65,
+   "end": 72.85,
+   "line": "and brings the legacy of Fox's",
+   "scene": "sepia film strip unspools: frames of classic Fox-era mutant silhouettes",
+   "set": "archive",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "clock",
+     "gain": -18
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s030",
+   "start": 72.85,
+   "end": 75.58,
+   "line": "Marvel characters into the conversation.",
+   "scene": "the film-strip mutants step into the MCU: Wolverine & Magneto join Cap & Thor, speech bubbles",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 75.58,
+   "end": 77.44,
+   "line": "And here's why that matters.",
+   "scene": "bigFace Deadpool leaning into camera, eyes squint: here's why",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s032",
+   "start": 77.44,
+   "end": 81.27,
+   "line": "Avengers: Doomsday features legendary X-Men characters,",
+   "scene": "dark stage: AVENGERS: DOOMSDAY marquee, three spotlights wait for legends",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -14,
+     "dur": 2.6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 81.27,
+   "end": 82.71,
+   "line": "including Professor X,",
+   "scene": "spotlight on Professor X in his wheelchair, telepathy rings, label",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -12
+    },
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s034",
+   "start": 82.71,
+   "end": 83.39,
+   "line": "Magneto,",
+   "scene": "spotlight: Magneto, helmet and cape, metal bits floating, label",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "impact",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 83.39,
+   "end": 84.52,
+   "line": "and Cyclops.",
+   "scene": "spotlight: Cyclops, red visor beam fires, label",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -12
+    },
+    {
+     "at": 0.35,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 84.52,
+   "end": 86.88,
+   "line": "That means the old Marvel universe could collide",
+   "scene": "two universes drift together: warm sepia old-Marvel sphere vs blue MCU sphere",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -12,
+     "dur": 2.4
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 86.88,
+   "end": 91.07,
+   "line": "with the MCU in a way we've never seen before.",
+   "scene": "impact: the spheres collide, shockwave, heroes from both sides face each other",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "impact",
+     "gain": -5
+    },
+    {
+     "at": 0.3,
+     "name": "flash",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 91.07,
+   "end": 94.18,
+   "line": "And if you want to understand why these characters matter,",
+   "scene": "fan on the couch reading the back of the Deadpool & Wolverine case",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s039",
+   "start": 94.18,
+   "end": 96.52,
+   "line": "this is a great place to start.",
+   "scene": "insert: the disc slides into the player, PLAY icon glows",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s040",
+   "start": 96.52,
+   "end": 98.71,
+   "line": "Now things get dangerous.",
+   "scene": "night city: the sky cracks like glass, red light bleeds through",
+   "set": "rooftop",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -10
+    },
+    {
+     "at": 0.9,
+     "name": "thunder",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 98.71,
+   "end": 101.19,
+   "line": "Doctor Strange in the Multiverse of Madness",
+   "scene": "FILM CARD #4 DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS (mandala art)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.35,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 101.19,
+   "end": 103.53,
+   "line": "explores alternate universes,",
+   "scene": "Strange opens a sparking portal, alternate universes flicker through it",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s043",
+   "start": 103.53,
+   "end": 105.84,
+   "line": "incursions, and the devastating",
+   "scene": "a second sky overlaps ours, red and wrong, rubble floating",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "riser",
+     "gain": -14,
+     "dur": 1.4
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s044",
+   "start": 105.84,
+   "end": 109.12,
+   "line": "consequences of messing with realities beyond your own.",
+   "scene": "insert: Strange's hands twist glowing reality shards; they crack",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s045",
+   "start": 109.12,
+   "end": 111.42,
+   "line": "An incursion is when two universes collide",
+   "scene": "BLUEPRINT 'INCURSION': universe A and B drift toward each other",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s046",
+   "start": 111.42,
+   "end": 114.82,
+   "line": "in a way that can destroy one or both of them.",
+   "scene": "BLUEPRINT: they overlap, A cracks on 'destroy', both shatter on 'both'",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "glitch",
+     "gain": -10
+    },
+    {
+     "at": 2.5,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s047",
+   "start": 114.82,
+   "end": 117.1,
+   "line": "Think about that for a second.",
+   "scene": "FREEZE: bigFace fan, awe, frozen shards hanging around, 1 SECOND badge",
+   "set": "cosmos",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s048",
+   "start": 117.1,
+   "end": 120.55,
+   "line": "What happens when multiple universes begin collapsing,",
+   "scene": "3D orbit: a field of universe spheres, some crumbling and collapsing",
+   "set": "cosmos3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 2.2,
+     "name": "impact",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 120.55,
+   "end": 122.82,
+   "line": "and the most powerful heroes from different",
+   "scene": "a row of portals: heroes from different realities step out",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 122.82,
+   "end": 125.71,
+   "line": "realities are forced to face the same enemy?",
+   "scene": "heroes from behind facing a giant Doom silhouette with green eyes in the sky",
+   "set": "cosmos",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s051",
+   "start": 125.71,
+   "end": 127.24,
+   "line": "Could they work together?",
+   "scene": "insert: fists from different heroes meet in the middle (work together?)",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s052",
+   "start": 127.24,
+   "end": 129.67,
+   "line": "Or could they end up destroying each other?",
+   "scene": "two heroes clash: hammer vs claws, sparks, shake",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 0.75,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s053",
+   "start": 129.67,
+   "end": 133.18,
+   "line": "With the multiverse playing such a major role in this saga,",
+   "scene": "Doom's gauntlet moves hero pieces across a cosmic chessboard",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s054",
+   "start": 133.18,
+   "end": 136.29,
+   "line": "this movie gives you some valuable context.",
+   "scene": "fan on the couch watching, TV shows a mandala; nods, takes notes",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s055",
+   "start": 136.29,
+   "end": 138.14,
+   "line": "If you haven't watched Avengers:",
+   "scene": "fan shrinks nervously on the couch as a huge purple shadow looms behind",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 138.14,
+   "end": 141.03,
+   "line": "Infinity War, stop everything and watch it.",
+   "scene": "FILM CARD #3 AVENGERS: INFINITY WAR (gauntlet with six stones art)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.35,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 141.03,
+   "end": 143.02,
+   "line": "This is where we see what happens when",
+   "scene": "Titan battlefield wide: orange sky, ruins, Thanos silhouette, heroes approach",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s058",
+   "start": 143.02,
+   "end": 147.07,
+   "line": "an enemy is powerful enough to defeat the Avengers at their own game.",
+   "scene": "Thanos raises the gauntlet, shockwave hurls the heroes back",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "powerup",
+     "gain": -10
+    },
+    {
+     "at": 1.9,
+     "name": "impact",
+     "gain": -5
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s059",
+   "start": 147.07,
+   "end": 149.32,
+   "line": "Thanos doesn't just threaten the world.",
+   "scene": "Earth in space, the gauntlet looms over it",
+   "set": "space",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -14,
+     "dur": 2.0
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 149.32,
+   "end": 151.61,
+   "line": "He threatens the entire universe.",
+   "scene": "pull out from Earth to the whole galaxy, gauntlet stones glowing over it",
+   "set": "space",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 151.61,
+   "end": 156.01,
+   "line": "And the heroes discover that even their combined strength might not be enough.",
+   "scene": "data overlay: AVENGERS bar fills but THANOS bar is higher (not enough)",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    },
+    {
+     "at": 3.3,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 156.01,
+   "end": 158.62,
+   "line": "Why is this important before Doomsday?",
+   "scene": "bigFace fan thinking, question rings",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s063",
+   "start": 158.62,
+   "end": 161.59,
+   "line": "Because Doctor Doom is another villain whose threat",
+   "scene": "Doom on his throne, green fire; Thanos' silhouette ghosts behind him",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s064",
+   "start": 161.59,
+   "end": 164.86,
+   "line": "could bring heroes from different corners of Marvel together.",
+   "scene": "map diagram: hero markers from four corners converge toward Doom's mask",
+   "set": "map",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.7,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.1,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 164.86,
+   "end": 169.08,
+   "line": "Infinity War reminds us that sometimes, the heroes don't win.",
+   "scene": "the heroes fade to dust at sunset, ash drifting",
+   "set": "wasteland",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "wind",
+     "gain": -14,
+     "dur": 2.0
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 169.08,
+   "end": 172.51,
+   "line": "And sometimes, the consequences change everything.",
+   "scene": "empty field, a fallen round shield, dust drifting, slow push",
+   "set": "wasteland",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s067",
+   "start": 172.51,
+   "end": 175.49,
+   "line": "Of course, you can't skip Avengers: Endgame.",
+   "scene": "FILM CARD #2 AVENGERS: ENDGAME (hourglass art), SKIP button denied",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -8
+    },
+    {
+     "at": 0.35,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 1.3,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 175.49,
+   "end": 179.25,
+   "line": "This movie delivers the emotional conclusion to the Infinity Saga",
+   "scene": "the Avengers assembled at dusk, backlit, emotional",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s069",
+   "start": 179.25,
+   "end": 183.0,
+   "line": "and changes the future of the MCU forever.",
+   "scene": "timeline: INFINITY SAGA line bends at an ENDGAME marker into a new future",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s070",
+   "start": 183.0,
+   "end": 185.83,
+   "line": "It gives us the end of Tony Stark's journey,",
+   "scene": "Iron Man sits against debris at sunset, arc reactor fading",
+   "set": "wasteland",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s071",
+   "start": 185.83,
+   "end": 188.32,
+   "line": "the consequences of Thanos's actions,",
+   "scene": "ghost outlines of the vanished stand among the living",
+   "set": "wasteland",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s072",
+   "start": 188.32,
+   "end": 190.89,
+   "line": "and a major turning point for the Avengers.",
+   "scene": "old Steve hands the shield to Sam by the lake (turning point)",
+   "set": "lake",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s073",
+   "start": 190.89,
+   "end": 192.58,
+   "line": "And now, Robert Downey Jr.",
+   "scene": "dark stage: an actor walks into the spotlight, label ROBERT DOWNEY JR.",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s074",
+   "start": 192.58,
+   "end": 195.52,
+   "line": "is returning to Marvel as Doctor Doom.",
+   "scene": "the actor raises Doom's mask; it locks on, green glow, hood rises",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 1.3,
+     "name": "powerup",
+     "gain": -8
+    },
+    {
+     "at": 1.8,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s075",
+   "start": 195.52,
+   "end": 197.71,
+   "line": "Yes, the same actor who played Iron Man",
+   "scene": "split: Iron Man (gold light) and Doom (green light), same silhouette",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 197.71,
+   "end": 202.27,
+   "line": "is stepping into the role of one of Marvel's most dangerous villains.",
+   "scene": "Doom walks toward camera through green fog, low angle, cloak flowing",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 2.7,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s077",
+   "start": 202.27,
+   "end": 203.31,
+   "line": "But remember:",
+   "scene": "bigFace Doom mask, eyes ignite",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 203.31,
+   "end": 207.89,
+   "line": "Tony Stark and Victor von Doom are not automatically the same character.",
+   "scene": "Iron Man helmet vs Doom mask side by side, a gold ≠ slams in on 'not'",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.05,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 207.89,
+   "end": 210.74,
+   "line": "How Marvel explains this casting choice is one of",
+   "scene": "mystery board: pinned helmet, mask, portal, red strings; fan with flashlight",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "tick",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s080",
+   "start": 210.74,
+   "end": 213.66,
+   "line": "the biggest mysteries surrounding the movie.",
+   "scene": "push into the board: a big glowing '?' at the centre of the strings",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "riser",
+     "gain": -14,
+     "dur": 1.6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s081",
+   "start": 213.66,
+   "end": 217.62,
+   "line": "And Endgame makes that mystery even more fascinating.",
+   "scene": "insert: an empty Iron Man helmet; Doom's green eyes reflect in it",
+   "set": "wasteland",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s082",
+   "start": 217.62,
+   "end": 221.9,
+   "line": "And finally, the movie you should put right at the top of your watchlist:",
+   "scene": "TV watchlist UI: a new title slides to the very top slot",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s083",
+   "start": 221.9,
+   "end": 223.93,
+   "line": "The Fantastic Four: First Steps.",
+   "scene": "FILM CARD #1 THE FANTASTIC FOUR: FIRST STEPS (retro rocket + 4 art), gold #1",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s084",
+   "start": 223.93,
+   "end": 224.91,
+   "line": "Why?",
+   "scene": "bigFace fan 'Why?'",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s085",
+   "start": 224.91,
+   "end": 227.41,
+   "line": "Because Doctor Doom's history in Marvel comics",
+   "scene": "vintage comic pages: panels with Doom's silhouette",
+   "set": "comic",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s086",
+   "start": 227.41,
+   "end": 230.31,
+   "line": "is deeply connected to the Fantastic Four,",
+   "scene": "comic panel: the four in blue suits face Doom's shadow",
+   "set": "comic",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s087",
+   "start": 230.31,
+   "end": 232.07,
+   "line": "especially Reed Richards.",
+   "scene": "Reed Richards stretches an arm across the lab, label REED RICHARDS",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s088",
+   "start": 232.07,
+   "end": 234.95,
+   "line": "Reed is one of Marvel's smartest characters,",
+   "scene": "Reed writes on two chalkboards at once with stretched arms",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "tick",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "tick",
+     "gain": -18
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s089",
+   "start": 234.95,
+   "end": 237.88,
+   "line": "while Doom combines extraordinary intelligence,",
+   "scene": "BLUEPRINT: Doom's mask at centre, INTELLIGENCE icon lights up",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s090",
+   "start": 237.88,
+   "end": 241.99,
+   "line": "advanced technology, political power, and mastery of sorcery.",
+   "scene": "BLUEPRINT: TECHNOLOGY, POWER, SORCERY icons light up on the words",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 2.8,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s091",
+   "start": 241.99,
+   "end": 246.79,
+   "line": "That makes their rivalry much more than a simple battle between a hero and a villain.",
+   "scene": "Reed vs Doom face-off, pull back: they stand on a giant chessboard",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s092",
+   "start": 246.79,
+   "end": 248.63,
+   "line": "It's a clash between two brilliant minds",
+   "scene": "two giant faces, Reed and Doom, an electric arc between their minds",
+   "set": "chess",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s093",
+   "start": 248.63,
+   "end": 252.67,
+   "line": "with very different ideas about power and the future.",
+   "scene": "split future: Reed's bright retro city vs Doom's iron citadel",
+   "set": "chess",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s094",
+   "start": 252.67,
+   "end": 257.01,
+   "line": "This movie introduces Marvel's First Family and establishes their world,",
+   "scene": "family portrait in a retro-future city: Reed, Sue, Johnny aflame, Ben of rock",
+   "set": "retro",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s095",
+   "start": 257.01,
+   "end": 261.19,
+   "line": "making it one of the most relevant films to watch before Doomsday.",
+   "scene": "six cases; #1 glows brightest, RELEVANCE meter maxes out",
+   "set": "shelf",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    },
+    {
+     "at": 3.2,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s096",
+   "start": 261.19,
+   "end": 265.2,
+   "line": "And with the Fantastic Four entering the larger Marvel story,",
+   "scene": "the Four walk through a portal from their retro world into the MCU skyline",
+   "set": "retro",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s097",
+   "start": 265.2,
+   "end": 268.27,
+   "line": "you definitely don't want to miss their introduction.",
+   "scene": "fan on the couch, popcorn, joy, TV glows with a 4",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s098",
+   "start": 268.27,
+   "end": 272.46,
+   "line": "If you want a better understanding of the multiverse,",
+   "scene": "BONUS badge: cracked multiverse sky over the city",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s099",
+   "start": 272.46,
+   "end": 274.07,
+   "line": "watch Spider-Man: No Way Home as well.",
+   "scene": "three Spider-Men point at each other, card SPIDER-MAN: NO WAY HOME",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s100",
+   "start": 274.07,
+   "end": 278.07,
+   "line": "And if you want to understand the bigger story behind the TVA,",
+   "scene": "TVA office establishing: retro desks, giant clock, timeline monitors",
+   "set": "tva",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s101",
+   "start": 278.07,
+   "end": 280.48,
+   "line": "branching timelines, and He Who Remains,",
+   "scene": "glowing timeline branches out; at its end, He Who Remains' silhouette",
+   "set": "tva",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s102",
+   "start": 280.48,
+   "end": 282.74,
+   "line": "watch Loki Seasons 1 and 2.",
+   "scene": "Loki (horned helmet) holds the glowing timelines, card LOKI · SEASONS 1 & 2",
+   "set": "tva",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s103",
+   "start": 282.74,
+   "end": 284.06,
+   "line": "They're not movies,",
+   "scene": "a TV set (not a cinema) shows the TVA clock",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s104",
+   "start": 284.06,
+   "end": 287.94,
+   "line": "but they provide useful background for the Multiverse Saga.",
+   "scene": "MULTIVERSE SAGA timeline: Spider-Man and Loki icons slot in as background",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s105",
+   "start": 287.94,
+   "end": 290.96,
+   "line": "So, let's recap your essential movie watchlist:",
+   "scene": "3D dolly along six giant glowing movie cases standing in a dark hall",
+   "set": "hall3d",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s106",
+   "start": 290.96,
+   "end": 292.97,
+   "line": "Number 6 Thunderbolts.",
+   "scene": "recap board: #6 THUNDERBOLTS* row lights up",
+   "set": "recap",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s107",
+   "start": 292.97,
+   "end": 295.4,
+   "line": "Number 5 Deadpool & Wolverine.",
+   "scene": "recap board: #5 DEADPOOL & WOLVERINE",
+   "set": "recap",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s108",
+   "start": 295.4,
+   "end": 299.03,
+   "line": "Number 4 Doctor Strange in the Multiverse of Madness.",
+   "scene": "recap board: #4 DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS",
+   "set": "recap",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s109",
+   "start": 299.03,
+   "end": 301.88,
+   "line": "Number 3 Avengers: Infinity War.",
+   "scene": "recap board: #3 AVENGERS: INFINITY WAR",
+   "set": "recap",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 301.88,
+   "end": 304.27,
+   "line": "Number 2 Avengers: Endgame.",
+   "scene": "recap board: #2 AVENGERS: ENDGAME",
+   "set": "recap",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s111",
+   "start": 304.27,
+   "end": 307.42,
+   "line": "And number 1 The Fantastic Four: First Steps.",
+   "scene": "recap board: #1 THE FANTASTIC FOUR: FIRST STEPS, gold glow",
+   "set": "recap",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 0.9,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s112",
+   "start": 307.42,
+   "end": 308.72,
+   "line": "Six movies.",
+   "scene": "the six cases stack into one pile",
+   "set": "shelf",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s113",
+   "start": 308.72,
+   "end": 310.54,
+   "line": "One massive Marvel event.",
+   "scene": "cinema wide, packed crowd, the screen blazes: one massive event",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "cheer",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s114",
+   "start": 310.54,
+   "end": 313.23,
+   "line": "And one villain who could change everything.",
+   "scene": "bigFace Doom, lightning, eyes flare",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "thunder",
+     "gain": -8
+    },
+    {
+     "at": 1.4,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s115",
+   "start": 313.23,
+   "end": 315.97,
+   "line": "Of course, this is a recommended shortlist,",
+   "scene": "insert: the watchlist paper, a gold RECOMMENDED stamp thuds down",
+   "set": "desk",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s116",
+   "start": 315.97,
+   "end": 321.56,
+   "line": "not an officially confirmed list of movies required to understand Avengers: Doomsday.",
+   "scene": "second stamp NOT OFFICIAL; the list slides aside to the Doomsday ticket",
+   "set": "desk",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 3.6,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s117",
+   "start": 321.56,
+   "end": 323.8,
+   "line": "Now I have one question for you.",
+   "scene": "dark stage, two spotlights snap on: Thanos left, Doom right",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "impact",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 323.8,
+   "end": 327.38,
+   "line": "Do you think Doctor Doom will be more dangerous than Thanos?",
+   "scene": "VERSUS split: Doom (green) vs Thanos (gold), each lights up as named",
+   "set": "versus",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 2.8,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 327.38,
+   "end": 329.25,
+   "line": "Let me know in the comments!",
+   "scene": "comment bubbles pop up: DOOM / THANOS votes",
+   "set": "versus",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s120",
+   "start": 329.25,
+   "end": 332.27,
+   "line": "And if you're a true Marvel fan, hit that like button,",
+   "scene": "fan gives a giant thumbs up; like button pops",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.3,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s121",
+   "start": 332.27,
+   "end": 336.67,
+   "line": "subscribe for more MCU updates, and turn on notifications.",
+   "scene": "subscribe pill pressed, bell rings",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.5,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 336.67,
+   "end": 338.87,
+   "line": "Because when Doom arrives…",
+   "scene": "Doom walks out of green fog toward camera, thunder",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "thunder",
+     "gain": -6
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s123",
+   "start": 338.87,
+   "end": 341.93,
+   "line": "The entire Marvel universe could change forever.",
+   "scene": "the universe sphere cracks with green light; title AVENGERS: DOOMSDAY · DEC 18",
+   "set": "space",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -10,
+     "dur": 1.4
+    },
+    {
+     "at": 1.6,
+     "name": "impact",
+     "gain": -4
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s124",
+   "start": 341.93,
+   "end": 346.0,
+   "line": "See you in the next video!",
+   "scene": "END SCREEN: the question, comment bubble, subscribe, cast lined up",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 23.21,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 23.21,
+   "end": 31.13,
+   "mood": "epic",
+   "intensity": 0.65
+  },
+  {
+   "start": 31.13,
+   "end": 59.74,
+   "mood": "action",
+   "intensity": 0.55
+  },
+  {
+   "start": 59.74,
+   "end": 77.44,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 77.44,
+   "end": 96.52,
+   "mood": "wonder",
+   "intensity": 0.55
+  },
+  {
+   "start": 96.52,
+   "end": 117.1,
+   "mood": "mystery",
+   "intensity": 0.6
+  },
+  {
+   "start": 117.1,
+   "end": 136.29,
+   "mood": "tension",
+   "intensity": 0.65
+  },
+  {
+   "start": 136.29,
+   "end": 164.86,
+   "mood": "dark",
+   "intensity": 0.65
+  },
+  {
+   "start": 164.86,
+   "end": 190.89,
+   "mood": "sad",
+   "intensity": 0.45
+  },
+  {
+   "start": 190.89,
+   "end": 217.62,
+   "mood": "mystery",
+   "intensity": 0.55
+  },
+  {
+   "start": 217.62,
+   "end": 241.99,
+   "mood": "wonder",
+   "intensity": 0.55
+  },
+  {
+   "start": 241.99,
+   "end": 252.67,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 252.67,
+   "end": 268.27,
+   "mood": "hopeful",
+   "intensity": 0.55
+  },
+  {
+   "start": 268.27,
+   "end": 287.94,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 287.94,
+   "end": 313.23,
+   "mood": "epic",
+   "intensity": 0.7
+  },
+  {
+   "start": 313.23,
+   "end": 336.67,
+   "mood": "calm",
+   "intensity": 0.4
+  },
+  {
+   "start": 336.67,
+   "end": 346.0,
+   "mood": "epic",
+   "intensity": 0.8
+  }
+ ]
+}

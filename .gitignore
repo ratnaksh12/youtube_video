@@ -1,0 +1,11 @@
+# dependencies & caches
+node_modules/
+__pycache__/
+# render intermediates (regenerable)
+aitrends-2d-studio/projects/*/build/
+aitrends-2d-studio/examples/*/build/
+# narration scratch (the mastered voiceover lives in the project's input/)
+narration/samples/
+narration/out/*.wav
+narration/voiceover_preview.mp3
+*.log

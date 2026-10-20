@@ -1,0 +1,4384 @@
+{
+ "words": [
+  {
+   "word": "Stop",
+   "start": 0.35,
+   "end": 0.569
+  },
+  {
+   "word": "watching",
+   "start": 0.583,
+   "end": 1.029
+  },
+  {
+   "word": "every",
+   "start": 1.052,
+   "end": 1.675
+  },
+  {
+   "word": "single",
+   "start": 1.706,
+   "end": 2.062
+  },
+  {
+   "word": "Marvel",
+   "start": 2.085,
+   "end": 2.441
+  },
+  {
+   "word": "movie!",
+   "start": 2.463,
+   "end": 2.819
+  },
+  {
+   "word": "Because",
+   "start": 3.182,
+   "end": 3.534
+  },
+  {
+   "word": "if",
+   "start": 3.556,
+   "end": 3.773
+  },
+  {
+   "word": "you're",
+   "start": 3.786,
+   "end": 4.003
+  },
+  {
+   "word": "planning",
+   "start": 4.017,
+   "end": 4.368
+  },
+  {
+   "word": "to",
+   "start": 4.391,
+   "end": 4.607
+  },
+  {
+   "word": "watch",
+   "start": 4.621,
+   "end": 4.838
+  },
+  {
+   "word": "Avengers:",
+   "start": 4.851,
+   "end": 5.838
+  },
+  {
+   "word": "Doomsday,",
+   "start": 5.869,
+   "end": 6.302
+  },
+  {
+   "word": "you",
+   "start": 6.329,
+   "end": 6.574
+  },
+  {
+   "word": "don't",
+   "start": 6.589,
+   "end": 6.834
+  },
+  {
+   "word": "need",
+   "start": 6.849,
+   "end": 7.094
+  },
+  {
+   "word": "to",
+   "start": 7.11,
+   "end": 7.354
+  },
+  {
+   "word": "spend",
+   "start": 7.37,
+   "end": 7.614
+  },
+  {
+   "word": "weeks",
+   "start": 7.63,
+   "end": 7.874
+  },
+  {
+   "word": "rewatching",
+   "start": 7.89,
+   "end": 8.44
+  },
+  {
+   "word": "the",
+   "start": 8.475,
+   "end": 8.99
+  },
+  {
+   "word": "entire",
+   "start": 9.006,
+   "end": 9.403
+  },
+  {
+   "word": "MCU.",
+   "start": 9.428,
+   "end": 9.673
+  },
+  {
+   "word": "But",
+   "start": 10.028,
+   "end": 10.215
+  },
+  {
+   "word": "there",
+   "start": 10.227,
+   "end": 10.413
+  },
+  {
+   "word": "are",
+   "start": 10.425,
+   "end": 10.611
+  },
+  {
+   "word": "a",
+   "start": 10.623,
+   "end": 10.81
+  },
+  {
+   "word": "few",
+   "start": 10.821,
+   "end": 11.008
+  },
+  {
+   "word": "movies",
+   "start": 11.02,
+   "end": 11.433
+  },
+  {
+   "word": "you",
+   "start": 11.452,
+   "end": 11.638
+  },
+  {
+   "word": "absolutely",
+   "start": 11.65,
+   "end": 12.302
+  },
+  {
+   "word": "should",
+   "start": 12.344,
+   "end": 12.53
+  },
+  {
+   "word": "prioritize.",
+   "start": 12.542,
+   "end": 13.228
+  },
+  {
+   "word": "From",
+   "start": 13.602,
+   "end": 13.808
+  },
+  {
+   "word": "the",
+   "start": 13.821,
+   "end": 14.028
+  },
+  {
+   "word": "return",
+   "start": 14.041,
+   "end": 14.376
+  },
+  {
+   "word": "of",
+   "start": 14.397,
+   "end": 14.603
+  },
+  {
+   "word": "legendary",
+   "start": 14.616,
+   "end": 15.209
+  },
+  {
+   "word": "heroes",
+   "start": 15.246,
+   "end": 15.581
+  },
+  {
+   "word": "to",
+   "start": 15.603,
+   "end": 15.809
+  },
+  {
+   "word": "the",
+   "start": 15.822,
+   "end": 16.028
+  },
+  {
+   "word": "arrival",
+   "start": 16.041,
+   "end": 16.505
+  },
+  {
+   "word": "of",
+   "start": 16.534,
+   "end": 16.74
+  },
+  {
+   "word": "Doctor",
+   "start": 16.754,
+   "end": 17.088
+  },
+  {
+   "word": "Doom,",
+   "start": 17.11,
+   "end": 17.846
+  },
+  {
+   "word": "these",
+   "start": 17.859,
+   "end": 18.094
+  },
+  {
+   "word": "movies",
+   "start": 18.109,
+   "end": 18.492
+  },
+  {
+   "word": "could",
+   "start": 18.516,
+   "end": 18.752
+  },
+  {
+   "word": "make",
+   "start": 18.767,
+   "end": 19.002
+  },
+  {
+   "word": "a",
+   "start": 19.017,
+   "end": 19.252
+  },
+  {
+   "word": "huge",
+   "start": 19.267,
+   "end": 19.503
+  },
+  {
+   "word": "difference",
+   "start": 19.518,
+   "end": 20.047
+  },
+  {
+   "word": "in",
+   "start": 20.081,
+   "end": 20.317
+  },
+  {
+   "word": "how",
+   "start": 20.332,
+   "end": 20.567
+  },
+  {
+   "word": "you",
+   "start": 20.582,
+   "end": 20.817
+  },
+  {
+   "word": "experience",
+   "start": 20.832,
+   "end": 21.362
+  },
+  {
+   "word": "Marvel's",
+   "start": 21.396,
+   "end": 21.778
+  },
+  {
+   "word": "next",
+   "start": 21.803,
+   "end": 22.038
+  },
+  {
+   "word": "massive",
+   "start": 22.053,
+   "end": 22.436
+  },
+  {
+   "word": "crossover.",
+   "start": 22.46,
+   "end": 22.99
+  },
+  {
+   "word": "So,",
+   "start": 23.363,
+   "end": 23.606
+  },
+  {
+   "word": "here",
+   "start": 23.622,
+   "end": 23.834
+  },
+  {
+   "word": "are",
+   "start": 23.847,
+   "end": 24.059
+  },
+  {
+   "word": "the",
+   "start": 24.073,
+   "end": 24.285
+  },
+  {
+   "word": "6",
+   "start": 24.299,
+   "end": 24.511
+  },
+  {
+   "word": "movies",
+   "start": 24.524,
+   "end": 24.869
+  },
+  {
+   "word": "you",
+   "start": 24.891,
+   "end": 25.103
+  },
+  {
+   "word": "should",
+   "start": 25.116,
+   "end": 25.328
+  },
+  {
+   "word": "watch",
+   "start": 25.342,
+   "end": 25.554
+  },
+  {
+   "word": "before",
+   "start": 25.568,
+   "end": 25.912
+  },
+  {
+   "word": "Avengers:",
+   "start": 25.934,
+   "end": 26.821
+  },
+  {
+   "word": "Doomsday!",
+   "start": 26.852,
+   "end": 27.246
+  },
+  {
+   "word": "And",
+   "start": 27.612,
+   "end": 27.847
+  },
+  {
+   "word": "trust",
+   "start": 27.862,
+   "end": 28.097
+  },
+  {
+   "word": "me,",
+   "start": 28.112,
+   "end": 28.347
+  },
+  {
+   "word": "the",
+   "start": 28.462,
+   "end": 28.674
+  },
+  {
+   "word": "last",
+   "start": 28.688,
+   "end": 28.901
+  },
+  {
+   "word": "one",
+   "start": 28.914,
+   "end": 29.127
+  },
+  {
+   "word": "is",
+   "start": 29.14,
+   "end": 29.353
+  },
+  {
+   "word": "especially",
+   "start": 29.367,
+   "end": 29.978
+  },
+  {
+   "word": "important.",
+   "start": 30.017,
+   "end": 30.496
+  },
+  {
+   "word": "Let's",
+   "start": 31.276,
+   "end": 31.538
+  },
+  {
+   "word": "start",
+   "start": 31.555,
+   "end": 31.817
+  },
+  {
+   "word": "with",
+   "start": 31.834,
+   "end": 32.226
+  },
+  {
+   "word": "Thunderbolts.",
+   "start": 32.243,
+   "end": 32.943
+  },
+  {
+   "word": "Why?",
+   "start": 33.32,
+   "end": 33.826
+  },
+  {
+   "word": "Because",
+   "start": 34.119,
+   "end": 34.423
+  },
+  {
+   "word": "the",
+   "start": 34.442,
+   "end": 34.629
+  },
+  {
+   "word": "Avengers",
+   "start": 34.641,
+   "end": 35.062
+  },
+  {
+   "word": "aren't",
+   "start": 35.089,
+   "end": 35.523
+  },
+  {
+   "word": "the",
+   "start": 35.542,
+   "end": 35.729
+  },
+  {
+   "word": "only",
+   "start": 35.741,
+   "end": 36.045
+  },
+  {
+   "word": "team",
+   "start": 36.065,
+   "end": 36.252
+  },
+  {
+   "word": "in",
+   "start": 36.264,
+   "end": 36.451
+  },
+  {
+   "word": "the",
+   "start": 36.463,
+   "end": 36.65
+  },
+  {
+   "word": "game",
+   "start": 36.662,
+   "end": 36.849
+  },
+  {
+   "word": "anymore.",
+   "start": 36.861,
+   "end": 37.399
+  },
+  {
+   "word": "This",
+   "start": 37.773,
+   "end": 37.98
+  },
+  {
+   "word": "movie",
+   "start": 37.993,
+   "end": 38.2
+  },
+  {
+   "word": "brings",
+   "start": 38.213,
+   "end": 38.42
+  },
+  {
+   "word": "together",
+   "start": 38.433,
+   "end": 38.898
+  },
+  {
+   "word": "a",
+   "start": 38.928,
+   "end": 39.134
+  },
+  {
+   "word": "group",
+   "start": 39.148,
+   "end": 39.354
+  },
+  {
+   "word": "of",
+   "start": 39.367,
+   "end": 39.574
+  },
+  {
+   "word": "morally",
+   "start": 39.587,
+   "end": 40.052
+  },
+  {
+   "word": "complicated",
+   "start": 40.082,
+   "end": 40.676
+  },
+  {
+   "word": "characters",
+   "start": 40.714,
+   "end": 41.179
+  },
+  {
+   "word": "who",
+   "start": 41.209,
+   "end": 41.506
+  },
+  {
+   "word": "eventually",
+   "start": 41.519,
+   "end": 42.523
+  },
+  {
+   "word": "become",
+   "start": 42.561,
+   "end": 42.897
+  },
+  {
+   "word": "the",
+   "start": 42.918,
+   "end": 43.125
+  },
+  {
+   "word": "New",
+   "start": 43.138,
+   "end": 43.345
+  },
+  {
+   "word": "Avengers.",
+   "start": 43.358,
+   "end": 43.933
+  },
+  {
+   "word": "And",
+   "start": 44.303,
+   "end": 44.533
+  },
+  {
+   "word": "with",
+   "start": 44.548,
+   "end": 44.778
+  },
+  {
+   "word": "characters",
+   "start": 44.793,
+   "end": 45.312
+  },
+  {
+   "word": "like",
+   "start": 45.345,
+   "end": 45.575
+  },
+  {
+   "word": "Yelena",
+   "start": 45.59,
+   "end": 46.108
+  },
+  {
+   "word": "Belova,",
+   "start": 46.141,
+   "end": 46.66
+  },
+  {
+   "word": "Bucky",
+   "start": 47.013,
+   "end": 47.398
+  },
+  {
+   "word": "Barnes,",
+   "start": 47.423,
+   "end": 47.808
+  },
+  {
+   "word": "and",
+   "start": 47.933,
+   "end": 48.147
+  },
+  {
+   "word": "Sentry",
+   "start": 48.16,
+   "end": 48.508
+  },
+  {
+   "word": "entering",
+   "start": 48.53,
+   "end": 49.011
+  },
+  {
+   "word": "the",
+   "start": 49.041,
+   "end": 49.255
+  },
+  {
+   "word": "bigger",
+   "start": 49.269,
+   "end": 49.616
+  },
+  {
+   "word": "picture,",
+   "start": 49.638,
+   "end": 50.119
+  },
+  {
+   "word": "this",
+   "start": 50.15,
+   "end": 50.356
+  },
+  {
+   "word": "team",
+   "start": 50.369,
+   "end": 50.575
+  },
+  {
+   "word": "could",
+   "start": 50.588,
+   "end": 50.794
+  },
+  {
+   "word": "be",
+   "start": 50.807,
+   "end": 51.013
+  },
+  {
+   "word": "extremely",
+   "start": 51.026,
+   "end": 51.619
+  },
+  {
+   "word": "important",
+   "start": 51.657,
+   "end": 52.12
+  },
+  {
+   "word": "when",
+   "start": 52.15,
+   "end": 52.356
+  },
+  {
+   "word": "the",
+   "start": 52.369,
+   "end": 52.575
+  },
+  {
+   "word": "next",
+   "start": 52.588,
+   "end": 52.794
+  },
+  {
+   "word": "major",
+   "start": 52.807,
+   "end": 53.142
+  },
+  {
+   "word": "threat",
+   "start": 53.163,
+   "end": 53.369
+  },
+  {
+   "word": "arrives.",
+   "start": 53.382,
+   "end": 53.986
+  },
+  {
+   "word": "Because",
+   "start": 54.355,
+   "end": 54.7
+  },
+  {
+   "word": "when",
+   "start": 54.722,
+   "end": 54.935
+  },
+  {
+   "word": "Doctor",
+   "start": 54.948,
+   "end": 55.293
+  },
+  {
+   "word": "Doom",
+   "start": 55.315,
+   "end": 55.528
+  },
+  {
+   "word": "comes",
+   "start": 55.541,
+   "end": 55.886
+  },
+  {
+   "word": "knocking,",
+   "start": 55.908,
+   "end": 56.253
+  },
+  {
+   "word": "the",
+   "start": 56.725,
+   "end": 56.907
+  },
+  {
+   "word": "world",
+   "start": 56.919,
+   "end": 57.1
+  },
+  {
+   "word": "might",
+   "start": 57.112,
+   "end": 57.293
+  },
+  {
+   "word": "need",
+   "start": 57.305,
+   "end": 57.487
+  },
+  {
+   "word": "a",
+   "start": 57.498,
+   "end": 57.68
+  },
+  {
+   "word": "very",
+   "start": 57.691,
+   "end": 57.986
+  },
+  {
+   "word": "different",
+   "start": 58.005,
+   "end": 58.414
+  },
+  {
+   "word": "kind",
+   "start": 58.44,
+   "end": 58.621
+  },
+  {
+   "word": "of",
+   "start": 58.633,
+   "end": 58.815
+  },
+  {
+   "word": "hero.",
+   "start": 58.826,
+   "end": 59.121
+  },
+  {
+   "word": "Next",
+   "start": 59.89,
+   "end": 60.116
+  },
+  {
+   "word": "up,",
+   "start": 60.13,
+   "end": 60.356
+  },
+  {
+   "word": "Deadpool",
+   "start": 60.46,
+   "end": 60.833
+  },
+  {
+   "word": "&",
+   "start": 60.857,
+   "end": 61.086
+  },
+  {
+   "word": "Wolverine.",
+   "start": 61.101,
+   "end": 61.76
+  },
+  {
+   "word": "And",
+   "start": 62.142,
+   "end": 62.352
+  },
+  {
+   "word": "this",
+   "start": 62.366,
+   "end": 62.576
+  },
+  {
+   "word": "one",
+   "start": 62.589,
+   "end": 62.799
+  },
+  {
+   "word": "is",
+   "start": 62.813,
+   "end": 63.023
+  },
+  {
+   "word": "important",
+   "start": 63.036,
+   "end": 63.509
+  },
+  {
+   "word": "for",
+   "start": 63.539,
+   "end": 63.749
+  },
+  {
+   "word": "one",
+   "start": 63.762,
+   "end": 63.972
+  },
+  {
+   "word": "massive",
+   "start": 63.986,
+   "end": 64.327
+  },
+  {
+   "word": "reason:",
+   "start": 64.349,
+   "end": 64.69
+  },
+  {
+   "word": "the",
+   "start": 65.102,
+   "end": 65.325
+  },
+  {
+   "word": "multiverse.",
+   "start": 65.339,
+   "end": 65.978
+  },
+  {
+   "word": "This",
+   "start": 66.359,
+   "end": 66.59
+  },
+  {
+   "word": "movie",
+   "start": 66.605,
+   "end": 66.836
+  },
+  {
+   "word": "connects",
+   "start": 66.85,
+   "end": 67.225
+  },
+  {
+   "word": "Deadpool",
+   "start": 67.249,
+   "end": 67.624
+  },
+  {
+   "word": "and",
+   "start": 67.648,
+   "end": 67.879
+  },
+  {
+   "word": "Wolverine's",
+   "start": 67.894,
+   "end": 68.558
+  },
+  {
+   "word": "world",
+   "start": 68.6,
+   "end": 68.831
+  },
+  {
+   "word": "to",
+   "start": 68.846,
+   "end": 69.076
+  },
+  {
+   "word": "the",
+   "start": 69.091,
+   "end": 69.432
+  },
+  {
+   "word": "larger",
+   "start": 69.447,
+   "end": 69.822
+  },
+  {
+   "word": "Marvel",
+   "start": 69.846,
+   "end": 70.221
+  },
+  {
+   "word": "multiverse",
+   "start": 70.245,
+   "end": 70.764
+  },
+  {
+   "word": "and",
+   "start": 70.797,
+   "end": 71.028
+  },
+  {
+   "word": "brings",
+   "start": 71.043,
+   "end": 71.694
+  },
+  {
+   "word": "the",
+   "start": 71.709,
+   "end": 71.939
+  },
+  {
+   "word": "legacy",
+   "start": 71.954,
+   "end": 72.474
+  },
+  {
+   "word": "of",
+   "start": 72.507,
+   "end": 72.738
+  },
+  {
+   "word": "Fox's",
+   "start": 72.752,
+   "end": 72.983
+  },
+  {
+   "word": "Marvel",
+   "start": 72.998,
+   "end": 73.373
+  },
+  {
+   "word": "characters",
+   "start": 73.397,
+   "end": 73.916
+  },
+  {
+   "word": "into",
+   "start": 73.949,
+   "end": 74.415
+  },
+  {
+   "word": "the",
+   "start": 74.438,
+   "end": 74.669
+  },
+  {
+   "word": "conversation.",
+   "start": 74.684,
+   "end": 75.348
+  },
+  {
+   "word": "And",
+   "start": 75.73,
+   "end": 75.959
+  },
+  {
+   "word": "here's",
+   "start": 75.973,
+   "end": 76.344
+  },
+  {
+   "word": "why",
+   "start": 76.368,
+   "end": 76.597
+  },
+  {
+   "word": "that",
+   "start": 76.611,
+   "end": 76.84
+  },
+  {
+   "word": "matters.",
+   "start": 76.854,
+   "end": 77.226
+  },
+  {
+   "word": "Avengers:",
+   "start": 77.589,
+   "end": 78.21
+  },
+  {
+   "word": "Doomsday",
+   "start": 78.359,
+   "end": 78.769
+  },
+  {
+   "word": "features",
+   "start": 78.795,
+   "end": 79.362
+  },
+  {
+   "word": "legendary",
+   "start": 79.398,
+   "end": 80.122
+  },
+  {
+   "word": "X-Men",
+   "start": 80.168,
+   "end": 80.42
+  },
+  {
+   "word": "characters,",
+   "start": 80.436,
+   "end": 81.003
+  },
+  {
+   "word": "including",
+   "start": 81.419,
+   "end": 81.934
+  },
+  {
+   "word": "Professor",
+   "start": 81.967,
+   "end": 82.483
+  },
+  {
+   "word": "X,",
+   "start": 82.516,
+   "end": 82.745
+  },
+  {
+   "word": "Magneto,",
+   "start": 82.859,
+   "end": 83.497
+  },
+  {
+   "word": "and",
+   "start": 83.538,
+   "end": 83.782
+  },
+  {
+   "word": "Cyclops.",
+   "start": 83.798,
+   "end": 84.304
+  },
+  {
+   "word": "That",
+   "start": 84.67,
+   "end": 84.881
+  },
+  {
+   "word": "means",
+   "start": 84.894,
+   "end": 85.105
+  },
+  {
+   "word": "the",
+   "start": 85.119,
+   "end": 85.33
+  },
+  {
+   "word": "old",
+   "start": 85.343,
+   "end": 85.554
+  },
+  {
+   "word": "Marvel",
+   "start": 85.567,
+   "end": 85.91
+  },
+  {
+   "word": "universe",
+   "start": 85.932,
+   "end": 86.407
+  },
+  {
+   "word": "could",
+   "start": 86.437,
+   "end": 86.648
+  },
+  {
+   "word": "collide",
+   "start": 86.661,
+   "end": 87.004
+  },
+  {
+   "word": "with",
+   "start": 87.026,
+   "end": 87.237
+  },
+  {
+   "word": "the",
+   "start": 87.251,
+   "end": 87.462
+  },
+  {
+   "word": "MCU",
+   "start": 87.475,
+   "end": 88.14
+  },
+  {
+   "word": "in",
+   "start": 88.17,
+   "end": 88.701
+  },
+  {
+   "word": "a",
+   "start": 88.714,
+   "end": 89.325
+  },
+  {
+   "word": "way",
+   "start": 89.339,
+   "end": 89.55
+  },
+  {
+   "word": "we've",
+   "start": 89.563,
+   "end": 89.774
+  },
+  {
+   "word": "never",
+   "start": 89.788,
+   "end": 90.13
+  },
+  {
+   "word": "seen",
+   "start": 90.152,
+   "end": 90.363
+  },
+  {
+   "word": "before.",
+   "start": 90.377,
+   "end": 90.851
+  },
+  {
+   "word": "And",
+   "start": 91.222,
+   "end": 91.416
+  },
+  {
+   "word": "if",
+   "start": 91.429,
+   "end": 91.624
+  },
+  {
+   "word": "you",
+   "start": 91.636,
+   "end": 91.831
+  },
+  {
+   "word": "want",
+   "start": 91.843,
+   "end": 92.038
+  },
+  {
+   "word": "to",
+   "start": 92.051,
+   "end": 92.245
+  },
+  {
+   "word": "understand",
+   "start": 92.258,
+   "end": 92.696
+  },
+  {
+   "word": "why",
+   "start": 92.724,
+   "end": 92.919
+  },
+  {
+   "word": "these",
+   "start": 92.931,
+   "end": 93.126
+  },
+  {
+   "word": "characters",
+   "start": 93.139,
+   "end": 93.577
+  },
+  {
+   "word": "matter,",
+   "start": 93.605,
+   "end": 93.921
+  },
+  {
+   "word": "this",
+   "start": 94.332,
+   "end": 94.529
+  },
+  {
+   "word": "is",
+   "start": 94.542,
+   "end": 94.74
+  },
+  {
+   "word": "a",
+   "start": 94.752,
+   "end": 94.95
+  },
+  {
+   "word": "great",
+   "start": 94.963,
+   "end": 95.271
+  },
+  {
+   "word": "place",
+   "start": 95.283,
+   "end": 95.481
+  },
+  {
+   "word": "to",
+   "start": 95.494,
+   "end": 95.692
+  },
+  {
+   "word": "start.",
+   "start": 95.704,
+   "end": 95.902
+  },
+  {
+   "word": "Now",
+   "start": 96.665,
+   "end": 96.951
+  },
+  {
+   "word": "things",
+   "start": 96.97,
+   "end": 97.256
+  },
+  {
+   "word": "get",
+   "start": 97.275,
+   "end": 97.562
+  },
+  {
+   "word": "dangerous.",
+   "start": 97.58,
+   "end": 98.225
+  },
+  {
+   "word": "Doctor",
+   "start": 98.856,
+   "end": 99.256
+  },
+  {
+   "word": "Strange",
+   "start": 99.282,
+   "end": 99.528
+  },
+  {
+   "word": "in",
+   "start": 99.544,
+   "end": 99.79
+  },
+  {
+   "word": "the",
+   "start": 99.806,
+   "end": 100.052
+  },
+  {
+   "word": "Multiverse",
+   "start": 100.068,
+   "end": 100.622
+  },
+  {
+   "word": "of",
+   "start": 100.657,
+   "end": 100.903
+  },
+  {
+   "word": "Madness",
+   "start": 100.919,
+   "end": 101.319
+  },
+  {
+   "word": "explores",
+   "start": 101.345,
+   "end": 101.899
+  },
+  {
+   "word": "alternate",
+   "start": 101.934,
+   "end": 102.488
+  },
+  {
+   "word": "universes,",
+   "start": 102.523,
+   "end": 103.231
+  },
+  {
+   "word": "incursions,",
+   "start": 103.676,
+   "end": 104.268
+  },
+  {
+   "word": "and",
+   "start": 104.416,
+   "end": 105.058
+  },
+  {
+   "word": "the",
+   "start": 105.073,
+   "end": 105.295
+  },
+  {
+   "word": "devastating",
+   "start": 105.309,
+   "end": 105.947
+  },
+  {
+   "word": "consequences",
+   "start": 105.988,
+   "end": 106.627
+  },
+  {
+   "word": "of",
+   "start": 106.668,
+   "end": 106.89
+  },
+  {
+   "word": "messing",
+   "start": 106.904,
+   "end": 107.425
+  },
+  {
+   "word": "with",
+   "start": 107.448,
+   "end": 107.67
+  },
+  {
+   "word": "realities",
+   "start": 107.684,
+   "end": 108.184
+  },
+  {
+   "word": "beyond",
+   "start": 108.216,
+   "end": 108.438
+  },
+  {
+   "word": "your",
+   "start": 108.452,
+   "end": 108.674
+  },
+  {
+   "word": "own.",
+   "start": 108.688,
+   "end": 108.911
+  },
+  {
+   "word": "An",
+   "start": 109.265,
+   "end": 109.467
+  },
+  {
+   "word": "incursion",
+   "start": 109.48,
+   "end": 109.934
+  },
+  {
+   "word": "is",
+   "start": 109.963,
+   "end": 110.164
+  },
+  {
+   "word": "when",
+   "start": 110.177,
+   "end": 110.379
+  },
+  {
+   "word": "two",
+   "start": 110.392,
+   "end": 110.594
+  },
+  {
+   "word": "universes",
+   "start": 110.607,
+   "end": 111.187
+  },
+  {
+   "word": "collide",
+   "start": 111.224,
+   "end": 111.552
+  },
+  {
+   "word": "in",
+   "start": 111.573,
+   "end": 112.055
+  },
+  {
+   "word": "a",
+   "start": 112.068,
+   "end": 112.27
+  },
+  {
+   "word": "way",
+   "start": 112.282,
+   "end": 112.484
+  },
+  {
+   "word": "that",
+   "start": 112.497,
+   "end": 112.699
+  },
+  {
+   "word": "can",
+   "start": 112.712,
+   "end": 112.914
+  },
+  {
+   "word": "destroy",
+   "start": 112.927,
+   "end": 113.255
+  },
+  {
+   "word": "one",
+   "start": 113.276,
+   "end": 113.477
+  },
+  {
+   "word": "or",
+   "start": 113.49,
+   "end": 113.872
+  },
+  {
+   "word": "both",
+   "start": 113.885,
+   "end": 114.087
+  },
+  {
+   "word": "of",
+   "start": 114.1,
+   "end": 114.302
+  },
+  {
+   "word": "them.",
+   "start": 114.314,
+   "end": 114.616
+  },
+  {
+   "word": "Think",
+   "start": 114.969,
+   "end": 115.163
+  },
+  {
+   "word": "about",
+   "start": 115.175,
+   "end": 115.49
+  },
+  {
+   "word": "that",
+   "start": 115.51,
+   "end": 115.704
+  },
+  {
+   "word": "for",
+   "start": 115.717,
+   "end": 115.91
+  },
+  {
+   "word": "a",
+   "start": 115.923,
+   "end": 116.117
+  },
+  {
+   "word": "second.",
+   "start": 116.129,
+   "end": 116.444
+  },
+  {
+   "word": "What",
+   "start": 117.254,
+   "end": 117.474
+  },
+  {
+   "word": "happens",
+   "start": 117.488,
+   "end": 117.847
+  },
+  {
+   "word": "when",
+   "start": 117.869,
+   "end": 118.09
+  },
+  {
+   "word": "multiple",
+   "start": 118.104,
+   "end": 118.6
+  },
+  {
+   "word": "universes",
+   "start": 118.631,
+   "end": 119.265
+  },
+  {
+   "word": "begin",
+   "start": 119.305,
+   "end": 119.664
+  },
+  {
+   "word": "collapsing,",
+   "start": 119.686,
+   "end": 120.182
+  },
+  {
+   "word": "and",
+   "start": 120.704,
+   "end": 120.895
+  },
+  {
+   "word": "the",
+   "start": 120.907,
+   "end": 121.208
+  },
+  {
+   "word": "most",
+   "start": 121.22,
+   "end": 121.411
+  },
+  {
+   "word": "powerful",
+   "start": 121.423,
+   "end": 121.952
+  },
+  {
+   "word": "heroes",
+   "start": 121.98,
+   "end": 122.29
+  },
+  {
+   "word": "from",
+   "start": 122.309,
+   "end": 122.5
+  },
+  {
+   "word": "different",
+   "start": 122.512,
+   "end": 122.942
+  },
+  {
+   "word": "realities",
+   "start": 122.969,
+   "end": 123.688
+  },
+  {
+   "word": "are",
+   "start": 123.716,
+   "end": 123.907
+  },
+  {
+   "word": "forced",
+   "start": 123.919,
+   "end": 124.229
+  },
+  {
+   "word": "to",
+   "start": 124.249,
+   "end": 124.44
+  },
+  {
+   "word": "face",
+   "start": 124.452,
+   "end": 124.642
+  },
+  {
+   "word": "the",
+   "start": 124.655,
+   "end": 124.845
+  },
+  {
+   "word": "same",
+   "start": 124.858,
+   "end": 125.048
+  },
+  {
+   "word": "enemy?",
+   "start": 125.061,
+   "end": 125.49
+  },
+  {
+   "word": "Could",
+   "start": 125.857,
+   "end": 126.07
+  },
+  {
+   "word": "they",
+   "start": 126.084,
+   "end": 126.297
+  },
+  {
+   "word": "work",
+   "start": 126.311,
+   "end": 126.524
+  },
+  {
+   "word": "together?",
+   "start": 126.537,
+   "end": 127.017
+  },
+  {
+   "word": "Or",
+   "start": 127.387,
+   "end": 127.589
+  },
+  {
+   "word": "could",
+   "start": 127.601,
+   "end": 127.803
+  },
+  {
+   "word": "they",
+   "start": 127.816,
+   "end": 128.017
+  },
+  {
+   "word": "end",
+   "start": 128.03,
+   "end": 128.341
+  },
+  {
+   "word": "up",
+   "start": 128.354,
+   "end": 128.555
+  },
+  {
+   "word": "destroying",
+   "start": 128.568,
+   "end": 128.894
+  },
+  {
+   "word": "each",
+   "start": 128.915,
+   "end": 129.117
+  },
+  {
+   "word": "other?",
+   "start": 129.129,
+   "end": 129.456
+  },
+  {
+   "word": "With",
+   "start": 129.817,
+   "end": 130.021
+  },
+  {
+   "word": "the",
+   "start": 130.034,
+   "end": 130.239
+  },
+  {
+   "word": "multiverse",
+   "start": 130.252,
+   "end": 130.711
+  },
+  {
+   "word": "playing",
+   "start": 130.741,
+   "end": 130.945
+  },
+  {
+   "word": "such",
+   "start": 130.958,
+   "end": 131.162
+  },
+  {
+   "word": "a",
+   "start": 131.175,
+   "end": 131.379
+  },
+  {
+   "word": "major",
+   "start": 131.392,
+   "end": 131.724
+  },
+  {
+   "word": "role",
+   "start": 131.746,
+   "end": 132.077
+  },
+  {
+   "word": "in",
+   "start": 132.099,
+   "end": 132.303
+  },
+  {
+   "word": "this",
+   "start": 132.316,
+   "end": 132.52
+  },
+  {
+   "word": "saga,",
+   "start": 132.533,
+   "end": 133.305
+  },
+  {
+   "word": "this",
+   "start": 133.326,
+   "end": 133.548
+  },
+  {
+   "word": "movie",
+   "start": 133.562,
+   "end": 133.784
+  },
+  {
+   "word": "gives",
+   "start": 133.798,
+   "end": 134.158
+  },
+  {
+   "word": "you",
+   "start": 134.181,
+   "end": 134.403
+  },
+  {
+   "word": "some",
+   "start": 134.417,
+   "end": 134.638
+  },
+  {
+   "word": "valuable",
+   "start": 134.653,
+   "end": 135.151
+  },
+  {
+   "word": "context.",
+   "start": 135.183,
+   "end": 135.663
+  },
+  {
+   "word": "If",
+   "start": 136.436,
+   "end": 136.622
+  },
+  {
+   "word": "you",
+   "start": 136.634,
+   "end": 136.819
+  },
+  {
+   "word": "haven't",
+   "start": 136.831,
+   "end": 137.132
+  },
+  {
+   "word": "watched",
+   "start": 137.152,
+   "end": 137.453
+  },
+  {
+   "word": "Avengers:",
+   "start": 137.472,
+   "end": 137.89
+  },
+  {
+   "word": "Infinity",
+   "start": 138.286,
+   "end": 138.928
+  },
+  {
+   "word": "War,",
+   "start": 138.969,
+   "end": 139.192
+  },
+  {
+   "word": "stop",
+   "start": 139.206,
+   "end": 139.43
+  },
+  {
+   "word": "everything",
+   "start": 139.444,
+   "end": 140.085
+  },
+  {
+   "word": "and",
+   "start": 140.126,
+   "end": 140.35
+  },
+  {
+   "word": "watch",
+   "start": 140.364,
+   "end": 140.587
+  },
+  {
+   "word": "it.",
+   "start": 140.601,
+   "end": 140.824
+  },
+  {
+   "word": "This",
+   "start": 141.179,
+   "end": 141.361
+  },
+  {
+   "word": "is",
+   "start": 141.372,
+   "end": 141.555
+  },
+  {
+   "word": "where",
+   "start": 141.566,
+   "end": 141.748
+  },
+  {
+   "word": "we",
+   "start": 141.76,
+   "end": 141.942
+  },
+  {
+   "word": "see",
+   "start": 141.954,
+   "end": 142.136
+  },
+  {
+   "word": "what",
+   "start": 142.147,
+   "end": 142.33
+  },
+  {
+   "word": "happens",
+   "start": 142.341,
+   "end": 142.637
+  },
+  {
+   "word": "when",
+   "start": 142.656,
+   "end": 143.158
+  },
+  {
+   "word": "an",
+   "start": 143.17,
+   "end": 143.352
+  },
+  {
+   "word": "enemy",
+   "start": 143.364,
+   "end": 143.773
+  },
+  {
+   "word": "is",
+   "start": 143.8,
+   "end": 143.982
+  },
+  {
+   "word": "powerful",
+   "start": 143.993,
+   "end": 144.403
+  },
+  {
+   "word": "enough",
+   "start": 144.429,
+   "end": 144.725
+  },
+  {
+   "word": "to",
+   "start": 144.744,
+   "end": 144.926
+  },
+  {
+   "word": "defeat",
+   "start": 144.938,
+   "end": 145.334
+  },
+  {
+   "word": "the",
+   "start": 145.353,
+   "end": 145.535
+  },
+  {
+   "word": "Avengers",
+   "start": 145.547,
+   "end": 145.956
+  },
+  {
+   "word": "at",
+   "start": 145.983,
+   "end": 146.165
+  },
+  {
+   "word": "their",
+   "start": 146.176,
+   "end": 146.359
+  },
+  {
+   "word": "own",
+   "start": 146.37,
+   "end": 146.552
+  },
+  {
+   "word": "game.",
+   "start": 146.564,
+   "end": 146.86
+  },
+  {
+   "word": "Thanos",
+   "start": 147.219,
+   "end": 147.616
+  },
+  {
+   "word": "doesn't",
+   "start": 147.641,
+   "end": 147.885
+  },
+  {
+   "word": "just",
+   "start": 147.901,
+   "end": 148.145
+  },
+  {
+   "word": "threaten",
+   "start": 148.16,
+   "end": 148.767
+  },
+  {
+   "word": "the",
+   "start": 148.792,
+   "end": 149.037
+  },
+  {
+   "word": "world.",
+   "start": 149.052,
+   "end": 149.296
+  },
+  {
+   "word": "He",
+   "start": 149.472,
+   "end": 149.698
+  },
+  {
+   "word": "threatens",
+   "start": 149.712,
+   "end": 150.079
+  },
+  {
+   "word": "the",
+   "start": 150.102,
+   "end": 150.328
+  },
+  {
+   "word": "entire",
+   "start": 150.342,
+   "end": 150.709
+  },
+  {
+   "word": "universe.",
+   "start": 150.732,
+   "end": 151.381
+  },
+  {
+   "word": "And",
+   "start": 151.763,
+   "end": 151.961
+  },
+  {
+   "word": "the",
+   "start": 151.974,
+   "end": 152.173
+  },
+  {
+   "word": "heroes",
+   "start": 152.185,
+   "end": 152.508
+  },
+  {
+   "word": "discover",
+   "start": 152.529,
+   "end": 152.975
+  },
+  {
+   "word": "that",
+   "start": 153.004,
+   "end": 153.353
+  },
+  {
+   "word": "even",
+   "start": 153.365,
+   "end": 153.688
+  },
+  {
+   "word": "their",
+   "start": 153.709,
+   "end": 153.907
+  },
+  {
+   "word": "combined",
+   "start": 153.92,
+   "end": 154.367
+  },
+  {
+   "word": "strength",
+   "start": 154.395,
+   "end": 154.594
+  },
+  {
+   "word": "might",
+   "start": 154.607,
+   "end": 155.045
+  },
+  {
+   "word": "not",
+   "start": 155.058,
+   "end": 155.257
+  },
+  {
+   "word": "be",
+   "start": 155.269,
+   "end": 155.468
+  },
+  {
+   "word": "enough.",
+   "start": 155.481,
+   "end": 155.803
+  },
+  {
+   "word": "Why",
+   "start": 156.164,
+   "end": 156.414
+  },
+  {
+   "word": "is",
+   "start": 156.43,
+   "end": 156.68
+  },
+  {
+   "word": "this",
+   "start": 156.696,
+   "end": 156.947
+  },
+  {
+   "word": "important",
+   "start": 156.963,
+   "end": 157.526
+  },
+  {
+   "word": "before",
+   "start": 157.562,
+   "end": 157.968
+  },
+  {
+   "word": "Doomsday?",
+   "start": 157.994,
+   "end": 158.401
+  },
+  {
+   "word": "Because",
+   "start": 158.767,
+   "end": 159.102
+  },
+  {
+   "word": "Doctor",
+   "start": 159.123,
+   "end": 159.458
+  },
+  {
+   "word": "Doom",
+   "start": 159.479,
+   "end": 159.685
+  },
+  {
+   "word": "is",
+   "start": 159.698,
+   "end": 160.014
+  },
+  {
+   "word": "another",
+   "start": 160.027,
+   "end": 160.491
+  },
+  {
+   "word": "villain",
+   "start": 160.52,
+   "end": 161.185
+  },
+  {
+   "word": "whose",
+   "start": 161.206,
+   "end": 161.412
+  },
+  {
+   "word": "threat",
+   "start": 161.425,
+   "end": 161.731
+  },
+  {
+   "word": "could",
+   "start": 161.744,
+   "end": 161.95
+  },
+  {
+   "word": "bring",
+   "start": 161.963,
+   "end": 162.169
+  },
+  {
+   "word": "heroes",
+   "start": 162.182,
+   "end": 162.517
+  },
+  {
+   "word": "from",
+   "start": 162.538,
+   "end": 162.744
+  },
+  {
+   "word": "different",
+   "start": 162.757,
+   "end": 163.221
+  },
+  {
+   "word": "corners",
+   "start": 163.25,
+   "end": 163.585
+  },
+  {
+   "word": "of",
+   "start": 163.606,
+   "end": 163.812
+  },
+  {
+   "word": "Marvel",
+   "start": 163.825,
+   "end": 164.16
+  },
+  {
+   "word": "together.",
+   "start": 164.181,
+   "end": 164.645
+  },
+  {
+   "word": "Infinity",
+   "start": 165.014,
+   "end": 165.619
+  },
+  {
+   "word": "War",
+   "start": 165.657,
+   "end": 165.867
+  },
+  {
+   "word": "reminds",
+   "start": 165.881,
+   "end": 166.222
+  },
+  {
+   "word": "us",
+   "start": 166.244,
+   "end": 166.454
+  },
+  {
+   "word": "that",
+   "start": 166.468,
+   "end": 166.678
+  },
+  {
+   "word": "sometimes,",
+   "start": 166.691,
+   "end": 167.296
+  },
+  {
+   "word": "the",
+   "start": 167.634,
+   "end": 167.89
+  },
+  {
+   "word": "heroes",
+   "start": 167.907,
+   "end": 168.323
+  },
+  {
+   "word": "don't",
+   "start": 168.349,
+   "end": 168.605
+  },
+  {
+   "word": "win.",
+   "start": 168.622,
+   "end": 168.878
+  },
+  {
+   "word": "And",
+   "start": 169.234,
+   "end": 169.433
+  },
+  {
+   "word": "sometimes,",
+   "start": 169.446,
+   "end": 170.018
+  },
+  {
+   "word": "the",
+   "start": 170.144,
+   "end": 170.359
+  },
+  {
+   "word": "consequences",
+   "start": 170.372,
+   "end": 170.99
+  },
+  {
+   "word": "change",
+   "start": 171.029,
+   "end": 171.244
+  },
+  {
+   "word": "everything.",
+   "start": 171.257,
+   "end": 171.875
+  },
+  {
+   "word": "Of",
+   "start": 172.664,
+   "end": 172.909
+  },
+  {
+   "word": "course,",
+   "start": 172.924,
+   "end": 173.321
+  },
+  {
+   "word": "you",
+   "start": 173.347,
+   "end": 173.525
+  },
+  {
+   "word": "can't",
+   "start": 173.537,
+   "end": 173.715
+  },
+  {
+   "word": "skip",
+   "start": 173.727,
+   "end": 173.905
+  },
+  {
+   "word": "Avengers:",
+   "start": 173.917,
+   "end": 174.318
+  },
+  {
+   "word": "Endgame.",
+   "start": 174.584,
+   "end": 175.254
+  },
+  {
+   "word": "This",
+   "start": 175.637,
+   "end": 175.835
+  },
+  {
+   "word": "movie",
+   "start": 175.848,
+   "end": 176.046
+  },
+  {
+   "word": "delivers",
+   "start": 176.059,
+   "end": 176.505
+  },
+  {
+   "word": "the",
+   "start": 176.533,
+   "end": 176.732
+  },
+  {
+   "word": "emotional",
+   "start": 176.744,
+   "end": 177.314
+  },
+  {
+   "word": "conclusion",
+   "start": 177.351,
+   "end": 177.797
+  },
+  {
+   "word": "to",
+   "start": 177.826,
+   "end": 178.024
+  },
+  {
+   "word": "the",
+   "start": 178.037,
+   "end": 178.235
+  },
+  {
+   "word": "Infinity",
+   "start": 178.248,
+   "end": 178.818
+  },
+  {
+   "word": "Saga",
+   "start": 178.854,
+   "end": 179.376
+  },
+  {
+   "word": "and",
+   "start": 179.397,
+   "end": 179.595
+  },
+  {
+   "word": "changes",
+   "start": 179.608,
+   "end": 179.93
+  },
+  {
+   "word": "the",
+   "start": 179.951,
+   "end": 180.149
+  },
+  {
+   "word": "future",
+   "start": 180.162,
+   "end": 180.484
+  },
+  {
+   "word": "of",
+   "start": 180.505,
+   "end": 180.703
+  },
+  {
+   "word": "the",
+   "start": 180.716,
+   "end": 181.124
+  },
+  {
+   "word": "MCU",
+   "start": 181.136,
+   "end": 181.893
+  },
+  {
+   "word": "forever.",
+   "start": 181.921,
+   "end": 182.777
+  },
+  {
+   "word": "It",
+   "start": 183.146,
+   "end": 183.354
+  },
+  {
+   "word": "gives",
+   "start": 183.367,
+   "end": 183.706
+  },
+  {
+   "word": "us",
+   "start": 183.728,
+   "end": 183.936
+  },
+  {
+   "word": "the",
+   "start": 183.949,
+   "end": 184.158
+  },
+  {
+   "word": "end",
+   "start": 184.171,
+   "end": 184.379
+  },
+  {
+   "word": "of",
+   "start": 184.392,
+   "end": 184.601
+  },
+  {
+   "word": "Tony",
+   "start": 184.614,
+   "end": 184.953
+  },
+  {
+   "word": "Stark's",
+   "start": 184.974,
+   "end": 185.182
+  },
+  {
+   "word": "journey,",
+   "start": 185.196,
+   "end": 185.534
+  },
+  {
+   "word": "the",
+   "start": 185.976,
+   "end": 186.211
+  },
+  {
+   "word": "consequences",
+   "start": 186.226,
+   "end": 186.901
+  },
+  {
+   "word": "of",
+   "start": 186.944,
+   "end": 187.269
+  },
+  {
+   "word": "Thanos's",
+   "start": 187.284,
+   "end": 187.666
+  },
+  {
+   "word": "actions,",
+   "start": 187.69,
+   "end": 188.072
+  },
+  {
+   "word": "and",
+   "start": 188.466,
+   "end": 188.645
+  },
+  {
+   "word": "a",
+   "start": 188.657,
+   "end": 188.836
+  },
+  {
+   "word": "major",
+   "start": 188.847,
+   "end": 189.138
+  },
+  {
+   "word": "turning",
+   "start": 189.157,
+   "end": 189.448
+  },
+  {
+   "word": "point",
+   "start": 189.467,
+   "end": 189.646
+  },
+  {
+   "word": "for",
+   "start": 189.658,
+   "end": 189.967
+  },
+  {
+   "word": "the",
+   "start": 189.978,
+   "end": 190.157
+  },
+  {
+   "word": "Avengers.",
+   "start": 190.169,
+   "end": 190.672
+  },
+  {
+   "word": "And",
+   "start": 191.038,
+   "end": 191.278
+  },
+  {
+   "word": "now,",
+   "start": 191.293,
+   "end": 191.533
+  },
+  {
+   "word": "Robert",
+   "start": 191.688,
+   "end": 192.061
+  },
+  {
+   "word": "Downey",
+   "start": 192.085,
+   "end": 192.458
+  },
+  {
+   "word": "Jr.",
+   "start": 192.482,
+   "end": 192.712
+  },
+  {
+   "word": "is",
+   "start": 192.726,
+   "end": 192.956
+  },
+  {
+   "word": "returning",
+   "start": 192.971,
+   "end": 193.488
+  },
+  {
+   "word": "to",
+   "start": 193.521,
+   "end": 193.75
+  },
+  {
+   "word": "Marvel",
+   "start": 193.765,
+   "end": 194.418
+  },
+  {
+   "word": "as",
+   "start": 194.442,
+   "end": 194.672
+  },
+  {
+   "word": "Doctor",
+   "start": 194.686,
+   "end": 195.06
+  },
+  {
+   "word": "Doom.",
+   "start": 195.083,
+   "end": 195.313
+  },
+  {
+   "word": "Yes,",
+   "start": 195.668,
+   "end": 195.903
+  },
+  {
+   "word": "the",
+   "start": 195.918,
+   "end": 196.128
+  },
+  {
+   "word": "same",
+   "start": 196.141,
+   "end": 196.351
+  },
+  {
+   "word": "actor",
+   "start": 196.364,
+   "end": 196.805
+  },
+  {
+   "word": "who",
+   "start": 196.827,
+   "end": 197.037
+  },
+  {
+   "word": "played",
+   "start": 197.05,
+   "end": 197.26
+  },
+  {
+   "word": "Iron",
+   "start": 197.273,
+   "end": 197.614
+  },
+  {
+   "word": "Man",
+   "start": 197.636,
+   "end": 197.846
+  },
+  {
+   "word": "is",
+   "start": 197.859,
+   "end": 198.069
+  },
+  {
+   "word": "stepping",
+   "start": 198.082,
+   "end": 198.823
+  },
+  {
+   "word": "into",
+   "start": 198.845,
+   "end": 199.186
+  },
+  {
+   "word": "the",
+   "start": 199.207,
+   "end": 199.417
+  },
+  {
+   "word": "role",
+   "start": 199.431,
+   "end": 199.771
+  },
+  {
+   "word": "of",
+   "start": 199.793,
+   "end": 200.003
+  },
+  {
+   "word": "one",
+   "start": 200.016,
+   "end": 200.226
+  },
+  {
+   "word": "of",
+   "start": 200.239,
+   "end": 200.449
+  },
+  {
+   "word": "Marvel's",
+   "start": 200.463,
+   "end": 200.803
+  },
+  {
+   "word": "most",
+   "start": 200.825,
+   "end": 201.035
+  },
+  {
+   "word": "dangerous",
+   "start": 201.048,
+   "end": 201.52
+  },
+  {
+   "word": "villains.",
+   "start": 201.55,
+   "end": 202.061
+  },
+  {
+   "word": "But",
+   "start": 202.423,
+   "end": 202.605
+  },
+  {
+   "word": "remember:",
+   "start": 202.617,
+   "end": 203.027
+  },
+  {
+   "word": "Tony",
+   "start": 203.463,
+   "end": 203.799
+  },
+  {
+   "word": "Stark",
+   "start": 203.82,
+   "end": 204.027
+  },
+  {
+   "word": "and",
+   "start": 204.04,
+   "end": 204.247
+  },
+  {
+   "word": "Victor",
+   "start": 204.26,
+   "end": 204.596
+  },
+  {
+   "word": "von",
+   "start": 204.617,
+   "end": 204.824
+  },
+  {
+   "word": "Doom",
+   "start": 204.837,
+   "end": 205.044
+  },
+  {
+   "word": "are",
+   "start": 205.057,
+   "end": 205.264
+  },
+  {
+   "word": "not",
+   "start": 205.277,
+   "end": 205.624
+  },
+  {
+   "word": "automatically",
+   "start": 205.637,
+   "end": 206.599
+  },
+  {
+   "word": "the",
+   "start": 206.654,
+   "end": 206.861
+  },
+  {
+   "word": "same",
+   "start": 206.874,
+   "end": 207.08
+  },
+  {
+   "word": "character.",
+   "start": 207.094,
+   "end": 207.669
+  },
+  {
+   "word": "How",
+   "start": 208.038,
+   "end": 208.259
+  },
+  {
+   "word": "Marvel",
+   "start": 208.273,
+   "end": 208.632
+  },
+  {
+   "word": "explains",
+   "start": 208.654,
+   "end": 209.013
+  },
+  {
+   "word": "this",
+   "start": 209.036,
+   "end": 209.257
+  },
+  {
+   "word": "casting",
+   "start": 209.271,
+   "end": 209.629
+  },
+  {
+   "word": "choice",
+   "start": 209.652,
+   "end": 209.873
+  },
+  {
+   "word": "is",
+   "start": 209.887,
+   "end": 210.107
+  },
+  {
+   "word": "one",
+   "start": 210.121,
+   "end": 210.342
+  },
+  {
+   "word": "of",
+   "start": 210.356,
+   "end": 210.877
+  },
+  {
+   "word": "the",
+   "start": 210.891,
+   "end": 211.112
+  },
+  {
+   "word": "biggest",
+   "start": 211.126,
+   "end": 211.484
+  },
+  {
+   "word": "mysteries",
+   "start": 211.507,
+   "end": 212.003
+  },
+  {
+   "word": "surrounding",
+   "start": 212.035,
+   "end": 212.822
+  },
+  {
+   "word": "the",
+   "start": 212.853,
+   "end": 213.074
+  },
+  {
+   "word": "movie.",
+   "start": 213.088,
+   "end": 213.447
+  },
+  {
+   "word": "And",
+   "start": 213.809,
+   "end": 214.023
+  },
+  {
+   "word": "Endgame",
+   "start": 214.037,
+   "end": 214.385
+  },
+  {
+   "word": "makes",
+   "start": 214.407,
+   "end": 214.755
+  },
+  {
+   "word": "that",
+   "start": 214.777,
+   "end": 214.991
+  },
+  {
+   "word": "mystery",
+   "start": 215.005,
+   "end": 215.736
+  },
+  {
+   "word": "even",
+   "start": 215.767,
+   "end": 216.115
+  },
+  {
+   "word": "more",
+   "start": 216.137,
+   "end": 216.351
+  },
+  {
+   "word": "fascinating.",
+   "start": 216.365,
+   "end": 216.98
+  },
+  {
+   "word": "And",
+   "start": 217.769,
+   "end": 218.023
+  },
+  {
+   "word": "finally,",
+   "start": 218.039,
+   "end": 218.61
+  },
+  {
+   "word": "the",
+   "start": 218.646,
+   "end": 218.86
+  },
+  {
+   "word": "movie",
+   "start": 218.874,
+   "end": 219.088
+  },
+  {
+   "word": "you",
+   "start": 219.102,
+   "end": 219.316
+  },
+  {
+   "word": "should",
+   "start": 219.329,
+   "end": 219.544
+  },
+  {
+   "word": "put",
+   "start": 219.557,
+   "end": 219.771
+  },
+  {
+   "word": "right",
+   "start": 219.785,
+   "end": 219.999
+  },
+  {
+   "word": "at",
+   "start": 220.013,
+   "end": 220.227
+  },
+  {
+   "word": "the",
+   "start": 220.241,
+   "end": 220.455
+  },
+  {
+   "word": "top",
+   "start": 220.469,
+   "end": 220.683
+  },
+  {
+   "word": "of",
+   "start": 220.696,
+   "end": 220.911
+  },
+  {
+   "word": "your",
+   "start": 220.924,
+   "end": 221.668
+  },
+  {
+   "word": "watchlist:",
+   "start": 221.682,
+   "end": 222.03
+  },
+  {
+   "word": "The",
+   "start": 222.052,
+   "end": 222.253
+  },
+  {
+   "word": "Fantastic",
+   "start": 222.266,
+   "end": 222.717
+  },
+  {
+   "word": "Four:",
+   "start": 222.986,
+   "end": 223.186
+  },
+  {
+   "word": "First",
+   "start": 223.199,
+   "end": 223.453
+  },
+  {
+   "word": "Steps.",
+   "start": 223.469,
+   "end": 223.722
+  },
+  {
+   "word": "Why?",
+   "start": 224.079,
+   "end": 224.585
+  },
+  {
+   "word": "Because",
+   "start": 225.057,
+   "end": 225.413
+  },
+  {
+   "word": "Doctor",
+   "start": 225.436,
+   "end": 225.792
+  },
+  {
+   "word": "Doom's",
+   "start": 225.814,
+   "end": 226.033
+  },
+  {
+   "word": "history",
+   "start": 226.047,
+   "end": 226.54
+  },
+  {
+   "word": "in",
+   "start": 226.572,
+   "end": 226.791
+  },
+  {
+   "word": "Marvel",
+   "start": 226.805,
+   "end": 227.161
+  },
+  {
+   "word": "comics",
+   "start": 227.183,
+   "end": 227.539
+  },
+  {
+   "word": "is",
+   "start": 227.562,
+   "end": 227.871
+  },
+  {
+   "word": "deeply",
+   "start": 227.885,
+   "end": 228.241
+  },
+  {
+   "word": "connected",
+   "start": 228.264,
+   "end": 228.756
+  },
+  {
+   "word": "to",
+   "start": 228.788,
+   "end": 229.007
+  },
+  {
+   "word": "the",
+   "start": 229.021,
+   "end": 229.24
+  },
+  {
+   "word": "Fantastic",
+   "start": 229.254,
+   "end": 229.747
+  },
+  {
+   "word": "Four,",
+   "start": 229.778,
+   "end": 230.447
+  },
+  {
+   "word": "especially",
+   "start": 230.461,
+   "end": 231.107
+  },
+  {
+   "word": "Reed",
+   "start": 231.148,
+   "end": 231.373
+  },
+  {
+   "word": "Richards.",
+   "start": 231.387,
+   "end": 231.862
+  },
+  {
+   "word": "Reed",
+   "start": 232.225,
+   "end": 232.45
+  },
+  {
+   "word": "is",
+   "start": 232.464,
+   "end": 232.689
+  },
+  {
+   "word": "one",
+   "start": 232.703,
+   "end": 232.928
+  },
+  {
+   "word": "of",
+   "start": 232.942,
+   "end": 233.167
+  },
+  {
+   "word": "Marvel's",
+   "start": 233.181,
+   "end": 233.546
+  },
+  {
+   "word": "smartest",
+   "start": 233.569,
+   "end": 233.934
+  },
+  {
+   "word": "characters,",
+   "start": 233.958,
+   "end": 234.643
+  },
+  {
+   "word": "while",
+   "start": 235.105,
+   "end": 235.436
+  },
+  {
+   "word": "Doom",
+   "start": 235.457,
+   "end": 235.66
+  },
+  {
+   "word": "combines",
+   "start": 235.673,
+   "end": 236.131
+  },
+  {
+   "word": "extraordinary",
+   "start": 236.16,
+   "end": 236.872
+  },
+  {
+   "word": "intelligence,",
+   "start": 236.918,
+   "end": 237.63
+  },
+  {
+   "word": "advanced",
+   "start": 238.025,
+   "end": 238.529
+  },
+  {
+   "word": "technology,",
+   "start": 238.561,
+   "end": 239.204
+  },
+  {
+   "word": "political",
+   "start": 239.385,
+   "end": 239.92
+  },
+  {
+   "word": "power,",
+   "start": 239.954,
+   "end": 240.256
+  },
+  {
+   "word": "and",
+   "start": 240.475,
+   "end": 240.667
+  },
+  {
+   "word": "mastery",
+   "start": 240.679,
+   "end": 241.11
+  },
+  {
+   "word": "of",
+   "start": 241.138,
+   "end": 241.33
+  },
+  {
+   "word": "sorcery.",
+   "start": 241.342,
+   "end": 241.773
+  },
+  {
+   "word": "That",
+   "start": 242.141,
+   "end": 242.323
+  },
+  {
+   "word": "makes",
+   "start": 242.335,
+   "end": 242.632
+  },
+  {
+   "word": "their",
+   "start": 242.651,
+   "end": 242.833
+  },
+  {
+   "word": "rivalry",
+   "start": 242.845,
+   "end": 243.256
+  },
+  {
+   "word": "much",
+   "start": 243.282,
+   "end": 243.715
+  },
+  {
+   "word": "more",
+   "start": 243.727,
+   "end": 243.909
+  },
+  {
+   "word": "than",
+   "start": 243.921,
+   "end": 244.104
+  },
+  {
+   "word": "a",
+   "start": 244.115,
+   "end": 244.298
+  },
+  {
+   "word": "simple",
+   "start": 244.31,
+   "end": 244.606
+  },
+  {
+   "word": "battle",
+   "start": 244.625,
+   "end": 244.922
+  },
+  {
+   "word": "between",
+   "start": 244.941,
+   "end": 245.238
+  },
+  {
+   "word": "a",
+   "start": 245.257,
+   "end": 245.439
+  },
+  {
+   "word": "hero",
+   "start": 245.451,
+   "end": 245.748
+  },
+  {
+   "word": "and",
+   "start": 245.767,
+   "end": 245.949
+  },
+  {
+   "word": "a",
+   "start": 245.961,
+   "end": 246.274
+  },
+  {
+   "word": "villain.",
+   "start": 246.285,
+   "end": 246.582
+  },
+  {
+   "word": "It's",
+   "start": 246.941,
+   "end": 247.151
+  },
+  {
+   "word": "a",
+   "start": 247.164,
+   "end": 247.373
+  },
+  {
+   "word": "clash",
+   "start": 247.387,
+   "end": 247.596
+  },
+  {
+   "word": "between",
+   "start": 247.61,
+   "end": 247.95
+  },
+  {
+   "word": "two",
+   "start": 247.972,
+   "end": 248.181
+  },
+  {
+   "word": "brilliant",
+   "start": 248.195,
+   "end": 248.535
+  },
+  {
+   "word": "minds",
+   "start": 248.557,
+   "end": 248.766
+  },
+  {
+   "word": "with",
+   "start": 248.78,
+   "end": 248.989
+  },
+  {
+   "word": "very",
+   "start": 249.003,
+   "end": 249.713
+  },
+  {
+   "word": "different",
+   "start": 249.735,
+   "end": 250.206
+  },
+  {
+   "word": "ideas",
+   "start": 250.236,
+   "end": 250.577
+  },
+  {
+   "word": "about",
+   "start": 250.598,
+   "end": 250.939
+  },
+  {
+   "word": "power",
+   "start": 250.961,
+   "end": 251.401
+  },
+  {
+   "word": "and",
+   "start": 251.423,
+   "end": 251.632
+  },
+  {
+   "word": "the",
+   "start": 251.646,
+   "end": 251.965
+  },
+  {
+   "word": "future.",
+   "start": 251.979,
+   "end": 252.45
+  },
+  {
+   "word": "This",
+   "start": 252.82,
+   "end": 253.059
+  },
+  {
+   "word": "movie",
+   "start": 253.074,
+   "end": 253.313
+  },
+  {
+   "word": "introduces",
+   "start": 253.328,
+   "end": 254.015
+  },
+  {
+   "word": "Marvel's",
+   "start": 254.059,
+   "end": 254.447
+  },
+  {
+   "word": "First",
+   "start": 254.472,
+   "end": 254.71
+  },
+  {
+   "word": "Family",
+   "start": 254.726,
+   "end": 255.263
+  },
+  {
+   "word": "and",
+   "start": 255.297,
+   "end": 255.816
+  },
+  {
+   "word": "establishes",
+   "start": 255.831,
+   "end": 256.518
+  },
+  {
+   "word": "their",
+   "start": 256.562,
+   "end": 256.801
+  },
+  {
+   "word": "world,",
+   "start": 256.816,
+   "end": 257.055
+  },
+  {
+   "word": "making",
+   "start": 257.16,
+   "end": 257.537
+  },
+  {
+   "word": "it",
+   "start": 257.561,
+   "end": 257.792
+  },
+  {
+   "word": "one",
+   "start": 257.807,
+   "end": 258.039
+  },
+  {
+   "word": "of",
+   "start": 258.054,
+   "end": 258.285
+  },
+  {
+   "word": "the",
+   "start": 258.3,
+   "end": 258.532
+  },
+  {
+   "word": "most",
+   "start": 258.547,
+   "end": 258.778
+  },
+  {
+   "word": "relevant",
+   "start": 258.793,
+   "end": 259.425
+  },
+  {
+   "word": "films",
+   "start": 259.458,
+   "end": 259.69
+  },
+  {
+   "word": "to",
+   "start": 259.704,
+   "end": 259.936
+  },
+  {
+   "word": "watch",
+   "start": 259.951,
+   "end": 260.183
+  },
+  {
+   "word": "before",
+   "start": 260.198,
+   "end": 260.574
+  },
+  {
+   "word": "Doomsday.",
+   "start": 260.598,
+   "end": 260.975
+  },
+  {
+   "word": "And",
+   "start": 261.339,
+   "end": 261.564
+  },
+  {
+   "word": "with",
+   "start": 261.579,
+   "end": 261.804
+  },
+  {
+   "word": "the",
+   "start": 261.819,
+   "end": 262.044
+  },
+  {
+   "word": "Fantastic",
+   "start": 262.059,
+   "end": 262.566
+  },
+  {
+   "word": "Four",
+   "start": 262.599,
+   "end": 262.944
+  },
+  {
+   "word": "entering",
+   "start": 262.959,
+   "end": 263.466
+  },
+  {
+   "word": "the",
+   "start": 263.499,
+   "end": 263.724
+  },
+  {
+   "word": "larger",
+   "start": 263.739,
+   "end": 264.105
+  },
+  {
+   "word": "Marvel",
+   "start": 264.129,
+   "end": 264.495
+  },
+  {
+   "word": "story,",
+   "start": 264.519,
+   "end": 264.885
+  },
+  {
+   "word": "you",
+   "start": 265.349,
+   "end": 265.525
+  },
+  {
+   "word": "definitely",
+   "start": 265.537,
+   "end": 266.155
+  },
+  {
+   "word": "don't",
+   "start": 266.194,
+   "end": 266.371
+  },
+  {
+   "word": "want",
+   "start": 266.382,
+   "end": 266.558
+  },
+  {
+   "word": "to",
+   "start": 266.57,
+   "end": 266.746
+  },
+  {
+   "word": "miss",
+   "start": 266.757,
+   "end": 266.934
+  },
+  {
+   "word": "their",
+   "start": 266.945,
+   "end": 267.122
+  },
+  {
+   "word": "introduction.",
+   "start": 267.133,
+   "end": 267.641
+  },
+  {
+   "word": "If",
+   "start": 268.423,
+   "end": 268.666
+  },
+  {
+   "word": "you",
+   "start": 268.681,
+   "end": 268.924
+  },
+  {
+   "word": "want",
+   "start": 268.939,
+   "end": 269.182
+  },
+  {
+   "word": "a",
+   "start": 269.197,
+   "end": 269.439
+  },
+  {
+   "word": "better",
+   "start": 269.455,
+   "end": 269.849
+  },
+  {
+   "word": "understanding",
+   "start": 269.874,
+   "end": 270.571
+  },
+  {
+   "word": "of",
+   "start": 270.616,
+   "end": 270.858
+  },
+  {
+   "word": "the",
+   "start": 271.164,
+   "end": 271.406
+  },
+  {
+   "word": "multiverse,",
+   "start": 271.422,
+   "end": 272.119
+  },
+  {
+   "word": "watch",
+   "start": 272.613,
+   "end": 272.757
+  },
+  {
+   "word": "Spider-Man:",
+   "start": 272.766,
+   "end": 273.091
+  },
+  {
+   "word": "No",
+   "start": 273.111,
+   "end": 273.255
+  },
+  {
+   "word": "Way",
+   "start": 273.265,
+   "end": 273.409
+  },
+  {
+   "word": "Home",
+   "start": 273.418,
+   "end": 273.562
+  },
+  {
+   "word": "as",
+   "start": 273.571,
+   "end": 273.715
+  },
+  {
+   "word": "well.",
+   "start": 273.724,
+   "end": 273.868
+  },
+  {
+   "word": "And",
+   "start": 274.218,
+   "end": 274.417
+  },
+  {
+   "word": "if",
+   "start": 274.43,
+   "end": 274.629
+  },
+  {
+   "word": "you",
+   "start": 274.642,
+   "end": 274.842
+  },
+  {
+   "word": "want",
+   "start": 274.854,
+   "end": 275.054
+  },
+  {
+   "word": "to",
+   "start": 275.067,
+   "end": 275.266
+  },
+  {
+   "word": "understand",
+   "start": 275.279,
+   "end": 275.728
+  },
+  {
+   "word": "the",
+   "start": 275.757,
+   "end": 275.956
+  },
+  {
+   "word": "bigger",
+   "start": 275.969,
+   "end": 276.293
+  },
+  {
+   "word": "story",
+   "start": 276.314,
+   "end": 276.638
+  },
+  {
+   "word": "behind",
+   "start": 276.659,
+   "end": 276.983
+  },
+  {
+   "word": "the",
+   "start": 277.004,
+   "end": 277.533
+  },
+  {
+   "word": "TVA,",
+   "start": 277.546,
+   "end": 278.205
+  },
+  {
+   "word": "branching",
+   "start": 278.218,
+   "end": 278.622
+  },
+  {
+   "word": "timelines,",
+   "start": 278.648,
+   "end": 279.363
+  },
+  {
+   "word": "and",
+   "start": 279.408,
+   "end": 279.591
+  },
+  {
+   "word": "He",
+   "start": 279.603,
+   "end": 279.786
+  },
+  {
+   "word": "Who",
+   "start": 279.797,
+   "end": 279.98
+  },
+  {
+   "word": "Remains,",
+   "start": 279.992,
+   "end": 280.289
+  },
+  {
+   "word": "watch",
+   "start": 280.628,
+   "end": 280.877
+  },
+  {
+   "word": "Loki",
+   "start": 280.893,
+   "end": 281.298
+  },
+  {
+   "word": "Seasons",
+   "start": 281.323,
+   "end": 281.728
+  },
+  {
+   "word": "1",
+   "start": 281.754,
+   "end": 282.003
+  },
+  {
+   "word": "and",
+   "start": 282.019,
+   "end": 282.268
+  },
+  {
+   "word": "2.",
+   "start": 282.284,
+   "end": 282.533
+  },
+  {
+   "word": "They're",
+   "start": 282.889,
+   "end": 283.154
+  },
+  {
+   "word": "not",
+   "start": 283.171,
+   "end": 283.435
+  },
+  {
+   "word": "movies,",
+   "start": 283.452,
+   "end": 283.882
+  },
+  {
+   "word": "but",
+   "start": 284.209,
+   "end": 284.423
+  },
+  {
+   "word": "they",
+   "start": 284.436,
+   "end": 284.65
+  },
+  {
+   "word": "provide",
+   "start": 284.663,
+   "end": 285.01
+  },
+  {
+   "word": "useful",
+   "start": 285.032,
+   "end": 285.512
+  },
+  {
+   "word": "background",
+   "start": 285.543,
+   "end": 285.889
+  },
+  {
+   "word": "for",
+   "start": 285.912,
+   "end": 286.215
+  },
+  {
+   "word": "the",
+   "start": 286.228,
+   "end": 286.442
+  },
+  {
+   "word": "Multiverse",
+   "start": 286.455,
+   "end": 286.935
+  },
+  {
+   "word": "Saga.",
+   "start": 286.966,
+   "end": 287.313
+  },
+  {
+   "word": "So,",
+   "start": 288.085,
+   "end": 288.351
+  },
+  {
+   "word": "let's",
+   "start": 288.368,
+   "end": 288.633
+  },
+  {
+   "word": "recap",
+   "start": 288.65,
+   "end": 289.082
+  },
+  {
+   "word": "your",
+   "start": 289.11,
+   "end": 289.376
+  },
+  {
+   "word": "essential",
+   "start": 289.393,
+   "end": 289.991
+  },
+  {
+   "word": "movie",
+   "start": 290.029,
+   "end": 290.295
+  },
+  {
+   "word": "watchlist:",
+   "start": 290.312,
+   "end": 290.744
+  },
+  {
+   "word": "Number",
+   "start": 291.111,
+   "end": 291.518
+  },
+  {
+   "word": "6",
+   "start": 291.544,
+   "end": 291.795
+  },
+  {
+   "word": "Thunderbolts.",
+   "start": 292.651,
+   "end": 292.771
+  },
+  {
+   "word": "Number",
+   "start": 293.119,
+   "end": 293.47
+  },
+  {
+   "word": "5",
+   "start": 293.492,
+   "end": 293.708
+  },
+  {
+   "word": "Deadpool",
+   "start": 293.951,
+   "end": 294.301
+  },
+  {
+   "word": "&",
+   "start": 294.324,
+   "end": 294.539
+  },
+  {
+   "word": "Wolverine.",
+   "start": 294.553,
+   "end": 295.173
+  },
+  {
+   "word": "Number",
+   "start": 295.553,
+   "end": 295.954
+  },
+  {
+   "word": "4",
+   "start": 295.98,
+   "end": 296.227
+  },
+  {
+   "word": "Doctor",
+   "start": 296.599,
+   "end": 296.96
+  },
+  {
+   "word": "Strange",
+   "start": 296.983,
+   "end": 297.205
+  },
+  {
+   "word": "in",
+   "start": 297.219,
+   "end": 297.441
+  },
+  {
+   "word": "the",
+   "start": 297.455,
+   "end": 297.677
+  },
+  {
+   "word": "Multiverse",
+   "start": 297.692,
+   "end": 298.191
+  },
+  {
+   "word": "of",
+   "start": 298.223,
+   "end": 298.445
+  },
+  {
+   "word": "Madness.",
+   "start": 298.459,
+   "end": 298.82
+  },
+  {
+   "word": "Number",
+   "start": 299.183,
+   "end": 299.576
+  },
+  {
+   "word": "3",
+   "start": 299.601,
+   "end": 299.842
+  },
+  {
+   "word": "Avengers:",
+   "start": 300.663,
+   "end": 301.017
+  },
+  {
+   "word": "Infinity",
+   "start": 301.04,
+   "end": 301.492
+  },
+  {
+   "word": "War.",
+   "start": 301.521,
+   "end": 301.678
+  },
+  {
+   "word": "Number",
+   "start": 302.028,
+   "end": 302.415
+  },
+  {
+   "word": "2",
+   "start": 302.439,
+   "end": 302.677
+  },
+  {
+   "word": "Avengers:",
+   "start": 303.388,
+   "end": 303.715
+  },
+  {
+   "word": "Endgame.",
+   "start": 303.736,
+   "end": 304.063
+  },
+  {
+   "word": "And",
+   "start": 304.424,
+   "end": 304.667
+  },
+  {
+   "word": "number",
+   "start": 304.682,
+   "end": 305.077
+  },
+  {
+   "word": "1",
+   "start": 305.102,
+   "end": 305.345
+  },
+  {
+   "word": "The",
+   "start": 305.964,
+   "end": 306.104
+  },
+  {
+   "word": "Fantastic",
+   "start": 306.113,
+   "end": 306.658
+  },
+  {
+   "word": "Four:",
+   "start": 306.678,
+   "end": 306.818
+  },
+  {
+   "word": "First",
+   "start": 306.826,
+   "end": 307.017
+  },
+  {
+   "word": "Steps.",
+   "start": 307.029,
+   "end": 307.22
+  },
+  {
+   "word": "Six",
+   "start": 307.572,
+   "end": 307.942
+  },
+  {
+   "word": "movies.",
+   "start": 307.966,
+   "end": 308.567
+  },
+  {
+   "word": "One",
+   "start": 308.865,
+   "end": 309.132
+  },
+  {
+   "word": "massive",
+   "start": 309.149,
+   "end": 309.581
+  },
+  {
+   "word": "Marvel",
+   "start": 309.609,
+   "end": 310.042
+  },
+  {
+   "word": "event.",
+   "start": 310.069,
+   "end": 310.502
+  },
+  {
+   "word": "And",
+   "start": 310.69,
+   "end": 310.904
+  },
+  {
+   "word": "one",
+   "start": 310.917,
+   "end": 311.132
+  },
+  {
+   "word": "villain",
+   "start": 311.145,
+   "end": 311.494
+  },
+  {
+   "word": "who",
+   "start": 311.516,
+   "end": 311.73
+  },
+  {
+   "word": "could",
+   "start": 311.744,
+   "end": 311.958
+  },
+  {
+   "word": "change",
+   "start": 311.972,
+   "end": 312.186
+  },
+  {
+   "word": "everything.",
+   "start": 312.2,
+   "end": 312.996
+  },
+  {
+   "word": "Of",
+   "start": 313.375,
+   "end": 313.624
+  },
+  {
+   "word": "course,",
+   "start": 313.639,
+   "end": 314.043
+  },
+  {
+   "word": "this",
+   "start": 314.069,
+   "end": 314.272
+  },
+  {
+   "word": "is",
+   "start": 314.285,
+   "end": 314.487
+  },
+  {
+   "word": "a",
+   "start": 314.5,
+   "end": 314.703
+  },
+  {
+   "word": "recommended",
+   "start": 314.716,
+   "end": 315.298
+  },
+  {
+   "word": "shortlist,",
+   "start": 315.335,
+   "end": 315.664
+  },
+  {
+   "word": "not",
+   "start": 316.125,
+   "end": 316.34
+  },
+  {
+   "word": "an",
+   "start": 316.353,
+   "end": 316.568
+  },
+  {
+   "word": "officially",
+   "start": 316.582,
+   "end": 317.199
+  },
+  {
+   "word": "confirmed",
+   "start": 317.239,
+   "end": 317.722
+  },
+  {
+   "word": "list",
+   "start": 317.753,
+   "end": 317.968
+  },
+  {
+   "word": "of",
+   "start": 317.981,
+   "end": 318.196
+  },
+  {
+   "word": "movies",
+   "start": 318.21,
+   "end": 318.559
+  },
+  {
+   "word": "required",
+   "start": 318.581,
+   "end": 319.064
+  },
+  {
+   "word": "to",
+   "start": 319.095,
+   "end": 319.31
+  },
+  {
+   "word": "understand",
+   "start": 319.323,
+   "end": 319.807
+  },
+  {
+   "word": "Avengers:",
+   "start": 319.837,
+   "end": 320.921
+  },
+  {
+   "word": "Doomsday.",
+   "start": 320.952,
+   "end": 321.35
+  },
+  {
+   "word": "Now",
+   "start": 321.715,
+   "end": 321.949
+  },
+  {
+   "word": "I",
+   "start": 321.964,
+   "end": 322.198
+  },
+  {
+   "word": "have",
+   "start": 322.213,
+   "end": 322.447
+  },
+  {
+   "word": "one",
+   "start": 322.462,
+   "end": 322.696
+  },
+  {
+   "word": "question",
+   "start": 322.71,
+   "end": 323.09
+  },
+  {
+   "word": "for",
+   "start": 323.115,
+   "end": 323.348
+  },
+  {
+   "word": "you.",
+   "start": 323.363,
+   "end": 323.597
+  },
+  {
+   "word": "Do",
+   "start": 323.952,
+   "end": 324.164
+  },
+  {
+   "word": "you",
+   "start": 324.178,
+   "end": 324.39
+  },
+  {
+   "word": "think",
+   "start": 324.403,
+   "end": 324.615
+  },
+  {
+   "word": "Doctor",
+   "start": 324.628,
+   "end": 324.973
+  },
+  {
+   "word": "Doom",
+   "start": 324.995,
+   "end": 325.207
+  },
+  {
+   "word": "will",
+   "start": 325.22,
+   "end": 325.432
+  },
+  {
+   "word": "be",
+   "start": 325.446,
+   "end": 325.658
+  },
+  {
+   "word": "more",
+   "start": 325.671,
+   "end": 325.883
+  },
+  {
+   "word": "dangerous",
+   "start": 325.897,
+   "end": 326.373
+  },
+  {
+   "word": "than",
+   "start": 326.404,
+   "end": 326.706
+  },
+  {
+   "word": "Thanos?",
+   "start": 326.719,
+   "end": 327.164
+  },
+  {
+   "word": "Let",
+   "start": 327.526,
+   "end": 327.743
+  },
+  {
+   "word": "me",
+   "start": 327.757,
+   "end": 327.975
+  },
+  {
+   "word": "know",
+   "start": 327.989,
+   "end": 328.206
+  },
+  {
+   "word": "in",
+   "start": 328.22,
+   "end": 328.438
+  },
+  {
+   "word": "the",
+   "start": 328.451,
+   "end": 328.669
+  },
+  {
+   "word": "comments!",
+   "start": 328.683,
+   "end": 329.036
+  },
+  {
+   "word": "And",
+   "start": 329.399,
+   "end": 329.59
+  },
+  {
+   "word": "if",
+   "start": 329.602,
+   "end": 329.793
+  },
+  {
+   "word": "you're",
+   "start": 329.806,
+   "end": 329.997
+  },
+  {
+   "word": "a",
+   "start": 330.009,
+   "end": 330.2
+  },
+  {
+   "word": "true",
+   "start": 330.212,
+   "end": 330.403
+  },
+  {
+   "word": "Marvel",
+   "start": 330.415,
+   "end": 330.726
+  },
+  {
+   "word": "fan,",
+   "start": 330.746,
+   "end": 331.037
+  },
+  {
+   "word": "hit",
+   "start": 331.139,
+   "end": 331.4
+  },
+  {
+   "word": "that",
+   "start": 331.416,
+   "end": 331.677
+  },
+  {
+   "word": "like",
+   "start": 331.693,
+   "end": 331.954
+  },
+  {
+   "word": "button,",
+   "start": 331.971,
+   "end": 332.394
+  },
+  {
+   "word": "subscribe",
+   "start": 332.421,
+   "end": 332.735
+  },
+  {
+   "word": "for",
+   "start": 332.755,
+   "end": 332.948
+  },
+  {
+   "word": "more",
+   "start": 332.96,
+   "end": 333.153
+  },
+  {
+   "word": "MCU",
+   "start": 333.165,
+   "end": 333.599
+  },
+  {
+   "word": "updates,",
+   "start": 333.627,
+   "end": 334.551
+  },
+  {
+   "word": "and",
+   "start": 334.689,
+   "end": 334.932
+  },
+  {
+   "word": "turn",
+   "start": 334.947,
+   "end": 335.189
+  },
+  {
+   "word": "on",
+   "start": 335.205,
+   "end": 335.447
+  },
+  {
+   "word": "notifications.",
+   "start": 335.463,
+   "end": 336.422
+  },
+  {
+   "word": "Because",
+   "start": 336.816,
+   "end": 337.208
+  },
+  {
+   "word": "when",
+   "start": 337.234,
+   "end": 337.475
+  },
+  {
+   "word": "Doom",
+   "start": 337.491,
+   "end": 337.732
+  },
+  {
+   "word": "arrives\u2026",
+   "start": 337.747,
+   "end": 338.291
+  },
+  {
+   "word": "The",
+   "start": 339.016,
+   "end": 339.254
+  },
+  {
+   "word": "entire",
+   "start": 339.269,
+   "end": 339.655
+  },
+  {
+   "word": "Marvel",
+   "start": 339.68,
+   "end": 340.067
+  },
+  {
+   "word": "universe",
+   "start": 340.091,
+   "end": 340.627
+  },
+  {
+   "word": "could",
+   "start": 340.661,
+   "end": 340.899
+  },
+  {
+   "word": "change",
+   "start": 340.914,
+   "end": 341.152
+  },
+  {
+   "word": "forever.",
+   "start": 341.167,
+   "end": 341.702
+  },
+  {
+   "word": "See",
+   "start": 342.076,
+   "end": 342.283
+  },
+  {
+   "word": "you",
+   "start": 342.296,
+   "end": 342.502
+  },
+  {
+   "word": "in",
+   "start": 342.515,
+   "end": 342.721
+  },
+  {
+   "word": "the",
+   "start": 342.734,
+   "end": 342.94
+  },
+  {
+   "word": "next",
+   "start": 342.953,
+   "end": 343.159
+  },
+  {
+   "word": "video!",
+   "start": 343.173,
+   "end": 343.507
+  }
+ ]
+}
