@@ -1,0 +1,23 @@
+{
+ "title": "Thumbnail - 6 Movies Before Avengers Doomsday",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "dusk",
+ "voiceover": null,
+ "script": null,
+ "duration": 1.0,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0,
+ "fadeOut": 0,
+ "music": {
+  "enabled": true,
+  "gainDb": -17
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14
+}
