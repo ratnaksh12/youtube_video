@@ -9,3 +9,6 @@ narration/samples/
 narration/out/*.wav
 narration/voiceover_preview.mp3
 *.log
+# full-quality master is >100 MB (GitHub limit); the repo keeps the *_web.mp4 copy
+aitrends-2d-studio/projects/*/out/*.mp4
+!aitrends-2d-studio/projects/*/out/*_web.mp4
