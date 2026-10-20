@@ -4,7 +4,7 @@
  "resolution": "1080p",
  "fps": 24,
  "style": "dusk",
- "voiceover": "input/voiceover.wav",
+ "voiceover": "input/voiceover.flac",
  "script": null,
  "duration": 344.129,
  "captions": false,

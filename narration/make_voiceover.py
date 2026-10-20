@@ -17,7 +17,8 @@ EXTRA = {"Think about that for a second.": 0.45, "Now things get dangerous.": 0.
          "Because when Doom arrives…": 0.35, "Six movies.": 0.1, "Why?": 0.1}
 
 # pronunciation hints only (display text stays verbatim)
-SAY = [(r"\bMCU\b", "M.C.U."), (r"\bTVA\b", "T.V.A."), (r"\bJr\.", "Junior"), (r"…", "..."),
+# MCU / TVA are left as-is: the phonemizer reads them as one smooth word (no letter-by-letter pauses)
+SAY = [(r"\bJr\.", "Junior"), (r"…", "..."),
        (r"\bBelova\b", "Beh-loh-vah"), (r"\bwatchlist\b", "watch list"), (r" & ", " and ")]
 
 
