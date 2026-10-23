@@ -1,0 +1,35 @@
+{
+ "title": "Thumbnail - Is Doctor Doom Secretly Tony Stark",
+ "duration": 1.0,
+ "shots": [
+  {
+   "id": "thumb",
+   "start": 0,
+   "end": 0.5,
+   "line": "",
+   "scene": "thumbnail",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "thumb",
+   "start": 0.5,
+   "end": 1.0,
+   "line": "",
+   "scene": "thumbnail",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "notext": true
+   }
+  }
+ ],
+ "music": []
+}

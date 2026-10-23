@@ -37,5 +37,14 @@ Disclaimer: This is an original fan-made animation and a speculative theory. It 
 
 #AvengersDoomsday #DoctorDoom #TonyStark
 
+## Thumbnail
+- Ready to upload: `channel/thumbnail2_doom_tony_1280x720.jpg` (PNG copy alongside)
+- Clean art reference (no text) for an AI generator: `channel/thumbnail2_doom_tony_reference_notext.png`
+
+AI prompt (use the reference image for composition):
+> YouTube thumbnail, 16:9, bold flat 2D animation style with thick clean shapes and strong rim light. One giant face filling the left half of the frame, split perfectly down the middle by a glowing jagged crack of green and white light. Left half: a determined man with a dark goatee and moustache, warm orange and gold rim light, fiery orange sunburst background. Right half: Doctor Doom's polished silver metal mask with one glowing green eye slit, inside a dark green hood, emerald green background with a lightning bolt. Right third left empty for big text. High contrast, saturated, cinematic, dramatic, readable at small size, no text.
+
+Text to add on the right: a red badge "ENDGAME THEORY", then "DOOM" (glowing mint green), "IS" (white), "TONY?" (gold), all with thick dark outlines. Keep the bottom-right corner clear for YouTube's timestamp.
+
 ## Tags
 doctor doom tony stark theory, is doctor doom tony stark, avengers doomsday theory, rdj doctor doom, robert downey jr doctor doom, doom is tony stark, endgame time heist theory, howard stark 1970, endgame plot hole, fantastic four first steps ending, franklin richards, victor von doom, stolen lives, avengers doomsday, marvel theory, mcu theory, multiverse saga, secret wars, marvel animated theory, inkverse
