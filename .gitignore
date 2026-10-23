@@ -8,6 +8,9 @@ aitrends-2d-studio/examples/*/build/
 narration/samples/
 narration/out/*.wav
 narration/voiceover_preview.mp3
+narration/*/out/*.wav
+narration/*/out/*.flac
+narration/*/voiceover_preview.mp3
 *.log
 # full-quality master is >100 MB (GitHub limit); the repo keeps the *_web.mp4 copy
 aitrends-2d-studio/projects/*/out/*.mp4

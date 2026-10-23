@@ -18,7 +18,7 @@ EXTRA = {"Think about that for a second.": 0.45, "Now things get dangerous.": 0.
 
 # pronunciation hints only (display text stays verbatim)
 # MCU / TVA are left as-is: the phonemizer reads them as one smooth word (no letter-by-letter pauses)
-SAY = [(r"\bJr\.", "Junior"), (r"…", "..."),
+SAY = [(r"S\.H\.I\.E\.L\.D\.", "Shield"), (r"\bJr\.", "Junior"), (r"…", "..."),
        (r"\bBelova\b", "Beh-loh-vah"), (r"\bwatchlist\b", "watch list"), (r" & ", " and ")]
 
 
@@ -40,8 +40,9 @@ def spoken_blocks(md):
 
 def split_sentences(p):
     p = p.replace("Jr. ", "Jr. ")
+    p = re.sub(r"\b(?:[A-Z]\.){2,}", lambda m: m.group(0).replace(".", "\u2024"), p)   # S.H.I.E.L.D. is not a sentence end
     parts = re.split(r"(?<=[.?!…])[ \t]+", p)
-    return [x.replace(" ", " ").strip() for x in parts if x.strip()]
+    return [x.replace(" ", " ").replace("\u2024", ".").strip() for x in parts if x.strip()]
 
 
 def say_text(s):

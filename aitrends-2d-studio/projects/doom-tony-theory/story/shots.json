@@ -1,0 +1,2230 @@
+{
+ "title": "Is Doctor Doom Secretly Tony Stark? How Endgame Created Doom (Theory)",
+ "duration": 251.92,
+ "shots": [
+  {
+   "id": "t001",
+   "start": 0.0,
+   "end": 1.397,
+   "line": "Imagine this.",
+   "scene": "darkness: two green eye slits ignite",
+   "set": "black",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t002",
+   "start": 1.397,
+   "end": 3.982,
+   "line": "The final battle of Avengers: Doomsday.",
+   "scene": "green multiverse battlefield, fallen heroes, Doom stands centre",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "thunder",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "t003",
+   "start": 3.982,
+   "end": 6.412,
+   "line": "Doctor Doom stands over the fallen heroes,",
+   "scene": "low angle: Doom towers over the fallen heroes",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "t004",
+   "start": 6.412,
+   "end": 8.833,
+   "line": "and slowly, he removes his mask.",
+   "scene": "close-up: Doom slowly lifts his mask away",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t005",
+   "start": 8.833,
+   "end": 10.334,
+   "line": "The Avengers freeze.",
+   "scene": "FREEZE: Cap, Thor, Spider-Man shocked, debris hangs in the air",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t006",
+   "start": 10.334,
+   "end": 13.45,
+   "line": "Because the face staring back at them is Tony Stark.",
+   "scene": "the face under the mask; an Iron Man helmet ghost dissolves into it: TONY STARK",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t007",
+   "start": 13.45,
+   "end": 16.847,
+   "line": "But Reed Richards and Sue Storm see someone else entirely.",
+   "scene": "Reed and Sue stare, a different recognition",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "t008",
+   "start": 16.847,
+   "end": 18.774,
+   "line": "They see Victor von Doom.",
+   "scene": "the same face, now framed by a green hood: VICTOR VON DOOM",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t009",
+   "start": 18.774,
+   "end": 19.869,
+   "line": "Same face.",
+   "scene": "split: Tony's face | Victor's face, identical",
+   "set": "split",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t010",
+   "start": 19.869,
+   "end": 20.882,
+   "line": "Two lives.",
+   "scene": "split: Tony in a gold-lit mansion | Victor alone in a green castle",
+   "set": "split",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t011",
+   "start": 20.882,
+   "end": 22.317,
+   "line": "Two universes.",
+   "scene": "two universe bubbles, blue and green, a figure in each",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t012",
+   "start": 22.317,
+   "end": 24.279,
+   "line": "And according to one fan theory,",
+   "scene": "the fan scrolls a theory post on a glowing phone",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t013",
+   "start": 24.279,
+   "end": 28.611,
+   "line": "it all started with a single mistake in Avengers: Endgame.",
+   "scene": "TITLE CARD: IS DOCTOR DOOM SECRETLY TONY STARK?",
+   "set": "title",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -5
+    },
+    {
+     "at": 2.6,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "captions": false
+  },
+  {
+   "id": "t014",
+   "start": 28.611,
+   "end": 30.254,
+   "line": "Remember the Time Heist?",
+   "scene": "the quantum tunnel, two tiny figures flying through it",
+   "set": "tunnel",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 0.8,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t015",
+   "start": 30.254,
+   "end": 33.663,
+   "line": "Tony Stark and Steve Rogers travel back to 1970,",
+   "scene": "Tony and Steve pop out of the tunnel in 1970 disguises",
+   "set": "tunnel",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "powerup",
+     "gain": -10
+    },
+    {
+     "at": 2.6,
+     "name": "flash",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t016",
+   "start": 33.663,
+   "end": 36.944,
+   "line": "to a military base in New Jersey,",
+   "scene": "1970 army base establishing, golden afternoon, badge 1970 / NEW JERSEY",
+   "set": "base70",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t017",
+   "start": 36.944,
+   "end": 38.627,
+   "line": "to steal the Tesseract.",
+   "scene": "insert: the glowing Tesseract in its vault case",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hum",
+     "gain": -16
+    },
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t018",
+   "start": 38.627,
+   "end": 39.608,
+   "line": "They get it.",
+   "scene": "a hand lifts the cube into a briefcase",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t019",
+   "start": 39.608,
+   "end": 41.625,
+   "line": "But they leave something behind.",
+   "scene": "the empty case, a footprint of light, the alarm starts to pulse",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t020",
+   "start": 41.625,
+   "end": 44.835,
+   "line": "Because to everyone living in 1970,",
+   "scene": "agents run across the base, red alarm lights",
+   "set": "base70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "t021",
+   "start": 44.835,
+   "end": 47.679,
+   "line": "the Tesseract simply vanished from a locked vault.",
+   "scene": "the locked vault: empty pedestal, a fading blue afterglow, '?'",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t022",
+   "start": 47.679,
+   "end": 51.001,
+   "line": "And the last person seen near it was Howard Stark.",
+   "scene": "spotlight on Howard Stark in the corridor, agents turn to look: HOWARD STARK",
+   "set": "base70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t023",
+   "start": 51.001,
+   "end": 53.755,
+   "line": "Endgame gave us one rule for time travel.",
+   "scene": "BLUEPRINT: THE RULE (hourglass)",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t024",
+   "start": 53.755,
+   "end": 56.431,
+   "line": "Changing the past doesn't rewrite your future.",
+   "scene": "BLUEPRINT: a traveller loops back; the original line stays intact",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.8,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t025",
+   "start": 56.431,
+   "end": 59.129,
+   "line": "It creates a brand new branch of reality.",
+   "scene": "BLUEPRINT: a new branch sprouts from the 1970 point: NEW BRANCH",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t026",
+   "start": 59.129,
+   "end": 61.916,
+   "line": "So in the timeline Tony left behind, S.H.I.E.L.D.",
+   "scene": "zoom into the branch: it becomes a little world with the base inside",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t027",
+   "start": 61.916,
+   "end": 63.939,
+   "line": "has a missing cosmic cube,",
+   "scene": "case file: the cube's photo stamped MISSING",
+   "set": "desk70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t028",
+   "start": 63.939,
+   "end": 65.968,
+   "line": "and only one suspect.",
+   "scene": "Howard's photo pinned, red circle, stamped SUSPECT",
+   "set": "desk70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t029",
+   "start": 65.968,
+   "end": 67.708,
+   "line": "Now, you might be thinking:",
+   "scene": "bigFace fan, thinking, '?'",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t030",
+   "start": 67.708,
+   "end": 71.474,
+   "line": "didn't Captain America return every stone at the end of Endgame?",
+   "scene": "Steve on the time platform with a case of six glowing stones",
+   "set": "platform",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t031",
+   "start": 71.474,
+   "end": 72.345,
+   "line": "He did.",
+   "scene": "flash: the Tesseract reappears on its pedestal",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t032",
+   "start": 72.345,
+   "end": 76.058,
+   "line": "But putting the Tesseract back can't undo what people already saw.",
+   "scene": "the cube is back, but agents still stand around it, staring",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -22
+   }
+  },
+  {
+   "id": "t033",
+   "start": 76.058,
+   "end": 77.184,
+   "line": "The alarms.",
+   "scene": "insert: a red alarm light spinning",
+   "set": "vault70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "buzz",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t034",
+   "start": 77.184,
+   "end": 78.336,
+   "line": "The questions.",
+   "scene": "interrogation: Howard under a hanging lamp, an agent leans in",
+   "set": "interro",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t035",
+   "start": 78.336,
+   "end": 81.71,
+   "line": "The suspicion that now follows Howard everywhere.",
+   "scene": "Howard walks; agents' shadows follow, a spotlight tracks him",
+   "set": "base70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t036",
+   "start": 81.71,
+   "end": 83.361,
+   "line": "And here's what makes it hurt.",
+   "scene": "bigFace Howard, worried",
+   "set": "base70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "t037",
+   "start": 83.361,
+   "end": 87.401,
+   "line": "In that same scene, Howard talks to Tony about the baby on the way.",
+   "scene": "two-shot: Howard and disguised Tony talk; a baby icon in a bubble",
+   "set": "base70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "t038",
+   "start": 87.401,
+   "end": 90.46,
+   "line": "A father who would do anything for his unborn son.",
+   "scene": "Howard and pregnant Maria at home, golden light, a heart glow",
+   "set": "home70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t039",
+   "start": 90.46,
+   "end": 94.11,
+   "line": "So when he's forced to choose between a prison cell and disappearing,",
+   "scene": "split: prison bars on one side, an open road on the other, Howard between",
+   "set": "choice",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t040",
+   "start": 94.11,
+   "end": 95.725,
+   "line": "Howard chooses his family.",
+   "scene": "Howard takes Maria's hand, suitcase in the other",
+   "set": "home70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t041",
+   "start": 95.725,
+   "end": 98.165,
+   "line": "He takes Maria, leaves America,",
+   "scene": "a ship leaves New York at dusk, two figures on deck",
+   "set": "harbor",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "t042",
+   "start": 98.165,
+   "end": 101.476,
+   "line": "and starts over in a small country called Latveria.",
+   "scene": "LATVERIA establishing: mountains, a castle on the hill, village lights",
+   "set": "latveria",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t043",
+   "start": 101.476,
+   "end": 103.229,
+   "line": "Think about what that changes.",
+   "scene": "BLUEPRINT: two timelines split: OUR WORLD / THE BRANCH",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t044",
+   "start": 103.229,
+   "end": 106.43,
+   "line": "Howard's genius never builds American weapons.",
+   "scene": "BLUEPRINT: missile schematics, crossed out in red on 'never'",
+   "set": "blueprint",
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t045",
+   "start": 106.43,
+   "end": 108.372,
+   "line": "There is no Stark Industries.",
+   "scene": "a tower's STARK INDUSTRIES sign glitches out of existence",
+   "set": "city",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t046",
+   "start": 108.372,
+   "end": 110.941,
+   "line": "Instead, his mind builds Latveria.",
+   "scene": "Latveria blooms: high-tech spires rise, green lights switch on",
+   "set": "latveria",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t047",
+   "start": 110.941,
+   "end": 113.996,
+   "line": "And without Stark, the whole world takes a different road.",
+   "scene": "a road forks at dusk; the car takes the glowing retro road",
+   "set": "road",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "carpass",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t048",
+   "start": 113.996,
+   "end": 116.339,
+   "line": "A bright, retro, space age future.",
+   "scene": "the retro-future city, a rocket launches",
+   "set": "retro",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t049",
+   "start": 116.339,
+   "end": 118.372,
+   "line": "The kind of world where four astronauts",
+   "scene": "a rocket in space flies into a cosmic storm",
+   "set": "space",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t050",
+   "start": 118.372,
+   "end": 120.739,
+   "line": "become the Fantastic Four.",
+   "scene": "the Fantastic Four lineup in their retro world",
+   "set": "retro",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t051",
+   "start": 120.739,
+   "end": 122.88,
+   "line": "Howard's son is born in that world.",
+   "scene": "a castle window glows at night; Howard and Maria with a baby",
+   "set": "latveria",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "t052",
+   "start": 122.88,
+   "end": 125.115,
+   "line": "But he never becomes Tony Stark.",
+   "scene": "a ghostly Iron Man helmet fades; a small boy stands in its place",
+   "set": "latveria",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t053",
+   "start": 125.115,
+   "end": 127.212,
+   "line": "He becomes Victor von Doom.",
+   "scene": "young Victor in a green hood in the village square: VICTOR VON DOOM",
+   "set": "latveria",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t054",
+   "start": 127.212,
+   "end": 128.119,
+   "line": "Brilliant.",
+   "scene": "teen Victor builds a machine, sparks fly",
+   "set": "forge",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t055",
+   "start": 128.119,
+   "end": 128.889,
+   "line": "Proud.",
+   "scene": "Victor on a castle balcony, arms crossed, cloak in the wind",
+   "set": "latveria",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t056",
+   "start": 128.889,
+   "end": 134.055,
+   "line": "Raised on stories of a stolen cube, and a country that turned its back on his father.",
+   "scene": "by the fire, old Howard tells a story; a blue cube glows in the smoke",
+   "set": "home70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t057",
+   "start": 134.055,
+   "end": 135.696,
+   "line": "He meets Reed Richards.",
+   "scene": "Victor shakes hands with Reed in the retro lab: REED RICHARDS",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t058",
+   "start": 135.696,
+   "end": 139.087,
+   "line": "Sue Storm. Johnny Storm. Ben Grimm.",
+   "scene": "Sue, Johnny and Ben pop in one by one",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t059",
+   "start": 139.087,
+   "end": 142.958,
+   "line": "The same kind of bonds the Fantastic Four share in their own world.",
+   "scene": "a warm photo: Victor with the four, friends",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t060",
+   "start": 142.958,
+   "end": 144.809,
+   "line": "But Victor loses everything.",
+   "scene": "the experiment explodes in green fire; the photo burns",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -5
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t061",
+   "start": 144.809,
+   "end": 147.788,
+   "line": "And from that loss, Doctor Doom is born.",
+   "scene": "a glowing mask is hammered on an anvil: Doom is born",
+   "set": "forge",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t062",
+   "start": 147.788,
+   "end": 149.966,
+   "line": "Then Doom discovers the truth.",
+   "scene": "Doom in his hall before a green hologram",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t063",
+   "start": 149.966,
+   "end": 153.65,
+   "line": "He traces his family's exile back to one moment:",
+   "scene": "HOLOGRAM: his timeline traced back to one bright point",
+   "set": "holo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 2.8,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t064",
+   "start": 153.65,
+   "end": 155.868,
+   "line": "the 1970 Tesseract incident.",
+   "scene": "HOLOGRAM: the vault and the cube, 1970",
+   "set": "holo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t065",
+   "start": 155.868,
+   "end": 158.013,
+   "line": "And he finds the man who caused it.",
+   "scene": "HOLOGRAM: a man in glasses walks out with a briefcase, highlighted red",
+   "set": "holo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t066",
+   "start": 158.013,
+   "end": 159.51,
+   "line": "A man with his face.",
+   "scene": "split: Victor's face and the hologram's face, identical",
+   "set": "holo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t067",
+   "start": 159.51,
+   "end": 162.139,
+   "line": "His father's name. His mother's love.",
+   "scene": "HOLOGRAM: a STARK nameplate, then a mother hugging a boy",
+   "set": "holo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t068",
+   "start": 162.139,
+   "end": 163.858,
+   "line": "Tony Stark.",
+   "scene": "Iron Man's helmet reflected in Doom's eye slits: TONY STARK",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t069",
+   "start": 163.858,
+   "end": 166.493,
+   "line": "Tony was given the life Victor was denied.",
+   "scene": "split: Tony warm and gold | Victor cold and green",
+   "set": "split",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "t070",
+   "start": 166.493,
+   "end": 167.623,
+   "line": "Howard's love.",
+   "scene": "memory: young Tony and Howard, warm",
+   "set": "montage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t071",
+   "start": 167.623,
+   "end": 168.677,
+   "line": "Pepper Potts.",
+   "scene": "memory: Tony and Pepper",
+   "set": "montage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t072",
+   "start": 168.677,
+   "end": 169.784,
+   "line": "The Avengers.",
+   "scene": "memory: the Avengers line up",
+   "set": "montage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t073",
+   "start": 169.784,
+   "end": 171.191,
+   "line": "The Stark legacy.",
+   "scene": "memory: a tower with a glowing STARK sign",
+   "set": "city",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t074",
+   "start": 171.191,
+   "end": 172.778,
+   "line": "A hero's ending.",
+   "scene": "memory: Iron Man at peace against the sunset",
+   "set": "wasteland",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t075",
+   "start": 172.778,
+   "end": 175.277,
+   "line": "To Victor, that life wasn't just different.",
+   "scene": "Doom watching the memories float around him",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t076",
+   "start": 175.277,
+   "end": 176.625,
+   "line": "It was stolen.",
+   "scene": "Doom crushes the hologram, shards burst",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t077",
+   "start": 176.625,
+   "end": 180.214,
+   "line": "And that could completely change one of Doom's most chilling lines.",
+   "scene": "a cinema screen plays the Doomsday trailer: Doom's silhouette",
+   "set": "cinema",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t078",
+   "start": 180.214,
+   "end": 183.595,
+   "line": "In the Doomsday trailer, he tells the heroes they have lived",
+   "scene": "Doom addresses kneeling heroes from the throne steps",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "thunder",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t079",
+   "start": 183.595,
+   "end": 186.659,
+   "line": "stolen lives, and now they must give them back.",
+   "scene": "bigFace Doom, words STOLEN LIVES burn in green",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t080",
+   "start": 186.659,
+   "end": 189.912,
+   "line": "Maybe he isn't only talking about the Fantastic Four.",
+   "scene": "the Fantastic Four under Doom's spreading shadow",
+   "set": "retro",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t081",
+   "start": 189.912,
+   "end": 192.382,
+   "line": "Maybe he's talking about Tony.",
+   "scene": "a small Iron Man under a giant green Doom silhouette",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t082",
+   "start": 192.382,
+   "end": 195.761,
+   "line": "And remember the end of The Fantastic Four: First Steps?",
+   "scene": "the Fantastic Four: First Steps case floats in",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t083",
+   "start": 195.761,
+   "end": 198.841,
+   "line": "Doom quietly visits Reed and Sue's son, Franklin.",
+   "scene": "nursery at night: a cloaked Doom, mask in hand, beside little Franklin",
+   "set": "nursery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t084",
+   "start": 198.841,
+   "end": 202.233,
+   "line": "In the comics, Franklin can reshape reality itself.",
+   "scene": "Franklin's hands glow; reality bends around him",
+   "set": "nursery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t085",
+   "start": 202.233,
+   "end": 205.18,
+   "line": "What if Doom doesn't want to rule the multiverse at all?",
+   "scene": "Doom on the throne, universe bubbles orbiting him",
+   "set": "throne",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t086",
+   "start": 205.18,
+   "end": 209.842,
+   "line": "What if he wants to rewrite it, and take back the life he believes was his?",
+   "scene": "Doom's gauntlet reaches for a warm bubble holding Tony's life",
+   "set": "cosmos",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t087",
+   "start": 209.842,
+   "end": 213.821,
+   "line": "That's what could make Robert Downey Jr.'s casting so meaningful.",
+   "scene": "spotlight: an actor holds an Iron Man helmet and Doom's mask: ROBERT DOWNEY JR.",
+   "set": "stage",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t088",
+   "start": 213.821,
+   "end": 217.056,
+   "line": "When the mask comes off, the Avengers see Tony Stark.",
+   "scene": "reprise: the mask comes off: TONY STARK",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t089",
+   "start": 217.056,
+   "end": 219.46,
+   "line": "Reed and Sue see Victor von Doom.",
+   "scene": "reprise: the same face in a green hood: VICTOR VON DOOM",
+   "set": "battle",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t090",
+   "start": 219.46,
+   "end": 222.059,
+   "line": "And stolen lives stops being just a line.",
+   "scene": "a script page: the words STOLEN LIVES glow",
+   "set": "desk70",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t091",
+   "start": 222.059,
+   "end": 225.385,
+   "line": "It becomes the tragedy that connects the entire story.",
+   "scene": "3D: two universes joined by a glowing thread through the Tesseract",
+   "set": "web3d",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t092",
+   "start": 225.385,
+   "end": 227.416,
+   "line": "Of course, this is only a theory.",
+   "scene": "the fan shrugs, a THEORY stamp",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "t093",
+   "start": 227.416,
+   "end": 229.859,
+   "line": "Marvel hasn't confirmed anything, yet.",
+   "scene": "NOT CONFIRMED stamp... then YET pops",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.03,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t094",
+   "start": 229.859,
+   "end": 234.502,
+   "line": "So tell me in the comments: is Doctor Doom secretly a version of Tony Stark?",
+   "scene": "VERSUS: Iron Man helmet vs Doom mask, a '=' with a '?'",
+   "set": "versus",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.67,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 4.02,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t095",
+   "start": 234.502,
+   "end": 237.227,
+   "line": "Or is the casting just a coincidence?",
+   "scene": "comment bubbles: SAME MAN / COINCIDENCE",
+   "set": "versus",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t096",
+   "start": 237.227,
+   "end": 241.966,
+   "line": "If you enjoyed this theory, hit like, subscribe, and turn on notifications.",
+   "scene": "like, subscribe and the bell pop in",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 2.46,
+     "name": "pop",
+     "gain": -8
+    },
+    {
+     "at": 3.76,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t097",
+   "start": 241.966,
+   "end": 244.166,
+   "line": "Because when Doom arrives…",
+   "scene": "Doom walks out of the green fog toward us",
+   "set": "throne",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "thunder",
+     "gain": -6
+    },
+    {
+     "at": 1.1,
+     "name": "footstep",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t098",
+   "start": 244.166,
+   "end": 246.717,
+   "line": "Nothing in the multiverse is safe.",
+   "scene": "the universe cracks with green light",
+   "set": "space",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -10
+    },
+    {
+     "at": 1.6,
+     "name": "impact",
+     "gain": -4
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "t099",
+   "start": 246.717,
+   "end": 251.92,
+   "line": "",
+   "scene": "END SCREEN: the question, subscribe, the cast",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0.0,
+   "end": 18.774,
+   "mood": "dark",
+   "intensity": 0.6
+  },
+  {
+   "start": 18.774,
+   "end": 24.279,
+   "mood": "mystery",
+   "intensity": 0.6
+  },
+  {
+   "start": 24.279,
+   "end": 28.611,
+   "mood": "epic",
+   "intensity": 0.7
+  },
+  {
+   "start": 28.611,
+   "end": 51.001,
+   "mood": "mystery",
+   "intensity": 0.55
+  },
+  {
+   "start": 51.001,
+   "end": 65.968,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 65.968,
+   "end": 81.71,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 81.71,
+   "end": 101.476,
+   "mood": "sad",
+   "intensity": 0.45
+  },
+  {
+   "start": 101.476,
+   "end": 120.739,
+   "mood": "wonder",
+   "intensity": 0.55
+  },
+  {
+   "start": 120.739,
+   "end": 142.958,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 142.958,
+   "end": 147.788,
+   "mood": "dark",
+   "intensity": 0.7
+  },
+  {
+   "start": 147.788,
+   "end": 163.858,
+   "mood": "tension",
+   "intensity": 0.65
+  },
+  {
+   "start": 163.858,
+   "end": 175.277,
+   "mood": "sad",
+   "intensity": 0.5
+  },
+  {
+   "start": 175.277,
+   "end": 192.382,
+   "mood": "dark",
+   "intensity": 0.7
+  },
+  {
+   "start": 192.382,
+   "end": 209.842,
+   "mood": "mystery",
+   "intensity": 0.6
+  },
+  {
+   "start": 209.842,
+   "end": 225.385,
+   "mood": "epic",
+   "intensity": 0.65
+  },
+  {
+   "start": 225.385,
+   "end": 241.966,
+   "mood": "calm",
+   "intensity": 0.4
+  },
+  {
+   "start": 241.966,
+   "end": 251.92,
+   "mood": "epic",
+   "intensity": 0.8
+  }
+ ]
+}
