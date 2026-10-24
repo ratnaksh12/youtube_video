@@ -1,0 +1,91 @@
+1
+00:00:00,200 --> 00:00:02,227
+Your smart TV is full of ads.
+
+2
+00:00:02,277 --> 00:00:04,850
+This free GitHub repo switches them off.
+
+3
+00:00:04,900 --> 00:00:07,010
+It's called CleanYourTV,
+
+4
+00:00:07,010 --> 00:00:09,416
+and it was the #1 trending repo on
+
+5
+00:00:09,416 --> 00:00:10,850
+GitHub this week.
+
+6
+00:00:10,900 --> 00:00:13,379
+Turn on developer mode on your TV,
+
+7
+00:00:13,379 --> 00:00:15,720
+then let an AI coding assistant,
+
+8
+00:00:15,720 --> 00:00:16,850
+like Claude Code,
+
+9
+00:00:16,850 --> 00:00:19,350
+connect to it over your Wi-Fi.
+
+10
+00:00:19,400 --> 00:00:21,351
+First, it backs up everything that's
+
+11
+00:00:21,351 --> 00:00:22,350
+installed.
+
+12
+00:00:22,400 --> 00:00:24,730
+Then it switches off the ad services,
+
+13
+00:00:24,730 --> 00:00:27,498
+the tracking, and the sponsored rows.
+
+14
+00:00:27,900 --> 00:00:30,090
+And you get a clean, black home screen,
+
+15
+00:00:30,090 --> 00:00:31,801
+with just your apps.
+
+16
+00:00:31,900 --> 00:00:34,310
+Nothing is deleted, and there's no root,
+
+17
+00:00:34,310 --> 00:00:36,850
+so one command puts it all back.
+
+18
+00:00:36,900 --> 00:00:39,926
+It works on Android TV and Google TV.
+
+19
+00:00:39,926 --> 00:00:42,350
+Not on Samsung or LG.
+
+20
+00:00:42,400 --> 00:00:43,550
+No laptop?
+
+21
+00:00:43,550 --> 00:00:45,443
+There's a community app for Android
+
+22
+00:00:45,443 --> 00:00:46,688
+phones, too.
+
+23
+00:00:46,900 --> 00:00:49,991
+Comment TV, and I'll send you the link.

@@ -1,0 +1,68 @@
+[
+ {
+  "id": "l01",
+  "text": "Your smart TV is full of ads.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l02",
+  "text": "This free GitHub repo switches them off.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l03",
+  "text": "It's called Clean Your TV, and it was the number one trending repo on GitHub this week.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l04",
+  "text": "Turn on developer mode on your TV, then let an AI coding assistant, like Claude Code, connect to it over your Wi-Fi.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l05",
+  "text": "First, it backs up everything that's installed.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l06",
+  "text": "Then it switches off the ad services, the tracking, and the sponsored rows.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l07",
+  "text": "And you get a clean, black home screen, with just your apps.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l08",
+  "text": "Nothing is deleted, and there's no root, so one command puts it all back.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l09",
+  "text": "It works on Android TV and Google TV. Not on Samsung or LG.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l10",
+  "text": "No laptop? There's a community app for Android phones, too.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l11",
+  "text": "Comment TV, and I'll send you the link.",
+  "voice": "am_michael",
+  "speed": 1.1
+ }
+]

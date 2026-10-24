@@ -10,5 +10,8 @@ A separate, faceless English tech account. Series: **How It Actually Works**, or
 | # | Title | Folder | Length |
 |--:|---|---|---|
 | 01 | Your battery percentage is a guess | [reels/01-battery-guess](reels/01-battery-guess/) | 54 s |
+| 02 | This free GitHub repo switches off your TV's ads (CleanYourTV) | [reels/02-cleanyourtv](reels/02-cleanyourtv/) | 52 s |
+
+Shared engine, HUD, audio and tools: [kit/](kit/README.md). Week plan: [PLAN-week-2026-10-25.md](PLAN-week-2026-10-25.md).
 
 Each reel folder holds the film (`*.mp4`), `cover.jpg`, `POST.md` (caption, sources comment, checklist), `FACTS.md`, `TREATMENT.md`, `CREDITS` and the full source (`build.sh` rebuilds it).

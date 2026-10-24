@@ -1,0 +1,6 @@
+{
+ "sections": [[0, "intro"], ["l02", "groove"], ["l04", "claps"], ["l05", "graph"], ["l06", "tense"], ["ev:silence", "silence"], ["ev:ignite", "drop"]],
+ "drop": "ev:ignite",
+ "final": "ev:confirm.final",
+ "risers": [["l06", "ev:silence"]]
+}
