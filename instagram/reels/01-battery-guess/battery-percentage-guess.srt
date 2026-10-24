@@ -1,0 +1,111 @@
+1
+00:00:00,200 --> 00:00:02,126
+Your battery percentage is a guess.
+
+2
+00:00:02,176 --> 00:00:04,343
+Here's how your phone makes it.
+
+3
+00:00:04,400 --> 00:00:06,943
+There's no way to see inside a battery,
+
+4
+00:00:06,943 --> 00:00:09,340
+so a tiny chip, called a fuel gauge,
+
+5
+00:00:09,340 --> 00:00:10,850
+watches it instead.
+
+6
+00:00:10,900 --> 00:00:13,239
+First, it counts every bit of charge flowing
+
+7
+00:00:13,239 --> 00:00:14,070
+in and out.
+
+8
+00:00:14,120 --> 00:00:15,984
+But tiny counting errors pile up
+
+9
+00:00:15,984 --> 00:00:16,850
+over time.
+
+10
+00:00:16,900 --> 00:00:19,350
+So it also checks the voltage.
+
+11
+00:00:19,400 --> 00:00:20,150
+The catch?
+
+12
+00:00:20,150 --> 00:00:21,390
+Through the middle of the charge,
+
+13
+00:00:21,390 --> 00:00:23,350
+the voltage barely moves.
+
+14
+00:00:23,400 --> 00:00:25,140
+So the chip blends both,
+
+15
+00:00:25,140 --> 00:00:27,140
+using a model of your battery:
+
+16
+00:00:27,140 --> 00:00:28,611
+its temperature, its age,
+
+17
+00:00:28,611 --> 00:00:30,350
+and how hard you're pushing it.
+
+18
+00:00:30,400 --> 00:00:31,870
+When reality disagrees,
+
+19
+00:00:31,870 --> 00:00:33,350
+it corrects the guess.
+
+20
+00:00:33,400 --> 00:00:35,670
+That's how 15% can turn into 3% in a
+
+21
+00:00:35,670 --> 00:00:39,661
+minute, or a cold phone can die at 30%.
+
+22
+00:00:40,400 --> 00:00:42,270
+And 0% isn't empty.
+
+23
+00:00:42,270 --> 00:00:43,392
+It's where your phone stops,
+
+24
+00:00:43,392 --> 00:00:45,350
+to protect the battery.
+
+25
+00:00:45,400 --> 00:00:47,420
+So that number isn't a measurement.
+
+26
+00:00:47,420 --> 00:00:49,350
+It's a very good guess.
+
+27
+00:00:49,400 --> 00:00:50,620
+Send this to the friend who
+
+28
+00:00:50,620 --> 00:00:52,388
+lives at 1%.

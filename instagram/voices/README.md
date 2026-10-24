@@ -40,7 +40,7 @@ Every sample reads the same tech-reel hook at speed 1.08. Each one starts with i
 | 28 | bm_lewis | UK male | 85 Hz | 165 | D+ | very deep |
 | 29 | blend_michael_onyx | US male | 104 Hz | 167 | n/a | the current Inkverse voice: deep and cinematic |
 
-⭐ = shortlist for a tech account.
+⭐ = shortlist for a tech account. **Chosen for the account: #17 `am_michael`** (used at speed 1.1).
 
 **Picking tips**
 - For quick tips and how-tos, a brighter, faster voice keeps people watching: #4, #3, #15 or #19.

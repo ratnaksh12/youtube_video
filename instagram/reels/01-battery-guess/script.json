@@ -1,0 +1,15 @@
+[
+ {"id": "l01", "text": "Your battery percentage is a guess.", "sub": "Your battery percentage is a guess."},
+ {"id": "l02", "text": "Here's how your phone makes it.", "sub": "Here's how your phone makes it."},
+ {"id": "l03", "text": "There's no way to see inside a battery, so a tiny chip, called a fuel gauge, watches it instead.", "sub": "There's no way to see inside a battery, so a tiny chip, called a fuel gauge, watches it instead."},
+ {"id": "l04", "text": "First, it counts every bit of charge flowing in and out.", "sub": "First, it counts every bit of charge flowing in and out."},
+ {"id": "l05", "text": "But tiny counting errors pile up over time.", "sub": "But tiny counting errors pile up over time."},
+ {"id": "l06", "text": "So it also checks the voltage.", "sub": "So it also checks the voltage."},
+ {"id": "l07", "text": "The catch? Through the middle of the charge, the voltage barely moves.", "sub": "The catch? Through the middle of the charge, the voltage barely moves."},
+ {"id": "l08", "text": "So the chip blends both, using a model of your battery: its temperature, its age, and how hard you're pushing it.", "sub": "So the chip blends both, using a model of your battery: its temperature, its age, and how hard you're pushing it."},
+ {"id": "l09", "text": "When reality disagrees, it corrects the guess.", "sub": "When reality disagrees, it corrects the guess."},
+ {"id": "l10", "text": "That's how fifteen percent can turn into three in a minute, or a cold phone can die at thirty.", "sub": "That's how 15% can turn into 3% in a minute, or a cold phone can die at 30%."},
+ {"id": "l11", "text": "And zero isn't empty. It's where your phone stops, to protect the battery.", "sub": "And 0% isn't empty. It's where your phone stops, to protect the battery."},
+ {"id": "l12", "text": "So that number isn't a measurement. It's a very good guess.", "sub": "So that number isn't a measurement. It's a very good guess."},
+ {"id": "l13", "text": "Send this to the friend who lives at one percent.", "sub": "Send this to the friend who lives at 1%."}
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "id": "l01",
+  "text": "Your battery percentage is a guess.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l02",
+  "text": "Here's how your phone makes it.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l03",
+  "text": "There's no way to see inside a battery, so a tiny chip, called a fuel gauge, watches it instead.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l04",
+  "text": "First, it counts every bit of charge flowing in and out.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l05",
+  "text": "But tiny counting errors pile up over time.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l06",
+  "text": "So it also checks the voltage.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l07",
+  "text": "The catch? Through the middle of the charge, the voltage barely moves.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l08",
+  "text": "So the chip blends both, using a model of your battery: its temperature, its age, and how hard you're pushing it.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l09",
+  "text": "When reality disagrees, it corrects the guess.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l10",
+  "text": "That's how fifteen percent can turn into three in a minute, or a cold phone can die at thirty.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l11",
+  "text": "And zero isn't empty. It's where your phone stops, to protect the battery.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l12",
+  "text": "So that number isn't a measurement. It's a very good guess.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l13",
+  "text": "Send this to the friend who lives at one percent.",
+  "voice": "am_michael",
+  "speed": 1.1
+ }
+]

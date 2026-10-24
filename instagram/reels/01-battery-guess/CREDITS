@@ -1,0 +1,10 @@
+Your battery percentage is a guess — credits for third-party material
+
+Voice      Kokoro TTS v1.0 (hexgrad/Kokoro-82M via thewh1teagle/kokoro-onnx), voice am_michael. Apache License 2.0.
+Fonts      Rajdhani (Indian Type Foundry), SIL Open Font License 1.1 — fonts/OFL-rajdhani.txt
+           Share Tech Mono (Carrois Apostrophe), SIL Open Font License 1.1 — fonts/OFL-sharetechmono.txt
+Code       engine/holo.js, engine/hud.js, models/mkmodel.mjs: from Lemo-Opuscar (github.com/lemomo-ai/lemo-opuscar),
+           Hologram HUD style, MIT License, Copyright (c) 2026 LemoLab — engine/LICENSE-lemo-opuscar
+Music, sound effects, picture: original, synthesised and drawn in code for this film (music/score.py, mix.py, film.js).
+The handset is fictional; no real product, brand, logo or interface appears.
+Facts and their sources: FACTS.md
