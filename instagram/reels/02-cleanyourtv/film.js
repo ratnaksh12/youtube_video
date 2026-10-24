@@ -77,7 +77,7 @@ export function makeFilm(model, TLJ, X) {
     ev(0, 'scramble', { t1: K.ads }); ADS.forEach(x => x.kind !== 'tracker' && ev(x.pop, 'pulse', { dir: 1 }));
     ev(K.ads, 'lock'); ev(K.ads, 'confirm');
     ev(K.l02 - 0.05, 'card'); ev(K.repo, 'roll', { t1: K.repo + 0.45 }); ev(K.repo + 0.45, 'confirm');
-    ev(K.number, 'roll', { t1: K.number + 0.3 }); ev(K.number + 0.3, 'lock'); ev(K.number + 0.32, 'confirm');
+    ev(K.clean3, 'lock'); ev(K.number, 'roll', { t1: K.number + 0.3 }); ev(K.number + 0.3, 'lock'); ev(K.number + 0.32, 'confirm');
     ev(K.dev - 0.1, 'card'); ev(K.l04 - 0.3, 'whip');
     [K.dev, K.assistant, K.wifi].forEach((t, i) => { ev(t, 'roll', { t1: t + 0.3 }); ev(t + 0.3, 'dock'); });
     for (let i = 0; i < 6; i++) ev(K.wifi + 0.1 + i * 0.25, 'wifi', { dir: i % 2 ? -1 : 1 });
@@ -86,6 +86,7 @@ export function makeFilm(model, TLJ, X) {
         ev(K.adsvc - 0.6, 'close');
     E.push({ t: K.silence[0], type: 'silence', t1: K.silence[1] });
     ev(K.ignite, 'ignite');
+    for (let i = 1; i < 4; i++) ev(K.ignite + 1.2 + i * 0.5, 'hover');   // the glass highlight springs from tile to tile
     [K.deleted, K.root, K.command].forEach(t => { ev(t, 'roll', { t1: t + 0.35 }); ev(t + 0.35, 'confirm'); });
     ev(K.back, 'probe'); ev(K.back + 0.45, 'deny');
     ev(K.l09 - 0.1, 'card'); ev(K.android + 0.1, 'confirm'); ev(K.google + 0.1, 'confirm'); ev(K.samsung + 0.1, 'deny'); ev(K.lg + 0.1, 'deny');
@@ -359,8 +360,8 @@ export function makeFilm(model, TLJ, X) {
     if (t > K.ads - 0.2 && t < K.l02 + 0.3) {   // hook: lock on the whole ad wall
       U.targetBox(ctx, T, box(0.02, 0.05, 0.98, 0.88), 1, { lockK: eo(seg(t, K.ads - 0.2, K.ads)), flash: t >= K.ads && t < K.ads + 0.125, alpha: win(t, K.ads - 0.2, K.l02 + 0.3, 0.05, 0.3), pad: 18, tag: 'ADS · 8 FOUND' });
     }
-    if (t > K.repo - 0.2 && t < K.l04 - 0.4 && info.bbox.tv) {   // the repo targets the whole set
-      U.targetBox(ctx, T, info.bbox.tv, 1, { lockK: eo(seg(t, K.repo - 0.2, K.repo)), alpha: win(t, K.repo - 0.2, K.l04 - 0.4, 0.05, 0.3) * 0.7, pad: 28, tag: 'TARGET · ANDROID TV / GOOGLE TV' });
+    if (t > K.clean3 - 0.2 && t < K.l04 - 0.4 && info.bbox.tv) {   // as the name is spoken, the repo locks onto the whole set
+      U.targetBox(ctx, T, info.bbox.tv, 1, { lockK: eo(seg(t, K.clean3 - 0.2, K.clean3)), flash: t >= K.clean3 && t < K.clean3 + 0.125, alpha: win(t, K.clean3 - 0.2, K.l04 - 0.4, 0.05, 0.3) * 0.8, pad: 28, tag: 'TARGET · ANDROID TV / GOOGLE TV' });
     }
     // l06: each ad gets a short lock as it switches off
     for (const x of ADS) {

@@ -2,7 +2,9 @@
 Voice is compressed and sits ~10 dB over the music; music and foley duck under it with a held envelope (no pumping between words),
 and the first 0.2 s of every lock / confirm escapes the duck. The silence window is true digital zero.
 
-  python kit/audio/mix.py <reel folder>
+  python kit/audio/mix.py <reel folder> [--synth] [--out out/mix.wav]
+Effects come from kit/audio/foley.py (earshot bank + uisfx recordings, placed by measured rules); --synth uses the older
+procedural effects below instead (kept for comparison). Also writes out/sfx.wav (effects only) and out/foley_cues.json.
 Event types it voices: scramble roll lock confirm shrink scan slide close probe deny card pulse wifi error dock whip draw sweep merge flag glitch
 frost powerloss marker ignite erase off cta; silence (true zero) and ignite are optional.
 """
@@ -14,6 +16,10 @@ from scipy.signal import butter, sosfilt
 from scipy.ndimage import maximum_filter1d, uniform_filter1d
 
 HERE = os.path.abspath(sys.argv[1])
+SYNTH = '--synth' in sys.argv
+OUTF = sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else os.path.join('out', 'mix.wav')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import foley  # noqa: E402
 LIB = os.environ.get('LIB', '/home/user/lemomo-ai/lemo-opuscar'); sys.path.insert(0, LIB)
 from core.audio.sfx import SR, compress, limit  # noqa: E402
 
@@ -72,8 +78,27 @@ def crush(x, bits=5, hold=6):
     y = np.repeat(x[::hold], hold)[:len(x)]; return np.round(y * 2 ** bits) / 2 ** bits
 
 
+# ---------------------------------------------------------------- voice
+voice = np.zeros(N)
+for Ln in TL['lines']:
+    a, sr = sf.read(os.path.join(HERE, 'voice', Ln['id'] + '.wav'), dtype='float32')
+    a = soxr.resample(a, sr, SR)
+    s = int(round(Ln['t0'] * SR)); e = min(N, s + len(a)); voice[s:e] += a[:e - s]
+voice = sosfilt(sos('high', 80), voice)
+voice = compress(voice / (np.abs(voice).max() + 1e-9), thr=0.22, ratio=3.0, att=0.003, rel=0.12)
+vr = np.sqrt(np.mean(voice[np.abs(voice) > 0.02] ** 2))
+
+# duck envelope: speech activity, held 0.5 s through word gaps, smoothed
+act = maximum_filter1d((np.abs(voice) > 0.03).astype(float), size=int(0.5 * SR))
+act = uniform_filter1d(act, size=int(0.12 * SR))
+
 fol = np.zeros((N, 2)); trans = np.zeros((N, 2))   # trans = transients that escape the duck
+if not SYNTH:
+    words = uniform_filter1d((np.abs(voice) > 0.03).astype(float), size=int(0.03 * SR))   # words themselves, not the held duck
+    fol, trans, CUES = foley.place(EV, N, words)
+    fol = fol.astype(np.float64); trans = trans.astype(np.float64)
 for e in EV:
+    if not SYNTH and e['type'] not in foley.SYNTH_ONLY: continue
     t, typ = e['t'], e['type']; t1 = e.get('t1', t)
     if typ in ('scramble', 'roll'):                    # rolls tick at frame rate
         k = 0
@@ -139,26 +164,13 @@ if sil:
         lvl[int(S1 * SR):i1 - ramp] = 0.35               # only low room tone under the turn
 amb[:, 0] = (hum * 0.04 + room * 0.03) * lvl; amb[:, 1] = (hum * 0.04 + room * 0.028) * lvl
 
-# ---------------------------------------------------------------- voice
-voice = np.zeros(N)
-for Ln in TL['lines']:
-    a, sr = sf.read(os.path.join(HERE, 'voice', Ln['id'] + '.wav'), dtype='float32')
-    a = soxr.resample(a, sr, SR)
-    s = int(round(Ln['t0'] * SR)); e = min(N, s + len(a)); voice[s:e] += a[:e - s]
-voice = sosfilt(sos('high', 80), voice)
-voice = compress(voice / (np.abs(voice).max() + 1e-9), thr=0.22, ratio=3.0, att=0.003, rel=0.12)
-vr = np.sqrt(np.mean(voice[np.abs(voice) > 0.02] ** 2))
-
-# duck envelope: speech activity, held 0.5 s through word gaps, smoothed
-act = maximum_filter1d((np.abs(voice) > 0.03).astype(float), size=int(0.5 * SR))
-act = uniform_filter1d(act, size=int(0.12 * SR))
-
 music, _ = sf.read(os.path.join(HERE, 'music', 'score.wav'), dtype='float32')
 music = music[:N] if len(music) >= N else np.vstack([music, np.zeros((N - len(music), 2))])
 mr = np.sqrt(np.mean(music[act < 0.1] ** 2)) + 1e-9
 music = music * (vr * db(-10) / mr) * 1.0                 # music, measured where nobody speaks, sits ~10 dB under the voice
 music = music * db(-8 * act)[:, None]                     # and ducks a further 8 dB under speech
 fol = fol * db(-7 * act)[:, None]
+sfx_only = fol + trans
 
 mixd = music + fol + trans + amb
 mixd[:, 0] += voice; mixd[:, 1] += voice
@@ -168,7 +180,11 @@ vdb = 20 * np.log10(np.sqrt(np.mean(voice[act > 0.5] ** 2)) + 1e-12)
 mixd = mixd * db(-17.5 - vdb)                             # voice at about -17.5 dB RMS: lands near -14 LUFS with a small linear master gain
 mixd = np.stack([limit(mixd[:, 0], 0.8), limit(mixd[:, 1], 0.8)], 1); mixd[s0:s1] = 0
 os.makedirs(os.path.join(HERE, 'out'), exist_ok=True)
-sf.write(os.path.join(HERE, 'out', 'mix.wav'), mixd, SR, subtype='PCM_24')
+sf.write(os.path.join(HERE, OUTF), mixd, SR, subtype='PCM_24')
+sf.write(os.path.join(HERE, 'out', 'sfx' + ('_synth' if SYNTH else '') + '.wav'), sfx_only * db(-17.5 - vdb), SR, subtype='PCM_24')
+if not SYNTH:
+    json.dump(CUES, open(os.path.join(HERE, 'out', 'foley_cues.json'), 'w'), indent=1)
+    print(foley.report(CUES, DUR))
 
 # report: levels per stem and low-end balance
 def rms_db(x): return 20 * np.log10(np.sqrt(np.mean(x ** 2)) + 1e-12)

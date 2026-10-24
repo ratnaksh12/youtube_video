@@ -1,0 +1,1063 @@
+{
+ "sr": 48000,
+ "bank": "forge_v2r6+forge04r1+fit1+pluck1",
+ "sounds": {
+  "tick": [
+   {
+    "src": "earshot",
+    "id": "pro_hover_tick/ping",
+    "seed": 2094108523,
+    "role": "data",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "tick_0.flac",
+    "dur_s": 0.0389,
+    "onset_s": 0.002,
+    "peak_s": 0.0045,
+    "end_s": 0.0389,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "pro_hover_tick/ping",
+    "seed": 2094108524,
+    "role": "data",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "tick_1.flac",
+    "dur_s": 0.0389,
+    "onset_s": 0.002,
+    "peak_s": 0.0045,
+    "end_s": 0.035,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "pro_hover_tick/ping",
+    "seed": 2094108525,
+    "role": "data",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "tick_2.flac",
+    "dur_s": 0.0389,
+    "onset_s": 0.002,
+    "peak_s": 0.0045,
+    "end_s": 0.037,
+    "channels": 2
+   }
+  ],
+  "tink": [
+   {
+    "src": "earshot",
+    "id": "pro_click/tink",
+    "seed": 1162705466,
+    "role": "click",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "tink_0.flac",
+    "dur_s": 0.0373,
+    "onset_s": 0.002,
+    "peak_s": 0.0046,
+    "end_s": 0.0373,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "pro_click/tink",
+    "seed": 1162705467,
+    "role": "click",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "tink_1.flac",
+    "dur_s": 0.0373,
+    "onset_s": 0.002,
+    "peak_s": 0.0047,
+    "end_s": 0.0373,
+    "channels": 2
+   }
+  ],
+  "click": [
+   {
+    "src": "earshot",
+    "id": "fit/click/floss_lid",
+    "seed": 0,
+    "role": "click",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "click_0.flac",
+    "dur_s": 0.132,
+    "onset_s": 0.004,
+    "peak_s": 0.0081,
+    "end_s": 0.069,
+    "channels": 2
+   }
+  ],
+  "knock": [
+   {
+    "src": "earshot",
+    "id": "knock/wood",
+    "seed": 1,
+    "role": "foley",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "knock_0.flac",
+    "dur_s": 0.1536,
+    "onset_s": 0.013,
+    "peak_s": 0.0157,
+    "end_s": 0.124,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "knock/wood",
+    "seed": 2,
+    "role": "foley",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "knock_1.flac",
+    "dur_s": 0.163,
+    "onset_s": 0.013,
+    "peak_s": 0.0171,
+    "end_s": 0.14,
+    "channels": 2
+   }
+  ],
+  "land": [
+   {
+    "src": "earshot",
+    "id": "pro_pop_in/round",
+    "seed": 276866903,
+    "role": "pop",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "land_0.flac",
+    "dur_s": 0.1716,
+    "onset_s": 0.002,
+    "peak_s": 0.0209,
+    "end_s": 0.168,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "pro_pop_in/round",
+    "seed": 276866904,
+    "role": "pop",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "land_1.flac",
+    "dur_s": 0.1716,
+    "onset_s": 0.002,
+    "peak_s": 0.0269,
+    "end_s": 0.167,
+    "channels": 2
+   }
+  ],
+  "whoosh": [
+   {
+    "src": "earshot",
+    "id": "whoosh_fast/crisp",
+    "seed": 420116625,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "whoosh_0.flac",
+    "dur_s": 1.0561,
+    "onset_s": 0.026,
+    "peak_s": 0.13,
+    "end_s": 0.726,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "whoosh_fast/crisp",
+    "seed": 420116626,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "whoosh_1.flac",
+    "dur_s": 1.0311,
+    "onset_s": 0.036,
+    "peak_s": 0.1483,
+    "end_s": 0.651,
+    "channels": 2
+   }
+  ],
+  "swish": [
+   {
+    "src": "earshot",
+    "id": "swish/bright",
+    "seed": 4501,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "swish_0.flac",
+    "dur_s": 0.345,
+    "onset_s": 0.007,
+    "peak_s": 0.155,
+    "end_s": 0.305,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "swish/bright",
+    "seed": 4502,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "swish_1.flac",
+    "dur_s": 0.35,
+    "onset_s": 0.014,
+    "peak_s": 0.166,
+    "end_s": 0.296,
+    "channels": 2
+   }
+  ],
+  "swish_soft": [
+   {
+    "src": "earshot",
+    "id": "swish/soft",
+    "seed": 1007119508,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "swish_soft_0.flac",
+    "dur_s": 0.8826,
+    "onset_s": 0.021,
+    "peak_s": 0.1088,
+    "end_s": 0.69,
+    "channels": 2
+   }
+  ],
+  "swipe": [
+   {
+    "src": "earshot",
+    "id": "swipe/paper",
+    "seed": 1264633460,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "swipe_0.flac",
+    "dur_s": 0.7697,
+    "onset_s": 0.026,
+    "peak_s": 0.1302,
+    "end_s": 0.702,
+    "channels": 2
+   }
+  ],
+  "swipe_soft": [
+   {
+    "src": "earshot",
+    "id": "swipe/velvet",
+    "seed": 968699985,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "swipe_soft_0.flac",
+    "dur_s": 1.1496,
+    "onset_s": 0.048,
+    "peak_s": 0.2639,
+    "end_s": 1.104,
+    "channels": 2
+   }
+  ],
+  "thump": [
+   {
+    "src": "earshot",
+    "id": "whoosh_big/thump",
+    "seed": 4201,
+    "role": "whoosh",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "thump_0.flac",
+    "dur_s": 1.03,
+    "onset_s": 0.046,
+    "peak_s": 0.1376,
+    "end_s": 0.858,
+    "channels": 2
+   }
+  ],
+  "swell": [
+   {
+    "src": "earshot",
+    "id": "reverse_swell/dark",
+    "seed": 4303,
+    "role": "riser",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "swell_0.flac",
+    "dur_s": 0.9189,
+    "onset_s": 0.034,
+    "peak_s": 0.5412,
+    "end_s": 0.901,
+    "channels": 2
+   }
+  ],
+  "riser": [
+   {
+    "src": "earshot",
+    "id": "riser/dark",
+    "seed": 4401,
+    "role": "riser",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "riser_0.flac",
+    "dur_s": 0.9511,
+    "onset_s": 0.135,
+    "peak_s": 0.6967,
+    "end_s": 0.943,
+    "channels": 2
+   }
+  ],
+  "hit": [
+   {
+    "src": "earshot",
+    "id": "cut_hit/punch",
+    "seed": 4103,
+    "role": "hit",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "hit_0.flac",
+    "dur_s": 0.2823,
+    "onset_s": 0.0,
+    "peak_s": 0.0573,
+    "end_s": 0.281,
+    "channels": 2
+   }
+  ],
+  "kick": [
+   {
+    "src": "earshot",
+    "id": "cut_hit/kick",
+    "seed": 4102,
+    "role": "hit",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "kick_0.flac",
+    "dur_s": 0.325,
+    "onset_s": 0.0,
+    "peak_s": 0.016,
+    "end_s": 0.251,
+    "channels": 2
+   }
+  ],
+  "glitch": [
+   {
+    "src": "earshot",
+    "id": "glitch/burst",
+    "seed": 4601,
+    "role": "glitch",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "glitch_0.flac",
+    "dur_s": 0.8685,
+    "onset_s": 0.356,
+    "peak_s": 0.3592,
+    "end_s": 0.729,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "glitch/burst",
+    "seed": 4602,
+    "role": "glitch",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "glitch_1.flac",
+    "dur_s": 0.8685,
+    "onset_s": 0.356,
+    "peak_s": 0.3594,
+    "end_s": 0.726,
+    "channels": 2
+   }
+  ],
+  "glitch_mid": [
+   {
+    "src": "earshot",
+    "id": "glitch/mid",
+    "seed": 4602,
+    "role": "glitch",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "glitch_mid_0.flac",
+    "dur_s": 0.245,
+    "onset_s": 0.031,
+    "peak_s": 0.0374,
+    "end_s": 0.22,
+    "channels": 2
+   }
+  ],
+  "shutter": [
+   {
+    "src": "earshot",
+    "id": "shutter/dslr",
+    "seed": 1,
+    "role": "camera",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "shutter_0.flac",
+    "dur_s": 0.2418,
+    "onset_s": 0.0,
+    "peak_s": 0.0423,
+    "end_s": 0.19,
+    "channels": 2
+   }
+  ],
+  "mirror": [
+   {
+    "src": "earshot",
+    "id": "shutter/mirror",
+    "seed": 1,
+    "role": "camera",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "mirror_0.flac",
+    "dur_s": 0.3307,
+    "onset_s": 0.0,
+    "peak_s": 0.0682,
+    "end_s": 0.285,
+    "channels": 2
+   }
+  ],
+  "ding": [
+   {
+    "src": "earshot",
+    "id": "notify/mid_tine",
+    "seed": 1,
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "ding_0.flac",
+    "dur_s": 0.425,
+    "onset_s": 0.004,
+    "peak_s": 0.0386,
+    "end_s": 0.344,
+    "channels": 2
+   }
+  ],
+  "fall": [
+   {
+    "src": "earshot",
+    "id": "downlifter/tape",
+    "seed": 661058652,
+    "role": "riser",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "fall_0.flac",
+    "dur_s": 1.6303,
+    "onset_s": 0.005,
+    "peak_s": 0.1037,
+    "end_s": 1.368,
+    "channels": 2
+   }
+  ],
+  "shimmer": [
+   {
+    "src": "earshot",
+    "id": "pro_shimmer/m1",
+    "seed": 1367864807,
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "shimmer_0.flac",
+    "dur_s": 1.4,
+    "onset_s": 0.075,
+    "peak_s": 0.3802,
+    "end_s": 1.151,
+    "channels": 2
+   }
+  ],
+  "chime": [
+   {
+    "src": "earshot",
+    "id": "mallet/glock",
+    "seed": 1,
+    "pitch": "E5",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "chime_E5.flac",
+    "dur_s": 0.4399,
+    "onset_s": 0.0,
+    "peak_s": 0.0086,
+    "end_s": 0.383,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "mallet/glock",
+    "seed": 1,
+    "pitch": "G5",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "chime_G5.flac",
+    "dur_s": 0.4516,
+    "onset_s": 0.0,
+    "peak_s": 0.018,
+    "end_s": 0.382,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "mallet/glock",
+    "seed": 1,
+    "pitch": "A5",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "chime_A5.flac",
+    "dur_s": 0.4426,
+    "onset_s": 0.0,
+    "peak_s": 0.0072,
+    "end_s": 0.38,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "mallet/glock",
+    "seed": 1,
+    "pitch": "B5",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "chime_B5.flac",
+    "dur_s": 0.4618,
+    "onset_s": 0.0,
+    "peak_s": 0.0047,
+    "end_s": 0.329,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "mallet/glock",
+    "seed": 1,
+    "pitch": "D6",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "chime_D6.flac",
+    "dur_s": 0.4138,
+    "onset_s": 0.0,
+    "peak_s": 0.0129,
+    "end_s": 0.348,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "mallet/glock",
+    "seed": 1,
+    "pitch": "E6",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "chime_E6.flac",
+    "dur_s": 0.4213,
+    "onset_s": 0.0,
+    "peak_s": 0.0252,
+    "end_s": 0.348,
+    "channels": 2
+   }
+  ],
+  "pop": [
+   {
+    "src": "earshot",
+    "id": "ui_pop/soft",
+    "seed": 1,
+    "pitch": "E5",
+    "role": "pop",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "pop_E5.flac",
+    "dur_s": 0.1797,
+    "onset_s": 0.003,
+    "peak_s": 0.0261,
+    "end_s": 0.158,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "ui_pop/soft",
+    "seed": 1,
+    "pitch": "G5",
+    "role": "pop",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "pop_G5.flac",
+    "dur_s": 0.1875,
+    "onset_s": 0.003,
+    "peak_s": 0.0394,
+    "end_s": 0.159,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "ui_pop/soft",
+    "seed": 1,
+    "pitch": "B5",
+    "role": "pop",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "pop_B5.flac",
+    "dur_s": 0.179,
+    "onset_s": 0.003,
+    "peak_s": 0.0307,
+    "end_s": 0.157,
+    "channels": 2
+   }
+  ],
+  "blip": [
+   {
+    "src": "earshot",
+    "id": "ui_pop/blip",
+    "seed": 1,
+    "pitch": "E5",
+    "role": "data",
+    "audit_ok": false,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "blip_E5.flac",
+    "dur_s": 0.1186,
+    "onset_s": 0.006,
+    "peak_s": 0.0152,
+    "end_s": 0.106,
+    "channels": 2
+   },
+   {
+    "src": "earshot",
+    "id": "ui_pop/blip",
+    "seed": 1,
+    "pitch": "B5",
+    "role": "data",
+    "audit_ok": false,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "blip_B5.flac",
+    "dur_s": 0.1365,
+    "onset_s": 0.006,
+    "peak_s": 0.0156,
+    "end_s": 0.116,
+    "channels": 2
+   }
+  ],
+  "flourish": [
+   {
+    "src": "earshot",
+    "id": "mallet/flourish",
+    "seed": 1,
+    "pitch": "E5",
+    "role": "chime",
+    "audit_ok": true,
+    "licence": "MIT (earshot bank, rendered from code)",
+    "file": "flourish_E5.flac",
+    "dur_s": 0.5014,
+    "onset_s": 0.0,
+    "peak_s": 0.0514,
+    "end_s": 0.405,
+    "channels": 2
+   }
+  ],
+  "ui_lock": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "lock",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_lock.flac",
+    "dur_s": 0.2194,
+    "onset_s": 0.0,
+    "peak_s": 0.0047,
+    "end_s": 0.214,
+    "channels": 1
+   }
+  ],
+  "ui_unlock": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "unlock",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_unlock.flac",
+    "dur_s": 0.3198,
+    "onset_s": 0.0,
+    "peak_s": 0.0044,
+    "end_s": 0.314,
+    "channels": 1
+   }
+  ],
+  "ui_select": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "select",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_select.flac",
+    "dur_s": 0.2121,
+    "onset_s": 0.0,
+    "peak_s": 0.0057,
+    "end_s": 0.207,
+    "channels": 1
+   }
+  ],
+  "ui_open": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "open",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_open.flac",
+    "dur_s": 0.249,
+    "onset_s": 0.0,
+    "peak_s": 0.0047,
+    "end_s": 0.243,
+    "channels": 1
+   }
+  ],
+  "ui_expand": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "expand",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_expand.flac",
+    "dur_s": 0.2917,
+    "onset_s": 0.0,
+    "peak_s": 0.0042,
+    "end_s": 0.286,
+    "channels": 1
+   }
+  ],
+  "ui_collapse": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "collapse",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_collapse.flac",
+    "dur_s": 0.2881,
+    "onset_s": 0.0,
+    "peak_s": 0.1722,
+    "end_s": 0.283,
+    "channels": 1
+   }
+  ],
+  "ui_close": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "close",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_close.flac",
+    "dur_s": 0.2241,
+    "onset_s": 0.0,
+    "peak_s": 0.055,
+    "end_s": 0.219,
+    "channels": 1
+   }
+  ],
+  "ui_on": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "toggle-on",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_on.flac",
+    "dur_s": 0.2137,
+    "onset_s": 0.0,
+    "peak_s": 0.0042,
+    "end_s": 0.208,
+    "channels": 1
+   }
+  ],
+  "ui_off": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "toggle-off",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_off.flac",
+    "dur_s": 0.1969,
+    "onset_s": 0.0,
+    "peak_s": 0.0047,
+    "end_s": 0.191,
+    "channels": 1
+   }
+  ],
+  "ui_success": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "success",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_success.flac",
+    "dur_s": 0.4863,
+    "onset_s": 0.0,
+    "peak_s": 0.005,
+    "end_s": 0.481,
+    "channels": 1
+   }
+  ],
+  "ui_complete": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "complete",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_complete.flac",
+    "dur_s": 0.569,
+    "onset_s": 0.0,
+    "peak_s": 0.0052,
+    "end_s": 0.563,
+    "channels": 1
+   }
+  ],
+  "ui_error": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "error",
+    "role": "error",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_error.flac",
+    "dur_s": 0.3934,
+    "onset_s": 0.0,
+    "peak_s": 0.0048,
+    "end_s": 0.388,
+    "channels": 1
+   }
+  ],
+  "ui_warning": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "warning",
+    "role": "error",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_warning.flac",
+    "dur_s": 0.4277,
+    "onset_s": 0.0,
+    "peak_s": 0.0052,
+    "end_s": 0.422,
+    "channels": 1
+   }
+  ],
+  "ui_blocked": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "blocked",
+    "role": "error",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_blocked.flac",
+    "dur_s": 0.2644,
+    "onset_s": 0.0,
+    "peak_s": 0.0055,
+    "end_s": 0.259,
+    "channels": 1
+   }
+  ],
+  "ui_step": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "progress-step",
+    "role": "data",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_step.flac",
+    "dur_s": 0.1773,
+    "onset_s": 0.0,
+    "peak_s": 0.0043,
+    "end_s": 0.172,
+    "channels": 1
+   }
+  ],
+  "ui_connect": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "connect",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_connect.flac",
+    "dur_s": 0.4422,
+    "onset_s": 0.0,
+    "peak_s": 0.0042,
+    "end_s": 0.437,
+    "channels": 1
+   }
+  ],
+  "ui_scan": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "scanning",
+    "role": "scifi",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_scan.flac",
+    "dur_s": 0.8992,
+    "onset_s": 0.001,
+    "peak_s": 0.0064,
+    "end_s": 0.894,
+    "channels": 1
+   }
+  ],
+  "ui_snap": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "snap",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_snap.flac",
+    "dur_s": 0.1348,
+    "onset_s": 0.0,
+    "peak_s": 0.0046,
+    "end_s": 0.129,
+    "channels": 1
+   }
+  ],
+  "ui_notify": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "notification",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_notify.flac",
+    "dur_s": 0.3616,
+    "onset_s": 0.0,
+    "peak_s": 0.0052,
+    "end_s": 0.356,
+    "channels": 1
+   }
+  ],
+  "ui_swipe": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "swipe",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_swipe.flac",
+    "dur_s": 0.2033,
+    "onset_s": 0.006,
+    "peak_s": 0.0113,
+    "end_s": 0.198,
+    "channels": 1
+   }
+  ],
+  "ui_focus": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "focus",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_focus.flac",
+    "dur_s": 0.1434,
+    "onset_s": 0.0,
+    "peak_s": 0.006,
+    "end_s": 0.138,
+    "channels": 1
+   }
+  ],
+  "ui_info": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "info",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_info.flac",
+    "dur_s": 0.3068,
+    "onset_s": 0.0,
+    "peak_s": 0.0057,
+    "end_s": 0.301,
+    "channels": 1
+   }
+  ],
+  "ui_wake": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "wake",
+    "role": "scifi",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_wake.flac",
+    "dur_s": 0.3292,
+    "onset_s": 0.0,
+    "peak_s": 0.0056,
+    "end_s": 0.324,
+    "channels": 1
+   }
+  ],
+  "ui_sleep": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "sleep",
+    "role": "scifi",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_sleep.flac",
+    "dur_s": 0.322,
+    "onset_s": 0.0,
+    "peak_s": 0.0049,
+    "end_s": 0.316,
+    "channels": 1
+   }
+  ],
+  "ui_levelup": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "level-up",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_levelup.flac",
+    "dur_s": 0.6403,
+    "onset_s": 0.0,
+    "peak_s": 0.0042,
+    "end_s": 0.635,
+    "channels": 1
+   }
+  ],
+  "ui_press": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "press",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_press.flac",
+    "dur_s": 0.1254,
+    "onset_s": 0.0,
+    "peak_s": 0.0052,
+    "end_s": 0.12,
+    "channels": 1
+   }
+  ],
+  "ui_start": [
+   {
+    "src": "uisfx",
+    "pack": "scifi",
+    "name": "start",
+    "role": "ui",
+    "licence": "CC0-1.0 (uisfx sounds)",
+    "file": "ui_start.flac",
+    "dur_s": 0.3491,
+    "onset_s": 0.0,
+    "peak_s": 0.0883,
+    "end_s": 0.344,
+    "channels": 1
+   }
+  ]
+ }
+}
