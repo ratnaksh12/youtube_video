@@ -1,0 +1,267 @@
+{
+ "line": "Stop scrolling. Your phone has a hidden AI feature that most people never find, and it takes ten seconds to turn on. Here's how.",
+ "speed": 1.08,
+ "voices": [
+  {
+   "n": 1,
+   "id": "af_alloy",
+   "accent": "American female",
+   "seconds": 7.63,
+   "file": "01_af_alloy.mp3",
+   "pitch_hz": 146,
+   "wpm": 204
+  },
+  {
+   "n": 2,
+   "id": "af_aoede",
+   "accent": "American female",
+   "seconds": 8.46,
+   "file": "02_af_aoede.mp3",
+   "pitch_hz": 173,
+   "wpm": 184
+  },
+  {
+   "n": 3,
+   "id": "af_bella",
+   "accent": "American female",
+   "seconds": 9.32,
+   "file": "03_af_bella.mp3",
+   "pitch_hz": 206,
+   "wpm": 167
+  },
+  {
+   "n": 4,
+   "id": "af_heart",
+   "accent": "American female",
+   "seconds": 8.88,
+   "file": "04_af_heart.mp3",
+   "pitch_hz": 201,
+   "wpm": 176
+  },
+  {
+   "n": 5,
+   "id": "af_jessica",
+   "accent": "American female",
+   "seconds": 7.2,
+   "file": "05_af_jessica.mp3",
+   "pitch_hz": 204,
+   "wpm": 217
+  },
+  {
+   "n": 6,
+   "id": "af_kore",
+   "accent": "American female",
+   "seconds": 8.57,
+   "file": "06_af_kore.mp3",
+   "pitch_hz": 144,
+   "wpm": 182
+  },
+  {
+   "n": 7,
+   "id": "af_nicole",
+   "accent": "American female",
+   "seconds": 13.64,
+   "file": "07_af_nicole.mp3",
+   "pitch_hz": 161,
+   "wpm": 114
+  },
+  {
+   "n": 8,
+   "id": "af_nova",
+   "accent": "American female",
+   "seconds": 7.49,
+   "file": "08_af_nova.mp3",
+   "pitch_hz": 157,
+   "wpm": 208
+  },
+  {
+   "n": 9,
+   "id": "af_river",
+   "accent": "American female",
+   "seconds": 7.32,
+   "file": "09_af_river.mp3",
+   "pitch_hz": 173,
+   "wpm": 213
+  },
+  {
+   "n": 10,
+   "id": "af_sarah",
+   "accent": "American female",
+   "seconds": 8.35,
+   "file": "10_af_sarah.mp3",
+   "pitch_hz": 197,
+   "wpm": 187
+  },
+  {
+   "n": 11,
+   "id": "af_sky",
+   "accent": "American female",
+   "seconds": 8.32,
+   "file": "11_af_sky.mp3",
+   "pitch_hz": 152,
+   "wpm": 188
+  },
+  {
+   "n": 12,
+   "id": "am_adam",
+   "accent": "American male",
+   "seconds": 8.01,
+   "file": "12_am_adam.mp3",
+   "pitch_hz": 113,
+   "wpm": 195
+  },
+  {
+   "n": 13,
+   "id": "am_echo",
+   "accent": "American male",
+   "seconds": 7.92,
+   "file": "13_am_echo.mp3",
+   "pitch_hz": 107,
+   "wpm": 197
+  },
+  {
+   "n": 14,
+   "id": "am_eric",
+   "accent": "American male",
+   "seconds": 7.15,
+   "file": "14_am_eric.mp3",
+   "pitch_hz": 154,
+   "wpm": 218
+  },
+  {
+   "n": 15,
+   "id": "am_fenrir",
+   "accent": "American male",
+   "seconds": 8.86,
+   "file": "15_am_fenrir.mp3",
+   "pitch_hz": 131,
+   "wpm": 176
+  },
+  {
+   "n": 16,
+   "id": "am_liam",
+   "accent": "American male",
+   "seconds": 7.44,
+   "file": "16_am_liam.mp3",
+   "pitch_hz": 127,
+   "wpm": 210
+  },
+  {
+   "n": 17,
+   "id": "am_michael",
+   "accent": "American male",
+   "seconds": 9.81,
+   "file": "17_am_michael.mp3",
+   "pitch_hz": 115,
+   "wpm": 159
+  },
+  {
+   "n": 18,
+   "id": "am_onyx",
+   "accent": "American male",
+   "seconds": 7.7,
+   "file": "18_am_onyx.mp3",
+   "pitch_hz": 86,
+   "wpm": 203
+  },
+  {
+   "n": 19,
+   "id": "am_puck",
+   "accent": "American male",
+   "seconds": 8.44,
+   "file": "19_am_puck.mp3",
+   "pitch_hz": 105,
+   "wpm": 185
+  },
+  {
+   "n": 20,
+   "id": "am_santa",
+   "accent": "American male",
+   "seconds": 9.34,
+   "file": "20_am_santa.mp3",
+   "pitch_hz": 140,
+   "wpm": 167
+  },
+  {
+   "n": 21,
+   "id": "bf_alice",
+   "accent": "British female",
+   "seconds": 8.55,
+   "file": "21_bf_alice.mp3",
+   "pitch_hz": 212,
+   "wpm": 182
+  },
+  {
+   "n": 22,
+   "id": "bf_emma",
+   "accent": "British female",
+   "seconds": 8.1,
+   "file": "22_bf_emma.mp3",
+   "pitch_hz": 179,
+   "wpm": 193
+  },
+  {
+   "n": 23,
+   "id": "bf_isabella",
+   "accent": "British female",
+   "seconds": 8.24,
+   "file": "23_bf_isabella.mp3",
+   "pitch_hz": 200,
+   "wpm": 189
+  },
+  {
+   "n": 24,
+   "id": "bf_lily",
+   "accent": "British female",
+   "seconds": 8.22,
+   "file": "24_bf_lily.mp3",
+   "pitch_hz": 198,
+   "wpm": 190
+  },
+  {
+   "n": 25,
+   "id": "bm_daniel",
+   "accent": "British male",
+   "seconds": 7.95,
+   "file": "25_bm_daniel.mp3",
+   "pitch_hz": 122,
+   "wpm": 196
+  },
+  {
+   "n": 26,
+   "id": "bm_fable",
+   "accent": "British male",
+   "seconds": 8.04,
+   "file": "26_bm_fable.mp3",
+   "pitch_hz": 116,
+   "wpm": 194
+  },
+  {
+   "n": 27,
+   "id": "bm_george",
+   "accent": "British male",
+   "seconds": 9.64,
+   "file": "27_bm_george.mp3",
+   "pitch_hz": 136,
+   "wpm": 162
+  },
+  {
+   "n": 28,
+   "id": "bm_lewis",
+   "accent": "British male",
+   "seconds": 9.44,
+   "file": "28_bm_lewis.mp3",
+   "pitch_hz": 85,
+   "wpm": 165
+  },
+  {
+   "n": 29,
+   "id": "blend_michael_onyx",
+   "accent": "American male (your current channel voice: 65% michael + 35% onyx)",
+   "seconds": 9.32,
+   "file": "29_blend_michael_onyx.mp3",
+   "pitch_hz": 104,
+   "wpm": 167
+  }
+ ]
+}
