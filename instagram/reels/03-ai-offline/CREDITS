@@ -1,0 +1,12 @@
+Reel 03 — "OpenAI's AI snuck online through a DNS loophole" — credits for third-party material
+
+Voice      Kokoro TTS v1.0 (hexgrad/Kokoro-82M via thewh1teagle/kokoro-onnx), voice am_michael. Apache License 2.0.
+Fonts      Rajdhani, Share Tech Mono: SIL Open Font License 1.1 (kit/fonts/OFL-*.txt)
+Code       kit/engine/holo.js, kit/engine/hud.js, kit/models/mkmodel.mjs: from Lemo-Opuscar (github.com/lemomo-ai/lemo-opuscar),
+           MIT License, Copyright (c) 2026 LemoLab (kit/engine/LICENSE-lemo-opuscar)
+Sound FX   earshot sound bank (github.com/Leonxlnx/earshot), MIT: effects rendered from its code (kit/audio/sfx)
+           uisfx sci-fi pack (github.com/romainsimon/uisfx, shipped with Clipwing's real-sfx skill), CC0 1.0: kit/audio/sfx/ui_*.flac
+           Placement and levels follow Clipwing's real-sfx skill (MIT) and earshot's launch kit.
+Subject    OpenAI and Anthropic are named and their published reports are quoted and summarised (see FACTS.md). No logos, product UI or
+           artwork of either company is used.
+Music, picture, the remaining effects (draws): original, synthesised and drawn in code for this film. The box, globe and website name are fictional.

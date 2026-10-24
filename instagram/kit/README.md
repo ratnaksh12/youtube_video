@@ -5,7 +5,7 @@ Shared parts for every Reel: 1080×1920, 24 fps, the Hologram HUD look (violet l
 | Path | What it is |
 |---|---|
 | `engine/holo.js`, `engine/hud.js`, `models/mkmodel.mjs` | wireframe engine, HUD parts and model builder from Lemo-Opuscar (MIT, see `LICENSE-lemo-opuscar`) |
-| `ui.js` | the account's HUD layer: theme, chrome, cards, big rolling values, rail chips, captions (2-row chunks, spoken word lit), the comment-to-DM call to action, text on a 3D plane, whip blur |
+| `ui.js` | the account's HUD layer: theme, chrome, cards, big rolling values, rail chips, captions (2-row chunks, spoken word lit), the comment-to-DM call to action, a comment-your-answer poll (news reels), text on a 3D plane, whip blur |
 | `fonts/` | Rajdhani + Share Tech Mono (OFL) |
 | `tools/voice.py` | voices `script.json` with Kokoro |
 | `tools/timeline.py` | places the lines on the 120 BPM grid, estimates word times → `timeline.json` |

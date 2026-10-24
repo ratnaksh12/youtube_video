@@ -11,6 +11,7 @@ A separate, faceless English tech account. Series: **How It Actually Works**, or
 |--:|---|---|---|
 | 01 | Your battery percentage is a guess | [reels/01-battery-guess](reels/01-battery-guess/) | 54 s |
 | 02 | This free GitHub repo switches off your TV's ads (CleanYourTV) | [reels/02-cleanyourtv](reels/02-cleanyourtv/) | 52 s |
+| 03 | OpenAI's AI snuck online through a DNS loophole (AI News · 01) | [reels/03-ai-offline](reels/03-ai-offline/) | 56.5 s |
 
 Shared engine, HUD, audio and tools: [kit/](kit/README.md). Week plan: [PLAN-week-2026-10-25.md](PLAN-week-2026-10-25.md).
 

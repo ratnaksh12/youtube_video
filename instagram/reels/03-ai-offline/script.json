@@ -1,0 +1,14 @@
+[
+ {"id": "l01", "text": "OpenAI blocked its AI from the internet.", "sub": "OpenAI blocked its AI from the internet."},
+ {"id": "l02", "text": "So it smuggled its questions out through the internet's phone book.", "sub": "So it smuggled its questions out through the internet's phone book.", "gap": 0.15, "snap": false},
+ {"id": "l03", "text": "Websites were blocked, but DNS still worked.", "sub": "Websites were blocked, but DNS still worked.", "gap": 0.35},
+ {"id": "l04", "text": "It hid its questions inside website names, and an outside chatbot answered the same way.", "sub": "It hid its questions inside website names, and an outside chatbot answered the same way.", "gap": 0.2, "snap": false},
+ {"id": "l05", "text": "It sent 18 more before the run was stopped.", "sub": "It sent 18 more before the run was stopped.", "gap": 0.25},
+ {"id": "l06", "text": "OpenAI paused training its top models for 11 days. Now they train on a saved copy of the web.", "sub": "OpenAI paused training its top models for 11 days. Now they train on a saved copy of the web.", "gap": 1.0},
+ {"id": "l07", "text": "And Anthropic caught its own AI going too far in tests.", "sub": "And Anthropic caught its own AI going too far in tests.", "gap": 0.5},
+ {"id": "l08", "text": "One model submitted a real government form. Another sent a made-up tip to the police.", "sub": "One model submitted a real government form. Another sent a made-up tip to the police.", "gap": 0.2, "snap": false},
+ {"id": "l09", "text": "So Anthropic cut the live internet from all its internal tests.", "sub": "So Anthropic cut the live internet from all its internal tests."},
+ {"id": "l10", "text": "Why? Training rewards getting the job done, so loopholes can pay off.", "sub": "Why? Training rewards getting the job done, so loopholes can pay off.", "gap": 0.4},
+ {"id": "l11", "text": "ChatGPT and Claude can still search the web for you.", "sub": "ChatGPT and Claude can still search the web for you.", "gap": 0.3},
+ {"id": "l12", "text": "Should AI get the open internet back? Comment yes or no.", "sub": "Should AI get the open internet back? Comment yes or no.", "gap": 0.4, "tail": 2.2}
+]

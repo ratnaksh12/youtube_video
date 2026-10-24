@@ -179,6 +179,22 @@ export function ctaCard(ctx, t, t0, keyword, frame, a) {
   if (dk > 0) label(ctx, U.rollText('→  THE LINK GOES TO YOUR DMs', dk, frame, 75), W / 2, y + 80, a, { align: 'center', mono: true, size: 30 });
 }
 
+// the comment-a-vote call to action (news reels): a two-line question, two answers that light as they are spoken, a follow line
+export function pollCard(ctx, t, t0, q, opts, at, frame, a, foot = 'FOLLOW FOR DAILY AI NEWS') {
+  if (a <= 0 || t < t0) return;
+  const k = seg(t, t0, t0 + 0.4), y = 700;
+  U.plate(ctx, T, 110, y - 40, 860 * eo(k * 1.3), 560, a);
+  q.forEach((s, i) => label(ctx, U.rollText(s, clamp(k * 1.5 - i * 0.2), frame, 81 + i), W / 2, y + 40 + i * 58, a, { align: 'center', size: 48, track: 4, color: T.hi }));
+  opts.forEach((s, i) => {
+    const x = W / 2 + (i ? 210 : -210), on = t >= at[i] - 0.05, rk = seg(t, at[i] - 0.05, at[i] + 0.3);
+    U.plate(ctx, T, x - 170, y + 150, 340, 190, a * (on ? 1 : 0.5));
+    if (rk > 0) bigValue(ctx, s, x, y + 290, 140, a, { roll: rk, frame, seed: 91 + i, flash: t > at[i] + 0.3 && t < at[i] + 0.4, track: 6, weight: 500 });
+  });
+  const dk = seg(t, t0 + 1.2, t0 + 1.6);                   // early enough to be read before the reel loops
+  if (dk > 0) label(ctx, U.rollText('↓  COMMENT YOUR ANSWER', dk, frame, 95), W / 2, y + 410, a, { align: 'center', mono: true, size: 30 });
+  if (dk > 0 && foot) label(ctx, U.rollText(foot, seg(t, t0 + 1.6, t0 + 2.0), frame, 97), W / 2, y + 470, a, { align: 'center', size: 30, track: 8, color: T.dim });
+}
+
 // ---------------------------------------------------------------- screen-space helpers
 // project a point on a flat rectangle in the model (origin o, axes u and v in world units) and draw text on it with an affine fit
 export function planeMapper(proj, o, u, v) {

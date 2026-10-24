@@ -1,0 +1,5 @@
+# regenerable intermediates (build.sh makes them again)
+out/
+stills/
+voice/*.wav
+music/score.wav

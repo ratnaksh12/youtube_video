@@ -1,0 +1,91 @@
+1
+00:00:00,200 --> 00:00:03,000
+OpenAI blocked its AI from the internet.
+
+2
+00:00:03,050 --> 00:00:05,102
+So it smuggled its questions out through
+
+3
+00:00:05,102 --> 00:00:06,850
+the internet's phone book.
+
+4
+00:00:06,900 --> 00:00:09,650
+Websites were blocked, but DNS still worked.
+
+5
+00:00:09,700 --> 00:00:12,610
+It hid its questions inside website names,
+
+6
+00:00:12,610 --> 00:00:15,850
+and an outside chatbot answered the same way.
+
+7
+00:00:15,900 --> 00:00:19,158
+It sent 18 more before the run was stopped.
+
+8
+00:00:19,900 --> 00:00:22,398
+OpenAI paused training its top models
+
+9
+00:00:22,398 --> 00:00:23,530
+for 11 days.
+
+10
+00:00:23,530 --> 00:00:27,300
+Now they train on a saved copy of the web.
+
+11
+00:00:27,400 --> 00:00:30,057
+And Anthropic caught its own AI going too
+
+12
+00:00:30,057 --> 00:00:31,036
+far in tests.
+
+13
+00:00:31,086 --> 00:00:34,186
+One model submitted a real government form.
+
+14
+00:00:34,186 --> 00:00:36,850
+Another sent a made-up tip to the police.
+
+15
+00:00:36,900 --> 00:00:39,715
+So Anthropic cut the live internet from all
+
+16
+00:00:39,715 --> 00:00:41,350
+its internal tests.
+
+17
+00:00:41,400 --> 00:00:41,890
+Why?
+
+18
+00:00:41,890 --> 00:00:44,100
+Training rewards getting the job done,
+
+19
+00:00:44,100 --> 00:00:46,318
+so loopholes can pay off.
+
+20
+00:00:46,400 --> 00:00:48,802
+ChatGPT and Claude can still search the
+
+21
+00:00:48,802 --> 00:00:50,350
+web for you.
+
+22
+00:00:50,400 --> 00:00:52,796
+Should AI get the open internet back?
+
+23
+00:00:52,796 --> 00:00:54,745
+Comment yes or no.
