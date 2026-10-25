@@ -1,0 +1,6 @@
+{
+ "sections": [[0, "intro"], ["l03", "groove"], ["l06", "claps"], ["l08", "tense"], ["l09", "turn"], ["ev:ignite", "drop"], ["l11", "groove"]],
+ "drop": "ev:ignite",
+ "final": "ev:confirm.final",
+ "risers": [["l08", "l09"]]
+}

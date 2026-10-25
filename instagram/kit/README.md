@@ -13,6 +13,7 @@ Shared parts for every Reel: 1080×1920, 24 fps, the Hologram HUD look (violet l
 | `audio/mix.py` | voice + score + sound effects + ambience, ducked, ready for mastering (`--synth` = the old all-synthesised effects) |
 | `audio/foley.py` | places real sound effects on the reel's `events.json` by measured rules: timing against the cut, level per kind, quieter and high-passed when on speech, tonal sounds in E minor |
 | `audio/sfx/` | the effect library (53 sounds, 69 takes): earshot's bank rendered from code (MIT) + uisfx sci-fi UI recordings (CC0). Built by `audio/sfxlib.py`; committed, so mixing needs neither |
+| `pixelroom/` | the Pixel Room look: `room.js` (the set, BIT the mascot with face states, a live monitor, renderer + depth of field + bloom), `props.js` (word blocks, growing bars, a cube cloud, a thermometer), `captions.js` (kinetic word-by-word captions); `vendor/` is Lemo-Opuscar's HD-2D pixel tools (MIT). Pages need the importmap for three (see `reels/04-chatgpt-tokens/index.html`) |
 | `tools/master.sh` | two-pass loudnorm to −14 LUFS + H.264 |
 | `tools/subs.mjs`, `tools/cover.py` | `.srt` export and the cover (frame + two-line title) |
 

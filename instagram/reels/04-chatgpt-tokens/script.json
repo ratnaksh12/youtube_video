@@ -1,0 +1,14 @@
+[
+ {"id": "l01", "text": "ChatGPT doesn't know what it's going to say.", "sub": "ChatGPT doesn't know what it's going to say."},
+ {"id": "l02", "text": "It guesses. One word at a time.", "sub": "It guesses. One word at a time.", "gap": 0.2, "snap": false},
+ {"id": "l03", "text": "Well, not even words. Tokens.", "sub": "Well, not even words. Tokens.", "gap": 0.3},
+ {"id": "l04", "text": "Your message is chopped into tokens, about three quarters of a word each.", "sub": "Your message is chopped into tokens, about three quarters of a word each.", "gap": 0.2, "snap": false},
+ {"id": "l05", "text": "Then it scores every token it knows, and asks one question: what comes next?", "sub": "Then it scores every token it knows, and asks one question: what comes next?"},
+ {"id": "l06", "text": "The cat sat on the... mat? 60 percent. Floor? 10. Moon? Almost zero.", "sub": "The cat sat on the… mat? 60%. Floor? 10%. Moon? Almost zero.", "gap": 0.4},
+ {"id": "l07", "text": "It picks one, adds it to the sentence, and does it all again.", "sub": "It picks one, adds it to the sentence, and does it all again.", "gap": 0.3},
+ {"id": "l08", "text": "For every single token. Hundreds of times per answer.", "sub": "For every single token. Hundreds of times per answer.", "gap": 0.2, "snap": false},
+ {"id": "l09", "text": "Here's the part nobody tells you. It doesn't always pick the top one.", "sub": "Here's the part nobody tells you. It doesn't always pick the top one.", "gap": 0.6},
+ {"id": "l10", "text": "A setting called temperature adds a little randomness, so it doesn't sound like a robot.", "sub": "A setting called temperature adds a little randomness, so it doesn't sound like a robot.", "gap": 0.3},
+ {"id": "l11", "text": "That's why the same question can get a different answer every time.", "sub": "That's why the same question can get a different answer every time.", "gap": 0.3},
+ {"id": "l12", "text": "Comment token, and I'll send you a free tool that shows how ChatGPT splits your words.", "sub": "Comment TOKEN, and I'll send you a free tool that shows how ChatGPT splits your words.", "gap": 0.5, "tail": 2.4}
+]

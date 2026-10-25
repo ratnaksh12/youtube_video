@@ -1,0 +1,11 @@
+Reel 04 — "How ChatGPT writes a sentence" — credits for third-party material
+
+Voice      Kokoro TTS v1.0 (hexgrad/Kokoro-82M via thewh1teagle/kokoro-onnx), voice am_michael. Apache License 2.0.
+Fonts      Montserrat, Anton, Caveat: SIL Open Font License 1.1 (kit/fonts/OFL-*.txt)
+Code       kit/pixelroom/vendor (pixel textures, sprite billboards, depth-of-field + bloom post): from Lemo-Opuscar's HD-2D style
+           (github.com/lemomo-ai/lemo-opuscar), MIT License, Copyright (c) 2026 LemoLab (kit/pixelroom/vendor/LICENSE-lemo-opuscar).
+           three.js (MIT), served from the Lemo-Opuscar library's node_modules.
+Sound FX   earshot sound bank (github.com/Leonxlnx/earshot), MIT; uisfx sci-fi pack (github.com/romainsimon/uisfx), CC0 1.0 (kit/audio/sfx)
+Look       The Pixel Room grammar was studied from a reference reel the account owner shared; none of its characters, art, words or music are used.
+Subject    ChatGPT and OpenAI are named; no logos or product UI are used. The tokenizer screen and the percentages are illustrations.
+Music, BIT, the room and all picture: original, synthesised and drawn in code for this film.

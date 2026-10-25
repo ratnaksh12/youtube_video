@@ -1,0 +1,74 @@
+[
+ {
+  "id": "l01",
+  "text": "ChatGPT doesn't know what it's going to say.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l02",
+  "text": "It guesses. One word at a time.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l03",
+  "text": "Well, not even words. Tokens.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l04",
+  "text": "Your message is chopped into tokens, about three quarters of a word each.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l05",
+  "text": "Then it scores every token it knows, and asks one question: what comes next?",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l06",
+  "text": "The cat sat on the... mat? 60 percent. Floor? 10. Moon? Almost zero.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l07",
+  "text": "It picks one, adds it to the sentence, and does it all again.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l08",
+  "text": "For every single token. Hundreds of times per answer.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l09",
+  "text": "Here's the part nobody tells you. It doesn't always pick the top one.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l10",
+  "text": "A setting called temperature adds a little randomness, so it doesn't sound like a robot.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l11",
+  "text": "That's why the same question can get a different answer every time.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l12",
+  "text": "Comment token, and I'll send you a free tool that shows how ChatGPT splits your words.",
+  "voice": "am_michael",
+  "speed": 1.1
+ }
+]
