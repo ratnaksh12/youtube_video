@@ -1,0 +1,14 @@
+[
+ {
+  "id": "l01",
+  "text": "ChatGPT doesn't know what it's going to say.",
+  "voice": "am_michael",
+  "speed": 1.1
+ },
+ {
+  "id": "l02",
+  "text": "It guesses. One word at a time.",
+  "voice": "am_michael",
+  "speed": 1.1
+ }
+]

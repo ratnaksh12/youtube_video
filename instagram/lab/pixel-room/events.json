@@ -1,0 +1,1 @@
+{"dur":7,"ev":[{"t":0,"type":"scramble","t1":0.3},{"t":0.941,"type":"lock","first":true},{"t":2.812,"type":"confirm"},{"t":3.25,"type":"whip"},{"t":4.27,"type":"dock"},{"t":4.464,"type":"pulse","dir":1},{"t":4.658,"type":"pulse","dir":1},{"t":4.853,"type":"pulse","dir":1},{"t":5.047,"type":"pulse","dir":1},{"t":5.347,"type":"confirm","final":true}]}
