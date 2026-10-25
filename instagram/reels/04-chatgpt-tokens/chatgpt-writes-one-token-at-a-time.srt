@@ -1,0 +1,107 @@
+1
+00:00:00,200 --> 00:00:02,071
+ChatGPT doesn't know what it's
+
+2
+00:00:02,071 --> 00:00:03,182
+going to say.
+
+3
+00:00:03,232 --> 00:00:04,002
+It guesses.
+
+4
+00:00:04,002 --> 00:00:05,350
+One word at a time.
+
+5
+00:00:05,400 --> 00:00:07,220
+Well, not even words.
+
+6
+00:00:07,220 --> 00:00:07,548
+Tokens.
+
+7
+00:00:07,598 --> 00:00:09,888
+Your message is chopped into tokens,
+
+8
+00:00:09,888 --> 00:00:12,350
+about three quarters of a word each.
+
+9
+00:00:12,400 --> 00:00:14,836
+Then it scores every token it knows,
+
+10
+00:00:14,836 --> 00:00:17,350
+and asks one question: what comes next?
+
+11
+00:00:17,400 --> 00:00:19,298
+The cat sat on the… mat?
+
+12
+00:00:19,298 --> 00:00:21,313
+60%. Floor? 10%. Moon?
+
+13
+00:00:21,313 --> 00:00:22,350
+Almost zero.
+
+14
+00:00:22,400 --> 00:00:24,493
+It picks one, adds it to the sentence,
+
+15
+00:00:24,493 --> 00:00:25,662
+and does it all again.
+
+16
+00:00:25,712 --> 00:00:27,352
+For every single token.
+
+17
+00:00:27,352 --> 00:00:29,728
+Hundreds of times per answer.
+
+18
+00:00:29,900 --> 00:00:32,150
+Here's the part nobody tells you.
+
+19
+00:00:32,150 --> 00:00:34,350
+It doesn't always pick the top one.
+
+20
+00:00:34,400 --> 00:00:36,337
+A setting called temperature adds a
+
+21
+00:00:36,337 --> 00:00:37,520
+little randomness,
+
+22
+00:00:37,520 --> 00:00:39,850
+so it doesn't sound like a robot.
+
+23
+00:00:39,900 --> 00:00:41,792
+That's why the same question can get a
+
+24
+00:00:41,792 --> 00:00:44,179
+different answer every time.
+
+25
+00:00:44,400 --> 00:00:45,620
+Comment TOKEN,
+
+26
+00:00:45,620 --> 00:00:48,278
+and I'll send you a free tool that shows
+
+27
+00:00:48,278 --> 00:00:50,625
+how ChatGPT splits your words.
